@@ -1,0 +1,192 @@
+2016-04-12 14:42:24		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:43:08		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:43:10	=!=	Error: option "irc.server.freenode.autoconnect" not found
+2016-04-12 14:43:27	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2016-04-12 14:43:38	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2016-04-12 14:44:28		irc: server freenode added
+2016-04-12 14:44:44		Option changed: irc.server.freenode.autoconnect = on  (default if null: off)
+2016-04-12 14:45:20		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:46:46		Option changed: irc.server.freenode.nicks = "oconnorct1"  (default if null: "connor,connor1,connor2,connor3,connor4")
+2016-04-12 14:46:57		Option changed: irc.server.freenode.sasl_password = "brandNew1"  (default if null: "")
+2016-04-12 14:47:09		Option changed: irc.server.freenode.sasl_username = "oconnorct1991"  (default if null: "")
+2016-04-12 14:47:16		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:47:38		Option changed: irc.server.freenode.autojoin = "#algorithms #node.js"  (default if null: "")
+2016-04-12 14:47:49		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:48:37	=!=	Error: unknown command "/1" (type /help for help)
+2016-04-12 14:50:34		Option changed: weechat.network.gnutls_ca_file = "~/.weechat/certs/ca-bundle.crt"  (default: "/etc/ssl/certs/ca-certificates.crt")
+2016-04-12 14:51:15		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:51:20		Option changed: irc.server.freenode.ssl = on  (default if null: off)
+2016-04-12 14:51:27		Option changed: irc.server.freenode.ssl_dhkey_size = 1024  (default if null: 2048)
+2016-04-12 14:51:39		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:52:28		script: downloading list of scripts...
+2016-04-12 14:52:29		script: 307 scripts for WeeChat 1.4
+2016-04-12 14:52:30		perl: loading script "/Users/connor/.weechat/perl/buffers.pl"
+2016-04-12 14:52:30		perl: registered script "buffers", version 5.2 (Sidebar with list of buffers)
+2016-04-12 14:52:30		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-04-12 14:52:30		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-04-12 14:52:30		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2016-04-12 14:52:30		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2016-04-12 14:52:39		script: autoload enabled for script "buffers.pl"
+2016-04-12 14:52:52		perl: loading script "/Users/connor/.weechat/perl/iset.pl"
+2016-04-12 14:52:52		perl: registered script "iset", version 4.1 (Interactive Set for configuration options)
+2016-04-12 14:52:52		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2016-04-12 14:52:52		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2016-04-12 14:52:52		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2016-04-12 14:52:52		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2016-04-12 14:52:59		script: autoload enabled for script "iset.pl"
+2016-04-12 14:54:05		python: loading script "/Users/connor/.weechat/python/urlgrab.py"
+2016-04-12 14:54:05		python: registered script "urlgrab", version 2.8 (Url functionality Loggin, opening of browser, selectable links)
+2016-04-12 14:54:16		script: autoload enabled for script "urlgrab.py"
+2016-04-12 14:54:26		python: loading script "/Users/connor/.weechat/python/colorize_nicks.py"
+2016-04-12 14:54:26		python: registered script "colorize_nicks", version 21 (Use the weechat nick colors in the chat area)
+2016-04-12 14:54:32		script: autoload enabled for script "colorize_nicks.py"
+2016-04-12 14:54:45		Option changed: weechat.bar.title.color_bg = black  (default: blue)
+2016-04-12 14:54:50		Option changed: weechat.bar.status.color_bg = black  (default: blue)
+2016-04-12 14:55:04		Filter "irc_smart" added:
+2016-04-12 14:55:04		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2016-04-12 14:56:32		Option changed: irc.server.freenode.autojoin = "#weechat"  (default if null: "")
+2016-04-12 14:56:36		python: scripts unloaded
+2016-04-12 14:56:36		perl: scripts unloaded
+2016-04-12 14:56:37		perl scripts loaded: buffers, iset
+2016-04-12 14:56:37		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 14:56:37		script: 307 scripts for WeeChat 1.4
+2016-04-12 14:56:37		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:57:05		Option changed: irc.server.freenode.autojoin = "#node.js #algorithms #weechat"  (default if null: "")
+2016-04-12 14:57:07		python: scripts unloaded
+2016-04-12 14:57:07		perl: scripts unloaded
+2016-04-12 14:57:08		perl scripts loaded: buffers, iset
+2016-04-12 14:57:08		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 14:57:08		script: 307 scripts for WeeChat 1.4
+2016-04-12 14:57:08		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:57:23		Option changed: irc.server.freenode.autojoin = "#weechat #algorithms #node.js"  (default if null: "")
+2016-04-12 14:57:28		python: scripts unloaded
+2016-04-12 14:57:28		perl: scripts unloaded
+2016-04-12 14:57:29		perl scripts loaded: buffers, iset
+2016-04-12 14:57:29		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 14:57:29		script: 307 scripts for WeeChat 1.4
+2016-04-12 14:57:29		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:57:46		Option changed: irc.server.freenode.autojoin = "node.js"  (default if null: "")
+2016-04-12 14:57:49		python: scripts unloaded
+2016-04-12 14:57:49		perl: scripts unloaded
+2016-04-12 14:57:50		perl scripts loaded: buffers, iset
+2016-04-12 14:57:50		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 14:57:50		script: 307 scripts for WeeChat 1.4
+2016-04-12 14:57:50		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:58:00		Option changed: irc.server.freenode.autojoin = "algorithms"  (default if null: "")
+2016-04-12 14:58:05		python: scripts unloaded
+2016-04-12 14:58:05		perl: scripts unloaded
+2016-04-12 14:58:06		perl scripts loaded: buffers, iset
+2016-04-12 14:58:06		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 14:58:06		script: 307 scripts for WeeChat 1.4
+2016-04-12 14:58:06		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 14:58:10	=!=	Error: unknown command "/1" (type /help for help)
+2016-04-12 15:01:57		Option changed: buffers.color.number = white  (default: lightgreen)
+2016-04-12 15:01:57		Option changed: buffers.look.hotlist_counter = on  (default: off)
+2016-04-12 15:01:57	=!=	Error: option "buffers.name_size_max" not found
+2016-04-12 15:01:57		Option changed: buffers.color.current_bg = default  (default: red)
+2016-04-12 15:01:57		Option changed: buffers.color.current_fg = blue  (default: lightcyan)
+2016-04-12 15:01:57		Option changed: buffers.color.hotlist_message_bg = default
+2016-04-12 15:01:57		Option changed: buffers.color.hotlist_message_fg = yellow
+2016-04-12 15:04:04		Option changed: weechat.look.buffer_time_format = "“%H:%M:%S”"  (default: "%H:%M:%S")
+2016-04-12 15:04:12	=!=	Error: failed to set option "weechat.look.separator_horizontal"
+2016-04-12 15:04:20		Option changed: weechat.bar.nicklist.position = left  (default: right)
+2016-04-12 15:04:32		Option changed: weechat.bar.nicklist.size = 15  (default: 0)
+2016-04-12 15:04:40		Option changed: weechat.color.chat_time = gray  (default: default)
+2016-04-12 15:04:45		Option changed: weechat.bar.status.color_bg = black
+2016-04-12 15:04:56		Option changed: weechat.color.chat_nick_self = *!lightgreen  (default: white)
+2016-04-12 15:05:04		Option changed: weechat.bar.buffers.size = 20  (default: 0)
+2016-04-12 15:05:13		Option changed: weechat.bar.status.hidden = off
+2016-04-12 15:05:21		Option changed: weechat.bar.status.color_bg = darkgray  (default: black)
+2016-04-12 15:05:28		Option changed: weechat.bar.status.items = "“buffer_number+:+buffer_name+{buffer_nicklist_count}+buffer_filter,completion,scroll”"  (default: "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion")
+2016-04-12 15:05:42		Option changed: weechat.bar.input.size = 0  (default: 1)
+2016-04-12 15:05:42		Option changed: weechat.bar.input.size_max = 3  (default: 0)
+2016-04-12 15:06:12		[color] (weechat.conf)
+2016-04-12 15:06:12		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2016-04-12 15:06:12		1 option (matching with "weechat.color.chat_nick_colors")
+2016-04-12 15:06:30		Option changed: weechat.color.chat_nick_colors = "red,green,brown,blue,magenta,cyan,white,lightred,lightgreen,yellow,lightblue,lightmagenta,lightcyan"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2016-04-12 15:06:37		Option changed: irc.server_default.away_check = 5  (default: 0)
+2016-04-12 15:06:42		Option changed: irc.server_default.away_check_max_nicks = 25
+2016-04-12 15:06:50		Option changed: weechat.bar.input.size_max = 3  (default: 0)
+2016-04-12 15:07:01		Option changed: weechat.look.prefix_same_nick = "↪"  (default: "")
+2016-04-12 15:07:14		Option changed: buffers.color.number = white  (default: lightgreen)
+2016-04-12 15:07:14		Option changed: buffers.look.hotlist_counter = on  (default: off)
+2016-04-12 15:07:14	=!=	Error: option "buffers.name_size_max" not found
+2016-04-12 15:07:14		Option changed: buffers.color.current_bg = default  (default: red)
+2016-04-12 15:07:14		Option changed: buffers.color.current_fg = blue  (default: lightcyan)
+2016-04-12 15:07:14		Option changed: buffers.color.hotlist_message_bg = default
+2016-04-12 15:07:14		Option changed: buffers.color.hotlist_message_fg = yellow
+2016-04-12 15:08:40		Option changed: irc.server.freenode.autojoin = "#node.js,#algorithms,#weechat"  (default if null: "")
+2016-04-12 15:12:06		python: scripts unloaded
+2016-04-12 15:12:06		perl: scripts unloaded
+2016-04-12 15:12:09		perl scripts loaded: buffers, iset
+2016-04-12 15:12:09		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 15:12:09		script: 307 scripts for WeeChat 1.4
+2016-04-12 15:12:09		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 15:15:51		Key "meta-b" unbound (context: "default")
+2016-04-12 15:15:51		New key binding (context "default"): meta-b => /bar toggle buffers
+2016-04-12 15:17:22		Option changed: irc.server.freenode.ssl = off  (default if null: off)
+2016-04-12 15:17:27		python: scripts unloaded
+2016-04-12 15:17:27		perl: scripts unloaded
+2016-04-12 15:17:28		perl scripts loaded: buffers, iset
+2016-04-12 15:17:28		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 15:17:28		script: 307 scripts for WeeChat 1.4
+2016-04-12 15:17:28		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 15:18:31		Option changed: irc.server.freenode.autojoin = "#linux"  (default if null: "")
+2016-04-12 15:18:33		python: scripts unloaded
+2016-04-12 15:18:33		perl: scripts unloaded
+2016-04-12 15:18:34		perl scripts loaded: buffers, iset
+2016-04-12 15:18:34		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 15:18:34		script: 307 scripts for WeeChat 1.4
+2016-04-12 15:18:34		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 15:19:11		Option changed: irc.server.freenode.autojoin = "#node.js,#algorithms,#weechat,#linux"  (default if null: "")
+2016-04-12 15:19:14		python: scripts unloaded
+2016-04-12 15:19:14		perl: scripts unloaded
+2016-04-12 15:19:15		perl scripts loaded: buffers, iset
+2016-04-12 15:19:15		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 15:19:15		script: 307 scripts for WeeChat 1.4
+2016-04-12 15:19:15		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 15:20:45		python: scripts unloaded
+2016-04-12 15:20:45		perl: scripts unloaded
+2016-04-12 15:21:58		perl scripts loaded: buffers, iset
+2016-04-12 15:21:58		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 15:21:58		script: 307 scripts for WeeChat 1.4
+2016-04-12 15:21:58		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 15:23:47	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:23:51	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:23:54	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:23:56	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:23:58	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:24:00	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:24:02	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:24:12		python: scripts unloaded
+2016-04-12 15:24:12		perl: scripts unloaded
+2016-04-12 15:24:46		perl scripts loaded: buffers, iset
+2016-04-12 15:24:46		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 15:24:46		script: 307 scripts for WeeChat 1.4
+2016-04-12 15:24:46		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 15:31:29	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 15:33:11		python: scripts unloaded
+2016-04-12 15:33:11		perl: scripts unloaded
+2016-04-12 15:34:35		perl scripts loaded: buffers, iset
+2016-04-12 15:34:35		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 15:34:35		script: 307 scripts for WeeChat 1.4
+2016-04-12 15:34:35		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 15:34:53		python: scripts unloaded
+2016-04-12 15:34:53		perl: scripts unloaded
+2016-04-12 19:29:21		perl scripts loaded: buffers, iset
+2016-04-12 19:29:21		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 19:29:21		script: 307 scripts for WeeChat 1.4
+2016-04-12 19:29:21		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 19:30:48		python: scripts unloaded
+2016-04-12 19:30:48		perl: scripts unloaded
+2016-04-12 19:30:50		perl scripts loaded: buffers, iset
+2016-04-12 19:30:50		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 19:30:50		script: 307 scripts for WeeChat 1.4
+2016-04-12 19:30:50		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-12 19:30:59	=!=	You must confirm /quit command with extra argument "-yes" (see /help quit)
+2016-04-12 19:31:03		python: scripts unloaded
+2016-04-12 19:31:03		perl: scripts unloaded
+2016-04-12 19:37:48		perl scripts loaded: buffers, iset
+2016-04-12 19:37:48		python scripts loaded: colorize_nicks, urlgrab
+2016-04-12 19:37:48		script: 307 scripts for WeeChat 1.4
+2016-04-12 19:37:48		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer

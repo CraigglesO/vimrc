@@ -1,0 +1,236 @@
+2016-04-12 14:47:57	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 14:47:57	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 14:47:57	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 14:47:57	--	Channel #algorithms: 246 nicks (1 op, 0 voices, 245 normals)
+2016-04-12 14:47:57	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 14:49:57	<--	nh_ (nh@beryl6.sockaddr.in) has quit (Ping timeout: 268 seconds)
+2016-04-12 14:50:18	-->	nh_ (nh@beryl6.sockaddr.in) has joined #algorithms
+2016-04-12 14:51:23	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 14:51:23	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 14:51:23	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 14:51:23	--	Channel #algorithms: 246 nicks (1 op, 0 voices, 245 normals)
+2016-04-12 14:51:24	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 14:53:04	=!=	irc: this buffer is not a channel!
+2016-04-12 14:53:23	=!=	irc: this buffer is not a channel!
+2016-04-12 15:17:36	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 15:17:36	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 15:17:36	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 15:17:36	--	Channel #algorithms: 243 nicks (1 op, 0 voices, 242 normals)
+2016-04-12 15:17:38	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 15:19:23	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 15:19:23	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 15:19:23	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 15:19:23	--	Channel #algorithms: 242 nicks (1 op, 0 voices, 241 normals)
+2016-04-12 15:19:25	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 15:22:14	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 15:22:14	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 15:22:14	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 15:22:14	--	Channel #algorithms: 242 nicks (1 op, 0 voices, 241 normals)
+2016-04-12 15:22:17	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 15:23:02	-->	quarterback (~quarterba@unaffiliated/quarterback) has joined #algorithms
+2016-04-12 15:23:10	-->	crayon (~user@unaffiliated/button) has joined #algorithms
+2016-04-12 15:24:55	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 15:24:55	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 15:24:55	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 15:24:55	--	Channel #algorithms: 243 nicks (1 op, 0 voices, 242 normals)
+2016-04-12 15:24:58	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 15:25:24	-->	andreazevedo (~andreazev@199.201.64.2) has joined #algorithms
+2016-04-12 15:28:24	<--	sp1rs (~sp1rs@182.77.31.174) has quit (Remote host closed the connection)
+2016-04-12 15:29:58	-->	laurus (~laurus@unaffiliated/laurus) has joined #algorithms
+2016-04-12 15:30:08	-->	nilsi_ (~nilsi@183.101.241.130) has joined #algorithms
+2016-04-12 15:31:31	laurus	Could anyone explain why in the example at http://picpaste.com/times_executed.png we use the formula C(n + r - 1, r)? I thought that formula is used for situations where we choose r of n distinct objects with repetition. But that doesn't seem to account for the inequality constraint.
+2016-04-12 15:34:43	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 15:34:43	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 15:34:43	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 15:34:43	--	Channel #algorithms: 245 nicks (1 op, 0 voices, 244 normals)
+2016-04-12 15:34:45	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 19:29:30	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 19:29:30	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 19:29:30	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 19:29:30	--	Channel #algorithms: 224 nicks (1 op, 0 voices, 223 normals)
+2016-04-12 19:29:30	<--	Joanna2 (~Joanna345@ip174-67-230-16.oc.oc.cox.net) has quit (Quit: Leaving)
+2016-04-12 19:29:45	oconnorct1	anyone there that can help explain something/
+2016-04-12 19:30:06	oconnorct1	I can't wrap my head around bfs
+2016-04-12 19:30:09	--	irc: disconnected from server
+2016-04-12 19:30:21	=!=	irc: you are not connected to server
+2016-04-12 19:37:57	-->	oconnorct1 (~connor@nc-76-4-9-193.dhcp.embarqhsd.net) has joined #algorithms
+2016-04-12 19:37:57	--	Topic for #algorithms is "Algorithms channel: Discuss algorithms, computer programming contest problems, etc. | Join ##puzzles for puzzles. | Use http://codepad.org/ to share code. | Use http://mathb.in/ to share math. | Don't be sorry for your bad English: http://ostatic.com/blog/more-bad-english-please"
+2016-04-12 19:37:57	--	Topic set by spal (~susam@pdpc/supporter/active/spal) on Sun, 29 Sep 2013 02:30:03
+2016-04-12 19:37:57	--	Channel #algorithms: 221 nicks (1 op, 0 voices, 220 normals)
+2016-04-12 19:37:59	--	Channel created on Fri, 15 Jan 2010 07:06:40
+2016-04-12 19:38:03	oconnorct1	hi, I lost internet
+2016-04-12 19:38:11	oconnorct1	don't know if anyone responded to my question regarding bfs
+2016-04-12 19:38:44	flebron	All we got was "anyone there that can help explain something/", to which I replied "oconnorct1: Just ask your question. No point in asking that."
+2016-04-12 19:39:15	oconnorct1	oh. hahaha. sorry! I want to know how to do breadth first searches
+2016-04-12 19:39:19	-->	crayon (~user@unaffiliated/button) has joined #algorithms
+2016-04-12 19:39:24	oconnorct1	I can't seem to figure it out
+2016-04-12 19:39:24	<--	voice_of_me (~voiceof_m@204.17.143.20) has quit (Ping timeout: 260 seconds)
+2016-04-12 19:40:09	oconnorct1	basically, if I cut a tree into 2 I have a forest. I want to sum them up individually. I am given a list of edges
+2016-04-12 19:40:41	oconnorct1	All my implementations take too long. And I have gotten pretty creative.
+2016-04-12 19:41:24	-->	voice_of_me (~voiceof_m@204.17.143.20) has joined #algorithms
+2016-04-12 19:44:31	flebron	I'm not sure what you are asking for.
+2016-04-12 19:44:45	flebron	Doing a BFS doesn't involve "cutting trees into 2".
+2016-04-12 19:47:16	quarterback	He perhaps meant dividing a dataset
+2016-04-12 19:48:02	flebron	That's a pretty wild guess O.o
+2016-04-12 19:49:27	-->	dunpeal (~dunpeal@unaffiliated/dunpeal) has joined #algorithms
+2016-04-12 19:49:33	<--	crayon (~user@unaffiliated/button) has quit (Ping timeout: 276 seconds)
+2016-04-12 19:49:43	oconnorct1	no
+2016-04-12 19:49:51	oconnorct1	I mean I want to learn a bfs
+2016-04-12 19:50:30	flebron	OK. So your question is purely "How do I do a BFS", and has nothing to do with trees or forest or summing or lists of edges?
+2016-04-12 19:50:43	<--	losjulios (~JD@2601:2c6:4700:6010:bdae:b30b:2e30:ad4b) has quit (Read error: Connection reset by peer)
+2016-04-12 19:50:45	oconnorct1	on top of that, I want to remove an edge at any point in the tree and find all the connected vertexes from node
+2016-04-12 19:50:48	oconnorct1	does that make sense?
+2016-04-12 19:50:54	oconnorct1	BFS is more important to learn right now.
+2016-04-12 19:50:54	flebron	"the tree"?
+2016-04-12 19:50:56	flebron	What tree?
+2016-04-12 19:51:06	oconnorct1	should I show you the problem I am working on?
+2016-04-12 19:51:10	oconnorct1	hold on let me find the link
+2016-04-12 19:51:16	flebron	Sure, because it's not clear what you want as of now.
+2016-04-12 19:51:29	oconnorct1	https://www.hackerrank.com/challenges/cut-the-tree
+2016-04-12 19:51:33	oconnorct1	learning BFS is the most important
+2016-04-12 19:51:42	oconnorct1	because if I understand BFS I can tailor it to my problem
+2016-04-12 19:51:50	realz	wikipedia on bfs
+2016-04-12 19:51:53	oconnorct1	I did
+2016-04-12 19:51:53	realz	is great article
+2016-04-12 19:52:00	oconnorct1	I understand the fundamentals of bfs
+2016-04-12 19:52:10	oconnorct1	I just don't know how to implement properly. And everyones code is so different
+2016-04-12 19:52:23	realz	the recursive variants are dead simple
+2016-04-12 19:52:23	<--	quansai (~textual@65.254.2.50) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 19:52:34	realz	wikipedia lists in-order, pre-order, post-order for all 3
+2016-04-12 19:52:39	oconnorct1	The problem is the dataset is too big for recursion
+2016-04-12 19:52:46	oconnorct1	ah!
+2016-04-12 19:52:49	oconnorct1	ok
+2016-04-12 19:53:03	<--	ghostdog (~american@2a02:587:ac06:3d00:458d:8cac:952f:e183) has quit (Ping timeout: 246 seconds)
+2016-04-12 19:53:04	realz	well if the tree is unbalanced and really deep than yea it might be too big
+2016-04-12 19:53:26	realz	wikipedia has the iterative versions too
+2016-04-12 19:53:31	realz	its obviously more complicated
+2016-04-12 19:53:58	realz	there is also the posibility of iterating with O(1) memory if you have parent pointers which is cool
+2016-04-12 19:53:59	flebron	Recursive BFS isn't really easy.
+2016-04-12 19:54:24	realz	ohh
+2016-04-12 19:54:29	realz	dammit i mixed them up
+2016-04-12 19:54:33	realz	I was talking DFS
+2016-04-12 19:54:34	<--	dunpeal (~dunpeal@unaffiliated/dunpeal) has quit (Ping timeout: 260 seconds)
+2016-04-12 19:54:42	realz	yea with BFS its iterative that is easy
+2016-04-12 19:55:00	oconnorct1	Thats the other thing I don't understand after reading it a million times. I see O(n) O(n^2) and I understand fundamentally what is beign said but I don't understand how to look at code and realize what youre going to get
+2016-04-12 19:55:15	oconnorct1	well I can not do any of the four very well...
+2016-04-12 19:55:22	oconnorct1	but I know that I am dealing with lists rather than matrixes
+2016-04-12 19:55:29	oconnorct1	should I convert my problem to a matrix before solving?
+2016-04-12 19:55:47	oconnorct1	I always thought lists were faster in theoury
+2016-04-12 19:56:11	flebron	oconnorct1: To be honest, you should just read a book.
+2016-04-12 19:56:21	oconnorct1	I currently am.
+2016-04-12 19:56:26	oconnorct1	and I'm starting to get it.
+2016-04-12 19:56:26	flebron	For instance, Introduction to Algorithms.
+2016-04-12 19:56:32	flebron	The first chapters are about asymptotic notation.
+2016-04-12 19:56:43	oconnorct1	I ahve been using The algorithm design manual
+2016-04-12 19:56:51	oconnorct1	ah/ ok
+2016-04-12 19:56:53	flebron	I didn't really like that at all.
+2016-04-12 19:58:22	oconnorct1	ok
+2016-04-12 19:58:29	oconnorct1	I'll switch to ItA
+2016-04-12 19:58:47	oconnorct1	So, do you konw where I can learn about BFS and actually understand it?
+2016-04-12 20:00:18	<--	allen29 (~all@unaffiliated/allen29) has quit (Quit: Leaving)
+2016-04-12 20:00:41	flebron	Sure, that book.
+2016-04-12 20:01:05	flebron	Don't try to understand BFS if you don't first understand basic algorithms like loops, and basic data structures like queues and stacks.
+2016-04-12 20:01:21	oconnorct1	No I do.
+2016-04-12 20:01:24	oconnorct1	I completely do.
+2016-04-12 20:01:45	flebron	Then read that book and see what you know and don't know.
+2016-04-12 20:02:01	oconnorct1	I had to use an 8085 for the longest time in college to do assembly work... and I am very comfortable with queues and stacks
+2016-04-12 20:02:25	oconnorct1	Ok, thanks for your help. I'll move to this book and see if it helps me.
+2016-04-12 20:08:16	-->	yongyung (~vayne@pD9E443A7.dip0.t-ipconnect.de) has joined #algorithms
+2016-04-12 20:10:17	-->	ensyde (~ensyde@2606:a000:64cf:3000:b5de:5aa6:33a1:60ad) has joined #algorithms
+2016-04-12 20:10:47	realz	oconnorct1: listen to flebron, but specifically about the O(n) and O(n^2),
+2016-04-12 20:11:04	realz	the O(n^2) is simply because the maximum number of edges in a graph is O(n^2)
+2016-04-12 20:11:16	realz	and in the worst case BFS on a graph will have to look at every edge
+2016-04-12 20:11:46	realz	"The time complexity can be expressed as O(|V|+|E|)O(|V|+|E|),[5] since every vertex and every edge will be explored in the worst case. |V||V| is the number of vertices and |E||E| is the number of edges in the graph. Note that O(|E|)O(|E|) may vary between O(1)O(1) and O(|V|2)O(|V|2), depending on how sparse the input graph is." (copypaste from wikipedia)
+2016-04-12 20:12:55	<--	Noldorin (~noldorin@unaffiliated/noldorin) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:13:25	oconnorct1	Where do you guys go to practice algos?
+2016-04-12 20:13:28	oconnorct1	GUYS! THanks!
+2016-04-12 20:14:03	<--	a3Dman (~3Dman@unaffiliated/a3dman) has quit (Ping timeout: 246 seconds)
+2016-04-12 20:14:18	oconnorct1	Very clear. And I get it. so technically you are search O(E)O(V) but E is V-1 so it might as well be e^2 worst case.
+2016-04-12 20:14:31	oconnorct1	just ordered the book on amazon
+2016-04-12 20:15:20	flebron	err
+2016-04-12 20:15:31	flebron	realz just copied something poorly from wiki
+2016-04-12 20:15:38	flebron	Wiki doesn't ever say "O(|V|+|E|)O(|V|+|E|)".
+2016-04-12 20:16:19	flebron	The number of steps BFS makes on a graph of n nodes and m edges is, in the RAM model, in O(n + m).
+2016-04-12 20:17:00	oconnorct1	yeah, I always read O(n+m) and I can never seem to replicate it with my personal implementation
+2016-04-12 20:17:03	realz	yea bad copy
+2016-04-12 20:17:54	<--	quarterback (~quarterba@unaffiliated/quarterback) has quit (Ping timeout: 246 seconds)
+2016-04-12 20:17:59	flebron	oconnorct1: Read that book :) But do first read the first chapters, which explain what "O(...)" means.
+2016-04-12 20:18:20	flebron	(The definition of "O(...)" has nothing to do with computers at all, or programs, or algorithms.)
+2016-04-12 20:18:31	-->	allen29 (~all@unaffiliated/allen29) has joined #algorithms
+2016-04-12 20:19:11	oconnorct1	Thanks guys. And yeah, I just see the notation all the time, so I figured it was important to fully understand
+2016-04-12 20:22:06	<--	yongyung (~vayne@pD9E443A7.dip0.t-ipconnect.de) has quit (Read error: Connection reset by peer)
+2016-04-12 20:22:40	-->	a3Dman (~3Dman@unaffiliated/a3dman) has joined #algorithms
+2016-04-12 20:27:14	<--	t0n1c (~t0n1c@5.225.54.162) has quit (Ping timeout: 260 seconds)
+2016-04-12 20:27:23	-->	rkazak (~rkazak@67.170.253.182) has joined #algorithms
+2016-04-12 20:33:21	-->	SwiftMatt (~Objective@132.194.33.23) has joined #algorithms
+2016-04-12 20:34:49	-->	swordonly (~swordonly@unaffiliated/swordonly) has joined #algorithms
+2016-04-12 20:35:27	-->	ounion (~ounion@145.133.96.247) has joined #algorithms
+2016-04-12 20:35:31	<--	swordonly (~swordonly@unaffiliated/swordonly) has quit (Client Quit)
+2016-04-12 20:35:54	-->	swordonly (~swordonly@unaffiliated/swordonly) has joined #algorithms
+2016-04-12 20:37:26	<--	ounion (~ounion@145.133.96.247) has quit (Client Quit)
+2016-04-12 20:38:54	<--	SwiftMatt (~Objective@132.194.33.23) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 20:41:43	<--	discardedes (~user@75.97.112.182.res-cmts.brd4.ptd.net) has quit (Remote host closed the connection)
+2016-04-12 20:47:57	-->	makaveli0227TL (~makaveli0@69.74.59.115) has joined #algorithms
+2016-04-12 20:52:12	<--	makaveli0227TL (~makaveli0@69.74.59.115) has quit (Ping timeout: 246 seconds)
+2016-04-12 20:53:18	-->	Joanna (~Joanna345@ip174-67-230-16.oc.oc.cox.net) has joined #algorithms
+2016-04-12 20:54:18	<--	asgs (~ident@unaffiliated/l0pher) has quit (Ping timeout: 246 seconds)
+2016-04-12 20:56:18	-->	asgs (~ident@unaffiliated/l0pher) has joined #algorithms
+2016-04-12 20:59:08	<--	d42 (~root@89-78-214-50.dynamic.chello.pl) has quit (Read error: Connection reset by peer)
+2016-04-12 21:05:16	-->	quansai (~textual@65.254.2.50) has joined #algorithms
+2016-04-12 21:08:22	-->	Joanna2 (~Joanna345@ip174-67-230-16.oc.oc.cox.net) has joined #algorithms
+2016-04-12 21:10:33	<--	Joanna (~Joanna345@ip174-67-230-16.oc.oc.cox.net) has quit (Remote host closed the connection)
+2016-04-12 21:10:52	-->	d42 (~root@89-78-214-50.dynamic.chello.pl) has joined #algorithms
+2016-04-12 21:21:28	<--	finnpixel (~finnpixel@av-217-129-135-231.netvisao.pt) has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2016-04-12 21:23:28	-->	SwiftMatt (~Objective@132.194.33.23) has joined #algorithms
+2016-04-12 21:25:04	<--	SwiftMatt (~Objective@132.194.33.23) has quit (Client Quit)
+2016-04-12 21:32:14	<--	cyphase (~cyphase@unaffiliated/cyphase) has quit (Read error: Connection reset by peer)
+2016-04-12 21:32:46	-->	Guest30274 (~cyphase@c-50-148-131-137.hsd1.ca.comcast.net) has joined #algorithms
+2016-04-12 21:33:55	<--	voice_of_me (~voiceof_m@204.17.143.20) has quit (Ping timeout: 248 seconds)
+2016-04-12 21:33:57	<--	rockstar_ (~rockstar@cpe-74-67-52-54.nycap.res.rr.com) has quit (Read error: Connection reset by peer)
+2016-04-12 21:34:32	-->	mr_robot_ (~textual@96.247.46.191) has joined #algorithms
+2016-04-12 21:35:36	<--	Guest30274 (~cyphase@c-50-148-131-137.hsd1.ca.comcast.net) has quit (Remote host closed the connection)
+2016-04-12 21:36:00	-->	cyphase (~cyphase@unaffiliated/cyphase) has joined #algorithms
+2016-04-12 21:36:16	-->	fyrril (~fyrril@cpe-98-122-16-231.sc.res.rr.com) has joined #algorithms
+2016-04-12 21:45:14	<--	mr_robot_ (~textual@96.247.46.191) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 21:50:03	<--	kadoban (~mud@unaffiliated/kadoban) has quit (Ping timeout: 240 seconds)
+2016-04-12 21:51:25	-->	dungtn (~dungtn@58.187.195.44) has joined #algorithms
+2016-04-12 21:51:33	<--	h3nnn4n_ (~h3nnn4n@179.183.247.105) has quit (Ping timeout: 240 seconds)
+2016-04-12 21:51:45	-->	h3nnn4n_ (~h3nnn4n@179.183.247.105) has joined #algorithms
+2016-04-12 21:55:50	<--	rkazak (~rkazak@67.170.253.182) has quit (Quit: Sleep.....ing....)
+2016-04-12 22:01:37	<--	haskel (~haskel@203.188.241.206) has quit (Ping timeout: 268 seconds)
+2016-04-12 22:13:51	<--	chachasmooth (~chachasmo@unaffiliated/chachasmooth) has quit (Ping timeout: 276 seconds)
+2016-04-12 22:17:05	-->	chachasmooth (~chachasmo@unaffiliated/chachasmooth) has joined #algorithms
+2016-04-12 22:19:06	-->	Lowl3v3l (~Lowl3v3l@ipservice-092-208-086-160.092.208.pools.vodafone-ip.de) has joined #algorithms
+2016-04-12 22:19:18	<--	madsy (~madsy@fu/coder/madsy) has quit (Quit: leaving)
+2016-04-12 22:20:21	<--	Fr4n (~Fr4n@unaffiliated/fr4n) has quit (Ping timeout: 276 seconds)
+2016-04-12 22:23:47	-->	mr_robot_ (~textual@96.247.46.191) has joined #algorithms
+2016-04-12 22:32:15	<--	Joanna2 (~Joanna345@ip174-67-230-16.oc.oc.cox.net) has quit (Quit: Leaving)
+2016-04-12 22:33:47	<--	mr_robot_ (~textual@96.247.46.191) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-04-12 22:37:33	<--	a3Dman (~3Dman@unaffiliated/a3dman) has quit (Ping timeout: 246 seconds)
+2016-04-12 22:37:55	<--	in2rd (~in2rd@pool-100-16-57-18.bltmmd.fios.verizon.net) has quit (Ping timeout: 248 seconds)
+2016-04-12 22:41:15	-->	a3Dman (~3Dman@unaffiliated/a3dman) has joined #algorithms
+2016-04-12 22:42:08	-->	sanct (~sanct@212.35.67.11) has joined #algorithms
+2016-04-12 22:51:23	<--	X-Scale (~ARM@2001:0:c38c:c38c:0:fba6:a293:eeb3) has quit (Quit:  HydraIRC -> http://www.hydrairc.com <- In tests, 0x09 out of 0x0A l33t h4x0rz prefer it :))
+2016-04-12 22:51:26	-->	in2rd (~in2rd@pool-100-16-57-18.bltmmd.fios.verizon.net) has joined #algorithms
+2016-04-12 22:53:58	-->	Ruman (~Ruman@203.234.230.72) has joined #algorithms
+2016-04-12 23:09:27	-->	smoke_fumus (~smoke_fum@188.35.176.90) has joined #algorithms
+2016-04-12 23:15:16	<--	^v (~v^@c-68-41-215-101.hsd1.mi.comcast.net) has quit (Quit: ZNC - http://znc.in)
+2016-04-12 23:15:46	-->	^v (~v^@c-68-41-215-101.hsd1.mi.comcast.net) has joined #algorithms
+2016-04-12 23:20:51	-->	zamro (~zamro@108-74-162-205.lightspeed.sntcca.sbcglobal.net) has joined #algorithms
+2016-04-12 23:24:21	<--	Lowl3v3l (~Lowl3v3l@ipservice-092-208-086-160.092.208.pools.vodafone-ip.de) has quit (Remote host closed the connection)
+2016-04-12 23:26:30	-->	Lowl3v3l (~Lowl3v3l@ipservice-092-208-086-160.092.208.pools.vodafone-ip.de) has joined #algorithms
+2016-04-12 23:26:45	-->	SwiftMatt (~Objective@130.253.27.223) has joined #algorithms
+2016-04-12 23:31:35	-->	rkazak (~rkazak@67.170.253.182) has joined #algorithms
+2016-04-12 23:34:30	<--	sanct (~sanct@212.35.67.11) has quit (Ping timeout: 260 seconds)
+2016-04-12 23:35:41	-->	sanct (~sanct@212.35.67.11) has joined #algorithms
+2016-04-12 23:36:28	<--	Joanna___ (uid57472@gateway/web/irccloud.com/x-smdmtlublljttewi) has quit (Quit: Connection closed for inactivity)
+2016-04-12 23:44:01	-->	zamro_ (~zamro@c-98-248-144-99.hsd1.ca.comcast.net) has joined #algorithms
+2016-04-12 23:44:35	<--	sanct (~sanct@212.35.67.11) has quit (Ping timeout: 248 seconds)
+2016-04-12 23:44:44	<--	rkazak (~rkazak@67.170.253.182) has quit (Quit: Sleep.....ing....)
+2016-04-12 23:45:30	-->	sanct (~sanct@212.35.67.11) has joined #algorithms
+2016-04-12 23:47:49	<--	centrinia (~centrinia@107-208-218-105.lightspeed.tukrga.sbcglobal.net) has quit (Quit: Leaving)
+2016-04-12 23:48:45	<--	zamro (~zamro@108-74-162-205.lightspeed.sntcca.sbcglobal.net) has quit (Ping timeout: 276 seconds)
+2016-04-12 23:49:33	-->	rkazak (~rkazak@67.170.253.182) has joined #algorithms
+2016-04-12 23:53:51	<--	profess (~profess@unaffiliated/csddesk) has quit (Ping timeout: 264 seconds)
+2016-04-12 23:56:28	-->	profess (~profess@unaffiliated/csddesk) has joined #algorithms
+2016-04-12 23:56:39	<--	a3Dman (~3Dman@unaffiliated/a3dman) has quit (Ping timeout: 246 seconds)

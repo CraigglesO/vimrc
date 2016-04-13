@@ -1,0 +1,1 @@
+/Users/connor/.vim/janus/vim/vimrc

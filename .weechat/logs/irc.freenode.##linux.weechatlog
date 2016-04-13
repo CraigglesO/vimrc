@@ -1,0 +1,1716 @@
+2016-04-12 15:18:46	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 15:18:46	--	Topic for ##linux is "It's official! We're now Linux.Chat! | Channel website: http://linux.chat | Pastebin: http://paste.linux.chat | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay"
+2016-04-12 15:18:46	--	Topic set by svetlana on Fri, 25 Sep 2015 08:52:34
+2016-04-12 15:18:46	--	Channel ##linux: 2378 nicks (0 ops, 0 voices, 2378 normals)
+2016-04-12 15:18:46	--	PvNotice(ChanServ): Welcome to ##Linux! Can't speak? Please see http://www.linux.chat/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linux.chat/channel-rules/
+2016-04-12 15:18:46	--	URL for ##linux: http://linux.chat
+2016-04-12 15:18:46	--	Channel created on Fri, 09 Feb 2001 18:16:24
+2016-04-12 15:18:55	-->	kadiro (~kadiro@unaffiliated/kadiro) has joined ##linux
+2016-04-12 15:19:06	-->	danilonc (~danilonc@unaffiliated/danilonc) has joined ##linux
+2016-04-12 15:19:24	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 15:19:24	--	Topic for ##linux is "It's official! We're now Linux.Chat! | Channel website: http://linux.chat | Pastebin: http://paste.linux.chat | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay"
+2016-04-12 15:19:24	--	Topic set by svetlana on Fri, 25 Sep 2015 08:52:34
+2016-04-12 15:19:24	--	Channel ##linux: 2381 nicks (0 ops, 0 voices, 2381 normals)
+2016-04-12 15:19:24	--	PvNotice(ChanServ): Welcome to ##Linux! Can't speak? Please see http://www.linux.chat/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linux.chat/channel-rules/
+2016-04-12 15:19:24	--	URL for ##linux: http://linux.chat
+2016-04-12 15:19:29	--	Channel created on Fri, 09 Feb 2001 18:16:24
+2016-04-12 15:20:11	<--	JordiGH (~jordi@octave/developer/JordiGH) has left ##linux ("Leaving")
+2016-04-12 15:22:14	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 15:22:14	--	Topic for ##linux is "It's official! We're now Linux.Chat! | Channel website: http://linux.chat | Pastebin: http://paste.linux.chat | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay"
+2016-04-12 15:22:14	--	Topic set by svetlana on Fri, 25 Sep 2015 08:52:34
+2016-04-12 15:22:14	--	Channel ##linux: 2384 nicks (0 ops, 0 voices, 2384 normals)
+2016-04-12 15:22:14	--	PvNotice(ChanServ): Welcome to ##Linux! Can't speak? Please see http://www.linux.chat/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linux.chat/channel-rules/
+2016-04-12 15:22:14	--	URL for ##linux: http://linux.chat
+2016-04-12 15:22:21	--	Channel created on Fri, 09 Feb 2001 18:16:24
+2016-04-12 15:22:34	-->	jeordie (~jeordie@c-73-20-18-199.hsd1.ut.comcast.net) has joined ##linux
+2016-04-12 15:22:48	-->	LEANPOCKET (~dr_fuente@cpc12-sprt2-2-0-cust478.17-2.cable.virginm.net) has joined ##linux
+2016-04-12 15:22:53	<--	s4ndm4n (~sandman@unaffiliated/sandman13) has quit (Quit: Gone Fishing!)
+2016-04-12 15:22:57	<--	jefeson (~jefeson@201-9-139-28.user.veloxzone.com.br) has quit (Quit: Leaving.)
+2016-04-12 15:22:58	<--	donguston (~dr_fuente@cpc12-sprt2-2-0-cust478.17-2.cable.virginm.net) has quit (Read error: Connection reset by peer)
+2016-04-12 15:23:06	<--	Dipper (~clion@unaffiliated/dhex) has quit (Disconnected by services)
+2016-04-12 15:23:08	--	Dipper2 is now known as Dipper
+2016-04-12 15:23:18	-->	oliverio_ (~oliverio@179.176.151.91.dynamic.adsl.gvt.net.br) has joined ##linux
+2016-04-12 15:23:20	-->	crayon (~user@unaffiliated/button) has joined ##linux
+2016-04-12 15:23:44	-->	lyoshajapan (~lyoshajap@CF210249082089.cims.jp) has joined ##linux
+2016-04-12 15:23:59	<--	lesta (~user@unaffiliated/jimlesta) has left ##linux
+2016-04-12 15:24:55	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 15:24:55	--	Topic for ##linux is "It's official! We're now Linux.Chat! | Channel website: http://linux.chat | Pastebin: http://paste.linux.chat | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay"
+2016-04-12 15:24:55	--	Topic set by svetlana on Fri, 25 Sep 2015 08:52:34
+2016-04-12 15:24:55	--	Channel ##linux: 2384 nicks (0 ops, 0 voices, 2384 normals)
+2016-04-12 15:24:55	--	PvNotice(ChanServ): Welcome to ##Linux! Can't speak? Please see http://www.linux.chat/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linux.chat/channel-rules/
+2016-04-12 15:24:55	--	URL for ##linux: http://linux.chat
+2016-04-12 15:25:00	<--	anoeee_ (~anoeee@79.141.170.6) has quit (Read error: Connection reset by peer)
+2016-04-12 15:25:02	--	Channel created on Fri, 09 Feb 2001 18:16:24
+2016-04-12 15:25:11	-->	Kanjizai (~kanjizai@unaffiliated/kanjizai) has joined ##linux
+2016-04-12 15:25:21	-->	anoeee_ (~anoeee@79.141.170.6) has joined ##linux
+2016-04-12 15:26:01	-->	Sxuza (~textual@197.79.12.44) has joined ##linux
+2016-04-12 15:26:29	<--	MY123 (~IceChat9@unaffiliated/kill--9-1/x-8776976) has quit (Quit: Goodbye)
+2016-04-12 15:26:51	<--	t0mmy (~tprrt@ram31-2-82-228-88-46.fbx.proxad.net) has quit (Ping timeout: 250 seconds)
+2016-04-12 15:27:23	<--	anoeee_ (~anoeee@79.141.170.6) has quit (Client Quit)
+2016-04-12 15:28:34	<--	[n1x] (~me@c-76-107-26-16.hsd1.la.comcast.net) has quit (Ping timeout: 240 seconds)
+2016-04-12 15:28:49	<--	Guest77 (~textual@c-73-71-219-137.hsd1.ca.comcast.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 15:29:08	<--	Sxuza (~textual@197.79.12.44) has quit (Max SendQ exceeded)
+2016-04-12 15:29:16	<--	Chuguniy (~Chuguniy@109.201.137.162) has quit (Ping timeout: 264 seconds)
+2016-04-12 15:29:20	<--	mquin (~mquin@freenode/staff/mquin) has left ##linux
+2016-04-12 15:29:20	-->	mquin (~mquin@freenode/staff/mquin) has joined ##linux
+2016-04-12 15:29:44	<--	RebelCoder (~Yuriy@cpc74579-lewi13-2-0-cust201.2-4.cable.virginm.net) has quit (Ping timeout: 260 seconds)
+2016-04-12 15:29:58	<--	synthroid (~synthroid@108.61.68.147) has quit (Remote host closed the connection)
+2016-04-12 15:30:00	<--	fred1807 (~fred1807@177.220.172.182) has quit (Quit: fred1807)
+2016-04-12 15:30:03	<--	OgionNJ (~rtaft@2600:802:460:192:a21d:48ff:fe67:2df4) has quit (Quit: Leaving.)
+2016-04-12 15:30:38	<--	ELAxHPlwfmZQ (~ELAxHPlwf@dslb-188-108-099-006.188.108.pools.vodafone-ip.de) has quit (Read error: Connection reset by peer)
+2016-04-12 15:31:04	<--	DarkSeed (~DarkSeed@92.red-185-28-219.telecablesantapola.es) has left ##linux
+2016-04-12 15:31:21	--	pingwindyktator is now known as dupa8
+2016-04-12 15:31:23	-->	farded (~farded@cpe-173-88-165-227.neo.res.rr.com) has joined ##linux
+2016-04-12 15:31:29	<--	mastokley (~mastokley@209.210.157.165) has quit (Ping timeout: 260 seconds)
+2016-04-12 15:31:47	<--	nbg (~nbg@5.146.51.114) has quit (Quit: WeeChat 1.4)
+2016-04-12 15:31:52	--	dupa8 is now known as pingwindyktator
+2016-04-12 15:32:09	-->	dontknow (~dontknow@unaffiliated/dontknow) has joined ##linux
+2016-04-12 15:32:10	<--	lyoshajapan (~lyoshajap@CF210249082089.cims.jp) has quit (Ping timeout: 252 seconds)
+2016-04-12 15:34:43	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 15:34:43	--	Topic for ##linux is "It's official! We're now Linux.Chat! | Channel website: http://linux.chat | Pastebin: http://paste.linux.chat | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay"
+2016-04-12 15:34:43	--	Topic set by svetlana on Fri, 25 Sep 2015 08:52:34
+2016-04-12 15:34:44	--	Channel ##linux: 2369 nicks (0 ops, 0 voices, 2369 normals)
+2016-04-12 15:34:44	--	PvNotice(ChanServ): Welcome to ##Linux! Can't speak? Please see http://www.linux.chat/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linux.chat/channel-rules/
+2016-04-12 15:34:44	--	URL for ##linux: http://linux.chat
+2016-04-12 15:34:49	--	Channel created on Fri, 09 Feb 2001 18:16:24
+2016-04-12 19:29:30	-->	oconnorct1 (~connor@nc-76-4-13-242.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 19:29:30	--	Topic for ##linux is "It's official! We're now Linux.Chat! | Channel website: http://linux.chat | Pastebin: http://paste.linux.chat | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay"
+2016-04-12 19:29:30	--	Topic set by svetlana on Fri, 25 Sep 2015 08:52:34
+2016-04-12 19:29:30	--	Channel ##linux: 2284 nicks (0 ops, 0 voices, 2284 normals)
+2016-04-12 19:29:30	--	PvNotice(ChanServ): Welcome to ##Linux! Can't speak? Please see http://www.linux.chat/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linux.chat/channel-rules/
+2016-04-12 19:29:30	--	URL for ##linux: http://linux.chat
+2016-04-12 19:30:09	--	irc: disconnected from server
+2016-04-12 19:37:57	-->	oconnorct1 (~connor@nc-76-4-9-193.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 19:37:57	--	Topic for ##linux is "It's official! We're now Linux.Chat! | Channel website: http://linux.chat | Pastebin: http://paste.linux.chat | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay"
+2016-04-12 19:37:57	--	Topic set by svetlana on Fri, 25 Sep 2015 08:52:34
+2016-04-12 19:37:58	--	Channel ##linux: 2281 nicks (0 ops, 0 voices, 2281 normals)
+2016-04-12 19:37:58	--	PvNotice(ChanServ): Welcome to ##Linux! Can't speak? Please see http://www.linux.chat/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linux.chat/channel-rules/
+2016-04-12 19:37:58	--	URL for ##linux: http://linux.chat
+2016-04-12 19:37:59	-->	pistolpete (~kvirc@96-40-113-152.dhcp.rvsd.ca.charter.com) has joined ##linux
+2016-04-12 19:38:03	--	Channel created on Fri, 09 Feb 2001 18:16:24
+2016-04-12 19:38:36	-->	arooni (~textual@108-207-116-185.lightspeed.mssnks.sbcglobal.net) has joined ##linux
+2016-04-12 19:38:53	-->	lyoshajapan (~lyoshajap@CF210249082089.cims.jp) has joined ##linux
+2016-04-12 19:38:57	<--	jefeson1 (~jefeson@177-177-161-116.user.veloxzone.com.br) has quit (Quit: Leaving.)
+2016-04-12 19:39:15	treefrob	I installed fedora 23 and select "encrypt entire disk" (I think). That resulted in one VG named "fedora" with three LVs 00 (root), 01 (/data), 02 (swap). Are they individually encrypted, or is the entire VG encrypted?
+2016-04-12 19:39:24	-->	xangua (uid19036@gateway/web/irccloud.com/x-hqlbligntisopvya) has joined ##linux
+2016-04-12 19:39:29	-->	crayon (~user@unaffiliated/button) has joined ##linux
+2016-04-12 19:39:41	<--	z2 (~zonk@cpe-104-162-177-135.nyc.res.rr.com) has quit (Changing host)
+2016-04-12 19:39:41	-->	z2 (~zonk@unaffiliated/z2) has joined ##linux
+2016-04-12 19:39:47	-->	dj_beirut (~Dj@cm-84.211.21.227.getinternet.no) has joined ##linux
+2016-04-12 19:39:50	MrElendig	pvdisplay and see what the parent is
+2016-04-12 19:40:03	<--	hyponic (~Dj@cm-84.211.21.227.getinternet.no) has quit (Ping timeout: 240 seconds)
+2016-04-12 19:40:04	<--	clemf (~textual@50.252.15.145) has quit (Ping timeout: 264 seconds)
+2016-04-12 19:40:10	MrElendig	probably is the crypto container
+2016-04-12 19:40:34	<--	SailorHaumea (68381739@gateway/web/freenode/ip.104.56.23.57) has quit (Ping timeout: 250 seconds)
+2016-04-12 19:40:34	-->	mist__ (~mist@host86-164-31-222.range86-164.btcentralplus.com) has joined ##linux
+2016-04-12 19:40:38	MrElendig	this is why automatic installers suck
+2016-04-12 19:40:45	MrElendig	you have no idea what they do
+2016-04-12 19:40:51	<--	Konsole (~konsole@unaffiliated/konsole) has quit (Ping timeout: 248 seconds)
+2016-04-12 19:41:12	-->	bbankes_ (~bbankes@2601:680:c402:3225:35b2:aa33:657b:1357) has joined ##linux
+2016-04-12 19:41:14	treefrob	MrElendig, PV name is /dev/sda2, so I guess not
+2016-04-12 19:41:25	<--	Silox| (uid11617@gateway/web/irccloud.com/x-pqupsmgcaxbhxkce) has quit (Quit: Connection closed for inactivity)
+2016-04-12 19:41:38	<--	Sia- (~Sia@unaffiliated/desian) has quit (Quit: ZZZzzz…)
+2016-04-12 19:42:54	<--	z2 (~zonk@unaffiliated/z2) has quit (Quit: .)
+2016-04-12 19:42:59	-->	fleshtheworld (~fleshthew@108-240-244-194.lightspeed.frsnca.sbcglobal.net) has joined ##linux
+2016-04-12 19:43:12	<--	jjulian (~jjulian@ip1f113080.dynamic.kabel-deutschland.de) has quit (Remote host closed the connection)
+2016-04-12 19:43:22	MrElendig	check crypttab then
+2016-04-12 19:43:40	<--	lyoshajapan (~lyoshajap@CF210249082089.cims.jp) has quit (Ping timeout: 264 seconds)
+2016-04-12 19:44:05	treefrob	in /etc?
+2016-04-12 19:44:07	RayTracer	lsblk should also shed some light on the layout
+2016-04-12 19:45:03	treefrob	have no /etc/crypttab
+2016-04-12 19:45:09	-->	ginhk (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has joined ##linux
+2016-04-12 19:45:09	-->	lyoshajapan (~lyoshajap@CF210249082089.cims.jp) has joined ##linux
+2016-04-12 19:45:13	<--	jfran (~textual@ccy01cs105-z.ams.hpecore.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 19:45:28	<--	marie1972 (marie1972@23-255-235-169.mci.googlefiber.net) has quit
+2016-04-12 19:45:41	<--	aaro (~aaro@unaffiliated/xyox/x-040147) has quit (Read error: Connection reset by peer)
+2016-04-12 19:46:15	-->	MintSpider (~Peter@cpe-96-29-187-2.kya.res.rr.com) has joined ##linux
+2016-04-12 19:46:21	-->	aaro (~aaro@unaffiliated/xyox/x-040147) has joined ##linux
+2016-04-12 19:46:24	<--	viccuad (~vic@unaffiliated/viccuad) has quit (Ping timeout: 246 seconds)
+2016-04-12 19:46:28	<--	cbrpnk (~cbrpnk@72.53.125.61) has left ##linux
+2016-04-12 19:46:31	treefrob	uh, sorry, booted from a live system atm, first need to mount root :/
+2016-04-12 19:46:34	<--	Lyn (~Alc@unaffiliated/lyn) has quit (Ping timeout: 240 seconds)
+2016-04-12 19:46:44	-->	cbrpnk (~cbrpnk@72.53.125.61) has joined ##linux
+2016-04-12 19:46:59	<--	hollusion (~hollusion@2a02:8109:a5bf:e3f0:c5b:524d:ccfb:10f3) has quit (Quit: Leaving)
+2016-04-12 19:47:29	share	Arch Linux is for
+2016-04-12 19:48:06	-->	jfran (~textual@ccy01cs105-z.ams.hpecore.net) has joined ##linux
+2016-04-12 19:48:11	<--	jfran (~textual@ccy01cs105-z.ams.hpecore.net) has quit (Client Quit)
+2016-04-12 19:48:12	--	ilCy32 is now known as ilCyx86_64
+2016-04-12 19:48:35	-->	jfran (~textual@ccy01cs105-z.ams.hpecore.net) has joined ##linux
+2016-04-12 19:49:10	pingfloyd	treefrob: the partition (PV) is probably encrypted
+2016-04-12 19:49:13	<--	oehansen (~oehansen@h-153-86.a175.priv.bahnhof.se) has quit (Remote host closed the connection)
+2016-04-12 19:49:18	-->	Padawan_ (~weechat@unaffiliated/padawan) has joined ##linux
+2016-04-12 19:49:23	<--	lyoshajapan (~lyoshajap@CF210249082089.cims.jp) has quit (Ping timeout: 248 seconds)
+2016-04-12 19:49:33	<--	crayon (~user@unaffiliated/button) has quit (Ping timeout: 276 seconds)
+2016-04-12 19:49:44	<--	flavi0 (~anon@qutebrowser/dev/flavi0) has quit (Quit: leaving)
+2016-04-12 19:49:44	-->	z3r0sTr3sS (~root@unaffiliated/z3r0str3ss) has joined ##linux
+2016-04-12 19:50:20	-->	nznz (~nznz@ipbcc3c13e.dynamic.kabel-deutschland.de) has joined ##linux
+2016-04-12 19:50:27	pingfloyd	treefrob: look at /dev/mapper and then pvdisplay
+2016-04-12 19:50:43	<--	losjulios (~JD@2601:2c6:4700:6010:bdae:b30b:2e30:ad4b) has quit (Read error: Connection reset by peer)
+2016-04-12 19:50:55	-->	oehansen (~oehansen@h-153-86.a175.priv.bahnhof.se) has joined ##linux
+2016-04-12 19:51:05	<--	FD|Away (~C_Norman@2601:19a:4001:98a1:853d:1a56:abf9:d08f) has quit (Quit: Leaving)
+2016-04-12 19:51:12	<--	Sixmsj (~Sixmsj@c-73-189-102-185.hsd1.ca.comcast.net) has quit (Ping timeout: 244 seconds)
+2016-04-12 19:51:32	-->	Ardeshir (~Ardeshir@2.187.206.39) has joined ##linux
+2016-04-12 19:51:34	<--	boingolov (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has quit (Ping timeout: 240 seconds)
+2016-04-12 19:52:02	<--	_Wintermute (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has quit (Quit: WeeChat 1.1.1)
+2016-04-12 19:52:18	<--	Sidoniuns (~sidoniuns@187.6.105.11) has quit (Quit: Saindo)
+2016-04-12 19:52:19	-->	Preytell (40f23421@gateway/web/freenode/ip.64.242.52.33) has joined ##linux
+2016-04-12 19:52:44	<--	jazzzu (~jazoja@D978C875.cm-3-1d.dynamic.ziggo.nl) has quit (Ping timeout: 244 seconds)
+2016-04-12 19:52:54	-->	ryouma (~user@unaffiliated/ryouma) has joined ##linux
+2016-04-12 19:52:58	<--	ryouma (~user@unaffiliated/ryouma) has left ##linux
+2016-04-12 19:53:03	<--	ghostdog (~american@2a02:587:ac06:3d00:458d:8cac:952f:e183) has quit (Ping timeout: 246 seconds)
+2016-04-12 19:53:25	-->	toothe (~awiggin@unaffiliated/toothe) has joined ##linux
+2016-04-12 19:53:25	<--	_nadim (~lab@89-92-109-123.hfc.dyn.abo.bbox.fr) has quit (Ping timeout: 252 seconds)
+2016-04-12 19:53:26	-->	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has joined ##linux
+2016-04-12 19:53:29	Preytell	Hey guys, anyone know why linux would display ?? in the output of history? It should be showing the date and time, and it does, but for some entries it shows ?? ahead of the history line.
+2016-04-12 19:53:32	toothe	what is a light-weight Debian distro?
+2016-04-12 19:53:38	toothe	or rather, light-weight Ubuntu/Mint distro?
+2016-04-12 19:53:43	 *	toothe wonders if he can get Mint lighte
+2016-04-12 19:53:58	treefrob	ok, booted from encrypted disk again, and /etc/crypttab has 3 entries that correspond to the 3 LVs, so each LV is apparently encrypted
+2016-04-12 19:54:02	treefrob	and not the PV
+2016-04-12 19:54:36	<--	kazuka (~kazuka@unaffiliated/kazuka) has quit (Read error: Connection reset by peer)
+2016-04-12 19:54:48	pingfloyd	treefrob: that's a stupid setup
+2016-04-12 19:54:50	-->	Sixmsj (~Sixmsj@c-73-189-102-185.hsd1.ca.comcast.net) has joined ##linux
+2016-04-12 19:55:07	<--	arthurl (~arthurl@38.117.157.141) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 19:55:10	-->	kazuka (~kazuka@unaffiliated/kazuka) has joined ##linux
+2016-04-12 19:55:18	pingfloyd	what a dumb installer
+2016-04-12 19:56:05	-->	karmahacker (~karmahack@unaffiliated/karmahacker) has joined ##linux
+2016-04-12 19:56:18	treefrob	such hears one gladly about one's chosen system
+2016-04-12 19:56:23	<--	cagmz (~cagmz@cpe-107-185-130-191.socal.res.rr.com) has quit (Quit: Leaving)
+2016-04-12 19:56:33	treefrob	why? because the entire PV isn't encrypted?
+2016-04-12 19:57:03	<--	AndyTechGuy (~AndyTechG@unaffiliated/-atg/x-2732435) has quit (Quit: Leaving)
+2016-04-12 19:57:16	<--	Black_Horseman (~katsabbat@thecube.ath.forthnet.gr) has quit (Quit: Leaving)
+2016-04-12 19:57:37	triceratux	toothe: xubuntu or xubuntu core. also backbox is like mint lite
+2016-04-12 19:57:40	<--	Ardeshir (~Ardeshir@2.187.206.39) has quit (Quit: Leaving)
+2016-04-12 19:58:19	-->	platvoeten (~platvoete@ip-217-103-230-190.ip.prioritytelecom.net) has joined ##linux
+2016-04-12 19:58:39	<--	kuldeep (~kuldeepdh@unaffiliated/kuldeepdhaka) has quit (Ping timeout: 260 seconds)
+2016-04-12 19:58:43	-->	boingolov (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has joined ##linux
+2016-04-12 19:58:52	-->	lsyoyom (~liny01@unaffiliated/lsyoyom) has joined ##linux
+2016-04-12 19:58:59	triceratux	backbox is an ubuntu lts derivative with a 4.2.0 kernel, a media player & a jre
+2016-04-12 19:59:03	<--	fstd (~fstd@unaffiliated/fisted) has quit (Remote host closed the connection)
+2016-04-12 19:59:12	oconnorct1	Does anyone here use Arch?
+2016-04-12 19:59:25	-->	fstd (~fstd@unaffiliated/fisted) has joined ##linux
+2016-04-12 19:59:29	dyce_	wow btrfs is fancy
+2016-04-12 19:59:36	dyce_	on the fly you can change raid?
+2016-04-12 19:59:40	dyce_	much wow
+2016-04-12 19:59:55	MrElendig	dyce_: read about snapshots and send/recieve
+2016-04-12 20:00:05	<--	pitelpan (~panagioti@77.49.15.195.dsl.dyn.forthnet.gr) has quit (Read error: No route to host)
+2016-04-12 20:00:06	<--	jfran (~textual@ccy01cs105-z.ams.hpecore.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 20:00:11	MrElendig	you will never hate making backups ever again
+2016-04-12 20:00:18	<--	allen29 (~all@unaffiliated/allen29) has quit (Quit: Leaving)
+2016-04-12 20:00:23	-->	pitelpan (~panagioti@77.49.15.195.dsl.dyn.forthnet.gr) has joined ##linux
+2016-04-12 20:00:28	<--	jazzpi (~jazzpi@p4FCA323E.dip0.t-ipconnect.de) has quit (Remote host closed the connection)
+2016-04-12 20:00:48	dyce_	MrElendig: i want to set it up on my pi
+2016-04-12 20:01:01	dyce_	so i can get copy on write if i half my volume?
+2016-04-12 20:01:14	dyce_	to prevent corruption?
+2016-04-12 20:01:16	-->	johnmilton (~johnmilto@orange.tampabay.com) has joined ##linux
+2016-04-12 20:01:25	-->	[n1x] (~me@c-76-107-26-16.hsd1.la.comcast.net) has joined ##linux
+2016-04-12 20:01:31	<--	^esc_ (~esc-ape@178.165.131.74.wireless.dyn.drei.com) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:01:37	dyce_	and btrfs doesnt have the crappy ram requirements that zfs has? too much wow
+2016-04-12 20:02:10	<--	eric_lagergren (~eric_lage@c-73-225-199-152.hsd1.wa.comcast.net) has quit (Remote host closed the connection)
+2016-04-12 20:02:31	-->	^esc (~esc-ape@178.165.139.74.wireless.dyn.drei.com) has joined ##linux
+2016-04-12 20:02:55	<--	Cetusx (~x@c-50-148-54-247.hsd1.il.comcast.net) has quit (Remote host closed the connection)
+2016-04-12 20:03:17	<--	tbsf (~tbsf@8.37.102.35) has quit (Remote host closed the connection)
+2016-04-12 20:03:39	stoned-in-laptop	uptime alias
+2016-04-12 20:03:43	stoned-in-laptop	doh
+2016-04-12 20:04:17	<--	Seryth (~Matrix@unaffiliated/mang0) has quit (Read error: Connection reset by peer)
+2016-04-12 20:04:27	<--	tx (~texta@pdpc/supporter/professional/texta) has quit (Remote host closed the connection)
+2016-04-12 20:04:42	-->	tx (~texta@pdpc/supporter/professional/texta) has joined ##linux
+2016-04-12 20:04:42	MrElendig	on a rpi I would probably use f2fs instead
+2016-04-12 20:04:44	-->	comingsoontm (~comingsoo@70.51.201.41) has joined ##linux
+2016-04-12 20:05:05	-->	Cetusx (~x@c-50-148-54-247.hsd1.il.comcast.net) has joined ##linux
+2016-04-12 20:05:09	<--	Sixmsj (~Sixmsj@c-73-189-102-185.hsd1.ca.comcast.net) has quit (Ping timeout: 276 seconds)
+2016-04-12 20:05:23	-->	jazzzu (~jazoja@D978C875.cm-3-1d.dynamic.ziggo.nl) has joined ##linux
+2016-04-12 20:05:49	<--	alemeno22 (~textual@184-23-216-242.dedicated.static.sonic.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 20:06:25	-->	Sixmsj (~Sixmsj@c-73-189-102-185.hsd1.ca.comcast.net) has joined ##linux
+2016-04-12 20:07:14	<--	comingsoontm_ (~comingsoo@70.51.201.41) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:07:42	stoned-in-laptop	sb clear
+2016-04-12 20:07:44	-->	cyclonis (~Adium@ip70-174-182-101.dc.dc.cox.net) has joined ##linux
+2016-04-12 20:07:45	<--	Dipper (~clion@unaffiliated/dhex) has quit (Ping timeout: 276 seconds)
+2016-04-12 20:07:45	<--	reductio (~reductio@unaffiliated/reductio) has quit (Ping timeout: 276 seconds)
+2016-04-12 20:07:46	-->	justsomeguy (~quassel@173-171-160-172.res.bhn.net) has joined ##linux
+2016-04-12 20:07:46	<--	justsomeguy (~quassel@173-171-160-172.res.bhn.net) has quit (Changing host)
+2016-04-12 20:07:46	-->	justsomeguy (~quassel@unaffiliated/--/x-3805311) has joined ##linux
+2016-04-12 20:08:29	<--	herzmeister (~herzmeist@gateway/vpn/privateinternetaccess/herzmeister) has quit (Quit: Leaving)
+2016-04-12 20:08:49	-->	herzmeister (~herzmeist@dslb-094-216-072-140.094.216.pools.vodafone-ip.de) has joined ##linux
+2016-04-12 20:09:49	<--	aregee (~aregee@111.93.185.242) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:10:10	-->	XndrK (~Alex@74.214.171.140) has joined ##linux
+2016-04-12 20:10:17	-->	ensyde (~ensyde@2606:a000:64cf:3000:b5de:5aa6:33a1:60ad) has joined ##linux
+2016-04-12 20:11:01	<--	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has quit (Ping timeout: 252 seconds)
+2016-04-12 20:11:37	nebg	hello everyone, is there a way to make the leds below my keyboard to work  ? i want to know if it's possible to regulate the brightness of my keyboard and how to do it
+2016-04-12 20:11:51	<--	nznz (~nznz@ipbcc3c13e.dynamic.kabel-deutschland.de) has quit (Ping timeout: 268 seconds)
+2016-04-12 20:12:14	<--	P6hjakonn (~NASA@98a2-7ed6-0af7-ac32-3901-8a2a-07d0-2001.dyn.estpak.ee) has quit (Ping timeout: 248 seconds)
+2016-04-12 20:12:24	<--	cryptonix2 (~no@unaffiliated/cryptonix2) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:12:36	<--	arooni (~textual@108-207-116-185.lightspeed.mssnks.sbcglobal.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 20:12:41	--	Padawan_ is now known as Padawan
+2016-04-12 20:12:50	<--	Padawan (~weechat@unaffiliated/padawan) has quit (Quit: WeeChat 1.1.1)
+2016-04-12 20:12:55	<--	Noldorin (~noldorin@unaffiliated/noldorin) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:12:56	-->	vonsyd0w (~vonsyd0w@68-184-117-131.dhcp.smyr.ga.charter.com) has joined ##linux
+2016-04-12 20:13:12	<--	rwiggins (~rwiggins@unaffiliated/rwiggins) has quit (Quit: Quitting)
+2016-04-12 20:13:20	-->	warbrain (~pottsy@203-213-120-51.static.tpgi.com.au) has joined ##linux
+2016-04-12 20:13:24	<--	kotten (~kotten@h-1-26.a147.priv.bahnhof.se) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:13:26	<--	Whiskey (~Whiskey@31.44.232.185) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:13:33	-->	Padawan_ (~weechat@unaffiliated/padawan) has joined ##linux
+2016-04-12 20:13:57	<--	MintSpider (~Peter@cpe-96-29-187-2.kya.res.rr.com) has quit (Quit: Leaving)
+2016-04-12 20:13:57	-->	tekknik (~tekknik@unaffiliated/tekknik) has joined ##linux
+2016-04-12 20:14:03	<--	a3Dman (~3Dman@unaffiliated/a3dman) has quit (Ping timeout: 246 seconds)
+2016-04-12 20:14:05	<--	shantorn (~Shantorn@c-71-59-220-108.hsd1.wa.comcast.net) has quit (Quit: Leaving)
+2016-04-12 20:14:06	<--	z3r0sTr3sS (~root@unaffiliated/z3r0str3ss) has quit (Quit: leaving)
+2016-04-12 20:14:11	-->	kuldeep (~kuldeepdh@unaffiliated/kuldeepdhaka) has joined ##linux
+2016-04-12 20:14:12	-->	winsoff (~foo@66.205.199.93) has joined ##linux
+2016-04-12 20:14:18	-->	whatever_hi (~whatever_@63-158-200-238.dia.static.qwest.net) has joined ##linux
+2016-04-12 20:14:20	-->	jefeson (~jefeson@177-177-161-116.user.veloxzone.com.br) has joined ##linux
+2016-04-12 20:14:24	XndrK	Is there a way to keep saved home folder data when switching Linux distros, or do I have to lifeboat it with a USB key?
+2016-04-12 20:14:26	<--	whatever_hi (~whatever_@63-158-200-238.dia.static.qwest.net) has quit (Max SendQ exceeded)
+2016-04-12 20:14:51	-->	whatever_hi (~whatever_@63-158-200-238.dia.static.qwest.net) has joined ##linux
+2016-04-12 20:14:52	<--	jazzzu (~jazoja@D978C875.cm-3-1d.dynamic.ziggo.nl) has quit (Ping timeout: 252 seconds)
+2016-04-12 20:15:34	<--	thechanceg (~thechance@wsip-174-77-164-24.sd.sd.cox.net) has quit (Quit: Leaving)
+2016-04-12 20:15:47	<--	pottsy (~pottsy@203-213-120-51.static.tpgi.com.au) has quit (Ping timeout: 260 seconds)
+2016-04-12 20:16:06	b1101	XndrK: you can create a new user whose folder lives in the home directory
+2016-04-12 20:16:10	<--	dslevin (~dslev@ool-45727847.dyn.optonline.net) has quit (Read error: Connection reset by peer)
+2016-04-12 20:16:25	b1101	copy all the files you need over, but not the configs; as that would cause issues
+2016-04-12 20:16:31	-->	cjbischof_ (~cjbischof@74-92-217-97-Colorado.hfc.comcastbusiness.net) has joined ##linux
+2016-04-12 20:16:31	jim	XndrK, lots of times, people mount a separete partition (or lvm volume) on /home, and so the next install (or however) could use that partition or vol without formatting it
+2016-04-12 20:16:58	jim	if it's not separate, you could be looking at spending a little time saving it
+2016-04-12 20:17:24	pingfloyd	XndrK: don't format the partition it is on during the install
+2016-04-12 20:17:38	pingfloyd	XndrK: just set the mount point in the installer
+2016-04-12 20:18:02	<--	cjbischof_ (~cjbischof@74-92-217-97-Colorado.hfc.comcastbusiness.net) has quit (Client Quit)
+2016-04-12 20:18:03	<--	harukomoto (~harukomot@93-34-193-170.ip51.fastwebnet.it) has quit (Ping timeout: 250 seconds)
+2016-04-12 20:18:18	pingfloyd	XndrK: is your /home in same partition as /?
+2016-04-12 20:18:19	jim	I take it you're running a linux right now, and you could switch over to a separate /home pretty easily
+2016-04-12 20:18:31	-->	allen29 (~all@unaffiliated/allen29) has joined ##linux
+2016-04-12 20:18:38	jim	(if it's not separate already that is)
+2016-04-12 20:18:48	-->	tsherman (~tsherman@66.128.251.165) has joined ##linux
+2016-04-12 20:18:55	<--	nylal01 (~RealName@pool-74-101-196-236.nycmny.fios.verizon.net) has quit (Ping timeout: 250 seconds)
+2016-04-12 20:19:02	-->	bollullera (~anuxi@84.120.65.127.dyn.user.ono.com) has joined ##linux
+2016-04-12 20:19:15	<--	jefeson (~jefeson@177-177-161-116.user.veloxzone.com.br) has quit (Ping timeout: 268 seconds)
+2016-04-12 20:19:19	jim	if you're going to do that, it should probably be done before you install the new linux)
+2016-04-12 20:19:44	<--	Padawan_ (~weechat@unaffiliated/padawan) has quit (Quit: WeeChat 1.1.1)
+2016-04-12 20:19:49	XndrK	pingfloyd: How do I check?
+2016-04-12 20:19:54	pingfloyd	df -h
+2016-04-12 20:19:59	pingfloyd	or lsblk
+2016-04-12 20:20:05	-->	kotten (~kotten@h-1-26.a147.priv.bahnhof.se) has joined ##linux
+2016-04-12 20:20:11	<--	tsherman (~tsherman@66.128.251.165) has quit (Max SendQ exceeded)
+2016-04-12 20:20:14	-->	z3r0sTr3sS (~root@unaffiliated/z3r0str3ss) has joined ##linux
+2016-04-12 20:20:17	pingfloyd	that will show your current layout
+2016-04-12 20:20:23	-->	ToBeCloud (uid51591@wikimedia/ToBeFree) has joined ##linux
+2016-04-12 20:20:25	-->	clemf (~textual@c-50-139-41-170.hsd1.or.comcast.net) has joined ##linux
+2016-04-12 20:20:26	jim	do you have any interest in uising lvm?
+2016-04-12 20:20:30	XndrK	...and I'm looking for...
+2016-04-12 20:20:39	-->	Padawan_ (~weechat@unaffiliated/padawan) has joined ##linux
+2016-04-12 20:20:53	-->	LeBlaaanc (~LeBlaaanc@65-36-59-116.static.grandenetworks.net) has joined ##linux
+2016-04-12 20:20:53	pingfloyd	XndrK: easier if you just pastebin the output to https://paste.debian.net
+2016-04-12 20:21:10	-->	a3Dman (~3Dman@unaffiliated/a3dman) has joined ##linux
+2016-04-12 20:21:15	--	Padawan_ is now known as Padawan
+2016-04-12 20:21:18	<--	Padawan (~weechat@unaffiliated/padawan) has quit (Client Quit)
+2016-04-12 20:21:24	pingfloyd	XndrK: essentially you're looking to see if /home is mounted separate from /
+2016-04-12 20:21:31	<--	barajasfab (~barajasfa@2606:6000:6118:1d00:6116:813f:5e12:dae9) has quit (Ping timeout: 250 seconds)
+2016-04-12 20:21:36	<--	UserUS (~UserUS@185.17.27.253) has left ##linux ("Leaving")
+2016-04-12 20:22:10	-->	Padawan_ (~weechat@unaffiliated/padawan) has joined ##linux
+2016-04-12 20:22:23	XndrK	https://bpaste.net/show/c1382d7098c8
+2016-04-12 20:22:53	pingfloyd	so it looks like you probably have LVM and /home is a separate LV
+2016-04-12 20:22:54	<--	mints (~mints@unaffiliated/mints) has quit (Ping timeout: 248 seconds)
+2016-04-12 20:22:58	pingfloyd	lvdisplay
+2016-04-12 20:23:37	XndrK	Should I just bpaste it again, or am I looking for something in particular?
+2016-04-12 20:23:52	pingfloyd	yeah pastebin lvdisplay output
+2016-04-12 20:23:58	<--	KindOne (kindone@freenude/topless/kindone) has quit (Read error: Connection reset by peer)
+2016-04-12 20:24:13	-->	KindOne (kindone@freenude/topless/kindone) has joined ##linux
+2016-04-12 20:24:33	<--	tlaxkit (~hexchat@84.120.65.127.dyn.user.ono.com) has quit (Quit: ¡Adiós!)
+2016-04-12 20:24:48	<--	BigShip (~BigShip@unaffiliated/bigship) has quit (Ping timeout: 268 seconds)
+2016-04-12 20:24:57	-->	jefeson (~jefeson@177-177-161-116.user.veloxzone.com.br) has joined ##linux
+2016-04-12 20:25:20	jim	it does look like you're already using lvm on at least two of your mounts
+2016-04-12 20:25:24	--	Padawan_ is now known as Padawan
+2016-04-12 20:25:52	XndrK	https://bpaste.net/show/72cf7a368032
+2016-04-12 20:26:00	<--	tux|dude (~tuxdude14@122.56.89.81) has quit (Quit: Leaving)
+2016-04-12 20:26:04	<--	jfo_ (~jfo@64.124.192.210) has quit (Remote host closed the connection)
+2016-04-12 20:26:05	jim	one of those is on /home, and so it's already easy to switch dists
+2016-04-12 20:26:09	pingfloyd	XndrK: okay, that confirms my hunch
+2016-04-12 20:26:18	<--	Ceber (~PHP5445-0@dslb-092-072-045-191.092.072.pools.vodafone-ip.de) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:26:29	pingfloyd	XndrK: the way you're setup is using LVM and /, swap, and /home on in separate LVs
+2016-04-12 20:26:39	-->	Rave1 (~dell@node-1w7jr9yc5q610dccp5iqko9xs.ipv6.telus.net) has joined ##linux
+2016-04-12 20:26:39	-->	pwnawannab[NE] (~pwnawanna@c-73-227-117-239.hsd1.nh.comcast.net) has joined ##linux
+2016-04-12 20:26:40	<--	Rave1 (~dell@node-1w7jr9yc5q610dccp5iqko9xs.ipv6.telus.net) has quit (Max SendQ exceeded)
+2016-04-12 20:26:41	XndrK	"LVM"?
+2016-04-12 20:26:45	pingfloyd	XndrK: before you reinstall though, makes sure you have a good backup of everything in /home
+2016-04-12 20:27:01	XndrK	So yes, but lifeboat anyway, because stupids happen.
+2016-04-12 20:27:03	-->	Rave1 (~dell@node-1w7jr9yc5q610dccp5iqko9xs.ipv6.telus.net) has joined ##linux
+2016-04-12 20:27:06	pingfloyd	XndrK: so when you run the installer, you need to instruct it to leave the /home LV alone
+2016-04-12 20:27:24	XndrK	What's an LVM?
+2016-04-12 20:27:33	pingfloyd	but to go ahead and create and format new LV for /
+2016-04-12 20:27:42	XndrK	I'm going to assume that "LV" is "logical volume", but I can't figure out what the "M" is for.
+2016-04-12 20:27:47	-->	iamwill (~Adium@76-196-237-55.lightspeed.sndgca.sbcglobal.net) has joined ##linux
+2016-04-12 20:27:49	pingfloyd	logical volume management, it's an abstraction layer between the file system and partition
+2016-04-12 20:27:50	<--	iamwill (~Adium@76-196-237-55.lightspeed.sndgca.sbcglobal.net) has quit (Max SendQ exceeded)
+2016-04-12 20:27:50	<--	Padawan (~weechat@unaffiliated/padawan) has quit (Quit: WeeChat 1.1.1)
+2016-04-12 20:27:56	XndrK	oh
+2016-04-12 20:28:03	-->	iamwill (~Adium@76-196-237-55.lightspeed.sndgca.sbcglobal.net) has joined ##linux
+2016-04-12 20:28:04	pingfloyd	yeah LV is logical volume
+2016-04-12 20:28:51	-->	Padawan_ (~weechat@unaffiliated/padawan) has joined ##linux
+2016-04-12 20:28:56	XndrK	Key-doke.
+2016-04-12 20:29:12	<--	karmahacker (~karmahack@unaffiliated/karmahacker) has quit (Ping timeout: 276 seconds)
+2016-04-12 20:29:16	jim	http://www.softpanorama.org/Commercial_linuxes/logical_volume_manager.shtml << here's some info about it
+2016-04-12 20:29:29	pingfloyd	XndrK: so in the installer you going to want its "manual partition" option and then have it create a VG, then add /home to that vg, and create an LV for your / and swap.
+2016-04-12 20:29:38	triceratux	XndrK: http://www.softpanorama.org/Commercial_linuxes/logical_volume_manager.shtml
+2016-04-12 20:29:45	triceratux	oops
+2016-04-12 20:29:54	jim	haha
+2016-04-12 20:29:56	-->	al-damiri (uid142631@gateway/web/irccloud.com/x-qvkcozcdicbfeoxw) has joined ##linux
+2016-04-12 20:30:26	<--	desutoyou (~desu@wsip-174-77-191-4.ks.ks.cox.net) has quit (Quit: I don't even.)
+2016-04-12 20:30:28	<--	ginhk (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has left ##linux
+2016-04-12 20:30:55	pingfloyd	XndrK: this kind of comes down to the idiosyncrasies of the installer
+2016-04-12 20:31:06	jim	what are you going to install?
+2016-04-12 20:31:13	-->	ginhk (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has joined ##linux
+2016-04-12 20:31:15	<--	CrazyTux[m] (~CrazyTuxm@64.147.7.105) has quit (Quit: This computer has gone to sleep)
+2016-04-12 20:31:23	<--	Padawan_ (~weechat@unaffiliated/padawan) has quit (Client Quit)
+2016-04-12 20:31:37	-->	skytrash (~endcipher@unaffiliated/skytrash) has joined ##linux
+2016-04-12 20:31:48	<--	cbrpnk (~cbrpnk@72.53.125.61) has quit (Ping timeout: 276 seconds)
+2016-04-12 20:32:07	<--	axc1298 (~axc1298@unaffiliated/axc1298) has quit (Quit: Leaving)
+2016-04-12 20:32:25	-->	Padawan_ (~weechat@unaffiliated/padawan) has joined ##linux
+2016-04-12 20:32:51	<--	Padawan_ (~weechat@unaffiliated/padawan) has quit (Client Quit)
+2016-04-12 20:32:59	-->	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has joined ##linux
+2016-04-12 20:33:14	-->	tux|dude (~tuxdude14@122.56.89.81) has joined ##linux
+2016-04-12 20:33:21	-->	SwiftMatt (~Objective@132.194.33.23) has joined ##linux
+2016-04-12 20:33:26	<--	ethe (~ethe@cpc75394-sotn16-2-0-cust168.15-1.cable.virginm.net) has quit (Ping timeout: 268 seconds)
+2016-04-12 20:33:30	-->	The_Prospector|2 (~The_Prosp@c-73-239-179-79.hsd1.wa.comcast.net) has joined ##linux
+2016-04-12 20:34:14	<--	marcozink (~marcozink@189-210-50-24.static.axtel.net) has quit (Ping timeout: 260 seconds)
+2016-04-12 20:34:27	-->	josuebrunel (~Icedove@cho94-3-82-227-125-5.fbx.proxad.net) has joined ##linux
+2016-04-12 20:34:29	share	29.775s updatedb.service
+2016-04-12 20:34:31	share	:O
+2016-04-12 20:34:41	share	and 12.869s man-db.service
+2016-04-12 20:34:44	<--	helpmeplz (473f9fb3@gateway/web/freenode/ip.71.63.159.179) has quit (Ping timeout: 250 seconds)
+2016-04-12 20:34:49	-->	swordonly (~swordonly@unaffiliated/swordonly) has joined ##linux
+2016-04-12 20:34:56	<--	LeBlaaanc (~LeBlaaanc@65-36-59-116.static.grandenetworks.net) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 20:35:13	<--	The_Prospector (~The_Prosp@unaffiliated/cornman) has quit (Ping timeout: 252 seconds)
+2016-04-12 20:35:30	<--	Guest18440 (~root@8.29.123.216) has quit (Remote host closed the connection)
+2016-04-12 20:35:31	<--	swordonly (~swordonly@unaffiliated/swordonly) has quit (Client Quit)
+2016-04-12 20:35:46	-->	cjbischof_ (~cjbischof@74-92-217-97-Colorado.hfc.comcastbusiness.net) has joined ##linux
+2016-04-12 20:35:54	-->	swordonly (~swordonly@unaffiliated/swordonly) has joined ##linux
+2016-04-12 20:36:21	<--	cjbischof_ (~cjbischof@74-92-217-97-Colorado.hfc.comcastbusiness.net) has quit (Max SendQ exceeded)
+2016-04-12 20:36:57	-->	cjbischof_ (~cjbischof@74-92-217-97-Colorado.hfc.comcastbusiness.net) has joined ##linux
+2016-04-12 20:37:10	<--	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has quit (Remote host closed the connection)
+2016-04-12 20:37:19	-->	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has joined ##linux
+2016-04-12 20:37:19	-->	mxbosco (4ad73bb6@gateway/web/freenode/ip.74.215.59.182) has joined ##linux
+2016-04-12 20:37:25	<--	avis (~ident@pdpc/supporter/student/avis) has quit (Ping timeout: 252 seconds)
+2016-04-12 20:37:27	<--	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has quit (Remote host closed the connection)
+2016-04-12 20:37:28	-->	nylal01 (~RealName@pool-74-101-196-236.nycmny.fios.verizon.net) has joined ##linux
+2016-04-12 20:37:53	-->	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has joined ##linux
+2016-04-12 20:38:54	<--	SwiftMatt (~Objective@132.194.33.23) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 20:39:32	<--	nathanleclaire (~nathanlec@50.233.46.101) has quit (Quit: nathanleclaire)
+2016-04-12 20:39:33	-->	licnep (uid4387@gateway/web/irccloud.com/x-ywptqbdmcnqwrldv) has joined ##linux
+2016-04-12 20:39:37	<--	platvoeten (~platvoete@ip-217-103-230-190.ip.prioritytelecom.net) has quit (Quit: platvoeten)
+2016-04-12 20:39:42	-->	techno156 (~techno156@unaffiliated/techno156) has joined ##linux
+2016-04-12 20:39:45	<--	The_Schmidt (~The_Schmi@75-111-236-207.lbbkcmtk04.res.dyn.suddenlink.net) has quit (Quit: Leaving)
+2016-04-12 20:39:51	eelstrebor	should i keep both gtk-2.0 and gtk-3.0 on my system?
+2016-04-12 20:39:58	-->	avis (~ident@pdpc/supporter/student/avis) has joined ##linux
+2016-04-12 20:40:19	-->	beatleboy07 (~beatleboy@174-21-6-201.tukw.qwest.net) has joined ##linux
+2016-04-12 20:40:20	<--	beatleboy07 (~beatleboy@174-21-6-201.tukw.qwest.net) has quit (Max SendQ exceeded)
+2016-04-12 20:40:44	-->	beatleboy07 (~beatleboy@174-21-6-201.tukw.qwest.net) has joined ##linux
+2016-04-12 20:41:38	-->	liny01 (~liny01@unaffiliated/lsyoyom) has joined ##linux
+2016-04-12 20:41:53	-->	cyberviking (~cyberviki@ppp-171-96-182-136.revip8.asianet.co.th) has joined ##linux
+2016-04-12 20:42:28	-->	HetroErectus (~neo@46.166.137.214) has joined ##linux
+2016-04-12 20:43:12	<--	b4b (~b4b@32.211.52.104) has quit (Ping timeout: 260 seconds)
+2016-04-12 20:43:27	bsfc	eelstrebor: I guess you should rather ask yourself: are there any programs using gtk-2.0 on my system
+2016-04-12 20:43:32	share	depends on dependencies
+2016-04-12 20:43:39	share	:P
+2016-04-12 20:43:41	-->	_Wintermute (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 20:43:59	MJBrune	Hmm I am wondering if I install linux on my lenovo yoga 2 2-in-1 will it have an on screen keyboard that has swift/swype capabilities.
+2016-04-12 20:44:14	<--	lsyoyom (~liny01@unaffiliated/lsyoyom) has quit (Ping timeout: 248 seconds)
+2016-04-12 20:44:20	MJBrune	Is it possible to use the Android keyboard somehow?
+2016-04-12 20:44:34	<--	atolani (Arpit@nat/redhat/x-rohamgvxpfayhhce) has quit (Quit: Leaving)
+2016-04-12 20:44:42	<--	doomlord (~textual@host217-42-162-151.range217-42.btcentralplus.com) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 20:45:29	eelstrebor	bsfc, i can't remove either one because that'll kill my ubuntu desktop
+2016-04-12 20:45:35	-->	b4b (~b4b@32.211.52.104) has joined ##linux
+2016-04-12 20:45:50	jim	eelstrebor, the criteria is twofold... one, if you have some executables that link to 2.0 and some to 3.0, you should keep em... second, if you do dev work and some projects link to 2.0 and some to 3.0, (a) you should keep both right now, and (b) you should consider porting the projects using 2.0 so it uses 3.0; then you could get rid of the older one (depending on the very first part of this)
+2016-04-12 20:46:09	-->	Ceber (~PHP5445-0@dslb-092-072-045-191.092.072.pools.vodafone-ip.de) has joined ##linux
+2016-04-12 20:46:26	-->	dm_comp (~dm_comp@c-73-243-160-200.hsd1.co.comcast.net) has joined ##linux
+2016-04-12 20:46:43	eelstrebor	it makes it difficult to compile gtk sample programs because i can't use #include <gtk/gtk.h>
+2016-04-12 20:47:13	jim	you have to get the -dev parts of the gtk libs for that
+2016-04-12 20:47:29	<--	farded (~farded@cpe-173-88-165-227.neo.res.rr.com) has quit (Quit: Lost terminal)
+2016-04-12 20:47:39	compdoc	Canonical Releases LXD 2.0 Next-Generation Container Hypervisor for Ubuntu 16.04. So is this better than qemu-kvm?
+2016-04-12 20:47:46	eelstrebor	and some of the header files that are referenced from within gtk.h can't be reached
+2016-04-12 20:48:03	<--	avis (~ident@pdpc/supporter/student/avis) has quit (Ping timeout: 248 seconds)
+2016-04-12 20:48:12	eelstrebor	jimi have the development files
+2016-04-12 20:48:18	bsfc	(I still have gtk-2.0) I have /usr/include/gtk-{2,3}.0
+2016-04-12 20:48:28	RayTracer	compdoc: not only that, it's also better than gcc and libreoffice
+2016-04-12 20:48:29	eelstrebor	me too
+2016-04-12 20:48:35	<--	skytrash (~endcipher@unaffiliated/skytrash) has quit (Ping timeout: 248 seconds)
+2016-04-12 20:48:41	compdoc	troll
+2016-04-12 20:48:50	RayTracer	compdoc: proof it!
+2016-04-12 20:48:50	<--	cjbischof_ (~cjbischof@74-92-217-97-Colorado.hfc.comcastbusiness.net) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-04-12 20:48:59	<--	Flynnn (~textual@unaffiliated/flynnn) has quit (Quit: Auf Wiedersehen!)
+2016-04-12 20:48:59	-->	dslevin (~dslev@ool-45727847.dyn.optonline.net) has joined ##linux
+2016-04-12 20:49:14	<--	dslevin (~dslev@ool-45727847.dyn.optonline.net) has quit (Max SendQ exceeded)
+2016-04-12 20:49:39	RayTracer	compdoc: and if you can't make out the parallels I try to draw, you can't compare virtualization (kvm) with container
+2016-04-12 20:49:47	<--	inex (~inex@unaffiliated/inex) has quit (Quit: ｄ ａ ｎ ｋ ｍ ｅ ｍ ｅ ｓ)
+2016-04-12 20:49:50	<--	fti__ (~fti@dslb-088-070-008-249.088.070.pools.vodafone-ip.de) has quit (Quit: Going offline, see ya! (www.adiirc.com))
+2016-04-12 20:49:51	eelstrebor	using ln -s partially corrected my issue
+2016-04-12 20:50:20	<--	Preytell (40f23421@gateway/web/freenode/ip.64.242.52.33) has quit (Quit: Page closed)
+2016-04-12 20:50:29	<--	justsomeguy (~quassel@unaffiliated/--/x-3805311) has quit (Read error: Connection reset by peer)
+2016-04-12 20:50:30	-->	dslevin (~dslev@ool-45727847.dyn.optonline.net) has joined ##linux
+2016-04-12 20:51:03	<--	dslevin (~dslev@ool-45727847.dyn.optonline.net) has quit (Max SendQ exceeded)
+2016-04-12 20:51:04	<--	sudeepholla (sudeep@nat/arm/x-mwpkwicyrkyxnqgd) has quit (Ping timeout: 240 seconds)
+2016-04-12 20:51:35	-->	dslevin (~dslev@ool-45727847.dyn.optonline.net) has joined ##linux
+2016-04-12 20:51:38	<--	^esc (~esc-ape@178.165.139.74.wireless.dyn.drei.com) has quit (Ping timeout: 244 seconds)
+2016-04-12 20:51:56	-->	sudeepholla (sudeep@nat/arm/x-sjwbcvjzhrsfoapu) has joined ##linux
+2016-04-12 20:52:06	<--	dslevin (~dslev@ool-45727847.dyn.optonline.net) has quit (Max SendQ exceeded)
+2016-04-12 20:52:14	-->	^esc (~esc-ape@178.165.128.62.wireless.dyn.drei.com) has joined ##linux
+2016-04-12 20:52:43	<--	mdih (~dom@112.201.203.146) has quit (Ping timeout: 250 seconds)
+2016-04-12 20:53:12	<--	mxbosco (4ad73bb6@gateway/web/freenode/ip.74.215.59.182) has quit (Quit: Page closed)
+2016-04-12 20:53:28	-->	dsl_ (~dsl@103.28.131.248) has joined ##linux
+2016-04-12 20:53:28	<--	flyback (~flyback@2001:5c0:1400:a::8d) has quit (Quit: Leaving)
+2016-04-12 20:53:34	-->	Whiskey (~Whiskey@31.44.232.185) has joined ##linux
+2016-04-12 20:53:38	<--	rud0lf (~rud0lf@unaffiliated/rud0lf) has quit (Read error: Connection reset by peer)
+2016-04-12 20:53:42	-->	flyback (~flyback@2001:5c0:1400:a::8d) has joined ##linux
+2016-04-12 20:54:04	-->	rud0lf (~rud0lf@unaffiliated/rud0lf) has joined ##linux
+2016-04-12 20:54:05	-->	Langley (~kjihu@80-71-135-66.u.parknet.dk) has joined ##linux
+2016-04-12 20:54:14	-->	dslevin (~dslev@ool-45727847.dyn.optonline.net) has joined ##linux
+2016-04-12 20:54:24	<--	txpl (~txpl@c-73-216-147-211.hsd1.va.comcast.net) has quit (Remote host closed the connection)
+2016-04-12 20:54:30	jim	eelstrebor, just so you know, the packaging takes care of most of that stuff... if you rm files in packages, you can easily break your installation by confusing your package database
+2016-04-12 20:54:46	<--	dslevin (~dslev@ool-45727847.dyn.optonline.net) has quit (Max SendQ exceeded)
+2016-04-12 20:54:49	-->	jml2 (~jml2@modemcable108.157-131-66.mc.videotron.ca) has joined ##linux
+2016-04-12 20:54:56	<--	ginhk (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has quit (Quit: Bye)
+2016-04-12 20:55:12	<--	Batze (~sad@p549F9E6C.dip0.t-ipconnect.de) has quit (Read error: Connection reset by peer)
+2016-04-12 20:55:14	jim	similarly, if you add stuff
+2016-04-12 20:55:24	-->	ginhk (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has joined ##linux
+2016-04-12 20:55:30	-->	comingsoontm_ (~comingsoo@70.51.201.41) has joined ##linux
+2016-04-12 20:55:46	-->	Kermit__ (~ag@unaffiliated/kermit/x-8994111) has joined ##linux
+2016-04-12 20:55:58	eelstrebor	jim, i don't think i've ever done anything that stupid
+2016-04-12 20:56:24	<--	Batch (~Batch@unaffiliated/batch) has quit (Quit: Leaving)
+2016-04-12 20:56:30	<--	Ceber (~PHP5445-0@dslb-092-072-045-191.092.072.pools.vodafone-ip.de) has quit (Ping timeout: 276 seconds)
+2016-04-12 20:56:51	-->	Flynnn (~textual@unaffiliated/flynnn) has joined ##linux
+2016-04-12 20:56:52	<--	Vile` (Vile@unaffiliated/vile/x-1886500) has quit (Ping timeout: 264 seconds)
+2016-04-12 20:56:58	-->	mswelsh (~mswelsh@2605:a000:161a:c0f6:92b1:1cff:fe69:9a53) has joined ##linux
+2016-04-12 20:57:03	<--	comingsoontm (~comingsoo@70.51.201.41) has quit (Ping timeout: 240 seconds)
+2016-04-12 20:57:29	<--	CptUnlucky (~Nunzio@151.30.0.202) has quit (Ping timeout: 268 seconds)
+2016-04-12 20:57:41	<--	kazuka (~kazuka@unaffiliated/kazuka) has quit (Read error: Connection reset by peer)
+2016-04-12 20:57:46	<--	Assailant (~Assailant@204.152.207.218) has quit (Ping timeout: 265 seconds)
+2016-04-12 20:57:50	<--	ginhk (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has quit (Client Quit)
+2016-04-12 20:58:27	<--	Flynnn (~textual@unaffiliated/flynnn) has quit (Client Quit)
+2016-04-12 20:58:39	<--	clemf (~textual@c-50-139-41-170.hsd1.or.comcast.net) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 20:58:40	-->	ginyc (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has joined ##linux
+2016-04-12 20:58:49	janof	what manpage would help me understand how a autofs map file should be written?
+2016-04-12 20:58:52	<--	sanidhya (~sanidhya@lawn-128-61-45-86.lawn.gatech.edu) has quit (Ping timeout: 252 seconds)
+2016-04-12 20:58:52	<--	jnewt (~jnewt@c-174-58-181-162.hsd1.ks.comcast.net) has quit (Ping timeout: 252 seconds)
+2016-04-12 20:59:17	jml2	janof, apropos .|grep autofs
+2016-04-12 20:59:18	share	wth http://lists.claws-mail.org/pipermail/users/attachments/20160410/7fdca7e7/attachment-0001.png
+2016-04-12 20:59:25	<--	Powersource (~Powersour@c-89-160-37-16.cust.bredband2.com) has quit (Remote host closed the connection)
+2016-04-12 20:59:38	-->	fev3r101 (~fev3r101@5.134.116.205) has joined ##linux
+2016-04-12 21:00:01	-->	Assailant_ (~Assailant@192.161.52.194) has joined ##linux
+2016-04-12 21:00:01	-->	txpl (~txpl@c-73-216-147-211.hsd1.va.comcast.net) has joined ##linux
+2016-04-12 21:00:04	<--	schnoodles (~joshbenha@4.26.222.180.cable.dyn.gex.ncable.com.au) has quit (Ping timeout: 240 seconds)
+2016-04-12 21:00:05	-->	bullgard4 (~bullgard4@dslb-094-223-002-168.094.223.pools.vodafone-ip.de) has joined ##linux
+2016-04-12 21:00:23	-->	clemf (~textual@c-50-139-41-170.hsd1.or.comcast.net) has joined ##linux
+2016-04-12 21:00:25	<--	boingolov (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:00:27	-->	Guy1524 (48562ad5@gateway/web/freenode/ip.72.86.42.213) has joined ##linux
+2016-04-12 21:00:34	Guy1524	hey guys what is the key you need to use to boot from usb on a dell xps 400
+2016-04-12 21:00:51	-->	rda (~rda@71.118.184.178) has joined ##linux
+2016-04-12 21:01:01	-->	anishathalye (~anish@dhcp-18-189-123-182.dyn.mit.edu) has joined ##linux
+2016-04-12 21:01:11	jml2	Guy1524, knowledge?
+2016-04-12 21:01:20	 *	catbeard lols
+2016-04-12 21:01:28	<--	compdoc (~me@unaffiliated/compdoc) has quit
+2016-04-12 21:01:28	pingfloyd	Guy1524: is this secure boot crap?
+2016-04-12 21:01:29	share	Guy1524: try F keys
+2016-04-12 21:01:31	catbeard	usually DEL or an F key
+2016-04-12 21:01:35	-->	Vile` (Vile@unaffiliated/vile/x-1886500) has joined ##linux
+2016-04-12 21:01:40	-->	comingsoontm (~comingsoo@70.51.201.41) has joined ##linux
+2016-04-12 21:01:42	-->	kazuka (~kazuka@unaffiliated/kazuka) has joined ##linux
+2016-04-12 21:01:42	<--	johnmilton (~johnmilto@orange.tampabay.com) has quit (Ping timeout: 276 seconds)
+2016-04-12 21:01:45	bsfc	Guy1524: I have a Dell XPS, it's in the bios setup
+2016-04-12 21:01:52	catbeard	then set your BIOS to boot usb, or sometimes there's a 'boot menu' key
+2016-04-12 21:02:00	Guy1524	ok
+2016-04-12 21:02:05	-->	Ceber (~PHP5445-0@dslb-092-072-045-191.092.072.pools.vodafone-ip.de) has joined ##linux
+2016-04-12 21:02:06	catbeard	if usb boot is enabled in BIOS
+2016-04-12 21:02:19	-->	boingolov (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has joined ##linux
+2016-04-12 21:02:28	pingfloyd	or the boot menu on post?
+2016-04-12 21:02:29	<--	theskillwithin-w (~yay@unaffiliated/theskillwithin-w) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 21:02:32	pingfloyd	try esc or F12
+2016-04-12 21:02:33	bsfc	you have to put it first in the boot order
+2016-04-12 21:02:44	bsfc	it's disabled by default
+2016-04-12 21:03:14	-->	schnoodles (~joshbenha@4.26.222.180.cable.dyn.gex.ncable.com.au) has joined ##linux
+2016-04-12 21:03:49	<--	anishathalye (~anish@dhcp-18-189-123-182.dyn.mit.edu) has quit (Remote host closed the connection)
+2016-04-12 21:03:59	-->	anishathalye (~anish@dhcp-18-189-123-182.dyn.MIT.EDU) has joined ##linux
+2016-04-12 21:04:00	-->	cyrax (~cyrax@93-38-79-44.ip69.fastwebnet.it) has joined ##linux
+2016-04-12 21:04:04	<--	bigbadjesus (~WAT@unaffiliated/psidrome) has quit (Ping timeout: 240 seconds)
+2016-04-12 21:04:09	<--	somebody2 (~somebody@2601:5cc:0:5e1a:221:9bff:fe1b:ce94) has quit (Quit: somebody2)
+2016-04-12 21:04:09	-->	theRealGent (~theRealGe@unaffiliated/therealgent) has joined ##linux
+2016-04-12 21:04:12	-->	Flynnn (~textual@unaffiliated/flynnn) has joined ##linux
+2016-04-12 21:04:13	-->	hitest (~hitest@unaffiliated/hitest) has joined ##linux
+2016-04-12 21:04:20	<--	tx (~texta@pdpc/supporter/professional/texta) has quit (Remote host closed the connection)
+2016-04-12 21:04:32	<--	theRealGent (~theRealGe@unaffiliated/therealgent) has quit (Client Quit)
+2016-04-12 21:04:36	-->	tx (~texta@pdpc/supporter/professional/texta) has joined ##linux
+2016-04-12 21:04:50	<--	tx (~texta@pdpc/supporter/professional/texta) has quit (Remote host closed the connection)
+2016-04-12 21:05:03	<--	comingsoontm_ (~comingsoo@70.51.201.41) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:05:28	-->	tx (~texta@pdpc/supporter/professional/texta) has joined ##linux
+2016-04-12 21:05:33	<--	somis (~somis@167.160.44.217) has quit (Quit: WeeChat 1.4)
+2016-04-12 21:05:49	-->	shavitBit (~shavit@87.70.66.251) has joined ##linux
+2016-04-12 21:05:57	<--	Flynnn (~textual@unaffiliated/flynnn) has quit (Client Quit)
+2016-04-12 21:06:07	<--	KD8NXH-Michigan (~quassel@c-68-43-178-141.hsd1.mi.comcast.net) has quit (Remote host closed the connection)
+2016-04-12 21:06:36	MrFahrenheit	I forgot to run btrfs balance under tmux, will it continue to run if my ssh session is lost?
+2016-04-12 21:07:06	-->	KD8NXH-Michigan (~quassel@c-68-43-178-141.hsd1.mi.comcast.net) has joined ##linux
+2016-04-12 21:07:07	-->	treehug88 (~textual@cpe-74-66-7-27.nyc.res.rr.com) has joined ##linux
+2016-04-12 21:07:10	<--	degantyll (~randres@177.245.233.141) has quit (Quit: WeeChat 1.3)
+2016-04-12 21:07:19	-->	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has joined ##linux
+2016-04-12 21:07:40	-->	ForTheWin (~ForTheWin@unaffiliated/forthewin) has joined ##linux
+2016-04-12 21:07:44	-->	doomlord (~textual@host217-42-162-151.range217-42.btcentralplus.com) has joined ##linux
+2016-04-12 21:07:46	-->	mdih (~dom@112.201.203.146) has joined ##linux
+2016-04-12 21:07:48	-->	boingolo1 (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has joined ##linux
+2016-04-12 21:07:52	-->	daveops (~daveops@50-204-188-218-static.hfc.comcastbusiness.net) has joined ##linux
+2016-04-12 21:08:09	<--	cyrax (~cyrax@93-38-79-44.ip69.fastwebnet.it) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:08:43	<--	shavit (~shavit@87.70.66.251) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:09:12	-->	johnmilton (~johnmilto@orange.tampabay.com) has joined ##linux
+2016-04-12 21:09:24	-->	shantorn (~Shantorn@216-161-88-17.ptld.qwest.net) has joined ##linux
+2016-04-12 21:09:52	<--	esotericnonsens_ (~esoteric@unaffiliated/esotericnonsense) has quit (Ping timeout: 252 seconds)
+2016-04-12 21:10:14	-->	oldtopman (~oldtopman@unaffiliated/oldtopman) has joined ##linux
+2016-04-12 21:10:21	-->	CyberDrone (~CyberDron@79.114.86.192) has joined ##linux
+2016-04-12 21:10:32	<--	feigned (~sonidovv@unaffiliated/son1dow) has quit (Quit: Leaving)
+2016-04-12 21:10:33	<--	ginyc (~ginslo@pool-74-101-196-236.nycmny.fios.verizon.net) has left ##linux
+2016-04-12 21:11:40	<--	netsnail (~netsnail@106.2.176.78) has quit (Quit: Lost terminal)
+2016-04-12 21:11:42	-->	CyberDrone1 (~CyberDron@79.114.86.192) has joined ##linux
+2016-04-12 21:12:03	<--	boingolov (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has quit (Ping timeout: 248 seconds)
+2016-04-12 21:12:04	<--	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has quit (Ping timeout: 252 seconds)
+2016-04-12 21:12:09	-->	monod (~monod12@host198-178-dynamic.56-82-r.retail.telecomitalia.it) has joined ##linux
+2016-04-12 21:12:11	-->	zivester (~zivester@pool-100-35-242-158.nwrknj.fios.verizon.net) has joined ##linux
+2016-04-12 21:12:12	<--	CyberDrone1 (~CyberDron@79.114.86.192) has quit (Client Quit)
+2016-04-12 21:12:33	-->	mxbosco (4ad73bb6@gateway/web/freenode/ip.74.215.59.182) has joined ##linux
+2016-04-12 21:12:43	janof	the autofs files, my book is referring to them as mapper files, that look like   *  -rw,sync exampledotcom:/home/share  ... where can i find documentation on this ? ive checked the man pages for autofs, auto.master, and a few others
+2016-04-12 21:12:47	-->	nedstark (~nedstark@unaffiliated/nedstark) has joined ##linux
+2016-04-12 21:13:05	<--	alex____ (~alex@dhcp-058161.biomol.uci.edu) has quit (Ping timeout: 250 seconds)
+2016-04-12 21:13:09	jml2	janof, autofs automounts filesystems on directory access
+2016-04-12 21:13:26	jml2	janof, it can't mount something where there's a missing filesystem driver
+2016-04-12 21:13:40	|DM|	Does the tag for the l1 cache refrence main memory, or refrence l2 ?
+2016-04-12 21:13:42	-->	cmdx (~cmdx@109.11.28.78.cable.dyn.petrus.com.pl) has joined ##linux
+2016-04-12 21:14:05	RayTracer	janof: http://linux.die.net/man/5/autofs
+2016-04-12 21:14:22	<--	steviedons (~quassel@stephendonovan.plus.com) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:14:23	pingfloyd	MrFahrenheit: see method 2 http://www.kossboss.com/linux---move-running-to-process-nohup
+2016-04-12 21:14:35	-->	nils_ (~nils_@pdpc/supporter/35for7/nils) has joined ##linux
+2016-04-12 21:14:44	janof	jml2:  if they ask me to create a new nfs automout with autofs, and I create a new file in auto.master.d/  called shared.autofs    .. and inside this i say    /mount/on/shared     /etc/mountingdetails.demo
+2016-04-12 21:14:56	<--	Adran (adran@botters/staff/adran) has quit (Quit: Este é o fim.)
+2016-04-12 21:15:13	<--	Blueking (~blueking@99.109-247-165.customer.lyse.net) has quit
+2016-04-12 21:15:17	janof	that second part, the mountingdetails.demo file that tells autofs how to mount it ... which looks something like    /some/place -rw,sync/sec=krb5p  ... etc
+2016-04-12 21:15:22	<--	dexter___ (~dexter@modemcable136.201-161-184.mc.videotron.ca) has quit (Ping timeout: 268 seconds)
+2016-04-12 21:15:27	janof	where can I find details on that part
+2016-04-12 21:16:46	<--	pwnawannab[NE] (~pwnawanna@c-73-227-117-239.hsd1.nh.comcast.net) has quit (Ping timeout: 248 seconds)
+2016-04-12 21:17:09	<--	cliluw (~cliluw@unaffiliated/cliluw) has quit (Quit: Leaving)
+2016-04-12 21:17:24	-->	hunter2 (~hunter2@unaffiliated/hunter2) has joined ##linux
+2016-04-12 21:17:50	share	any firefox expert
+2016-04-12 21:18:16	<--	AtumT_ (~AtumT@177.205.72.160.dynamic.adsl.gvt.net.br) has quit (Remote host closed the connection)
+2016-04-12 21:18:23	share	https://i.imgur.com/ICI6kj3.png how to get rid of those thick borders in firefox
+2016-04-12 21:18:27	pingfloyd	share: I have a PhD in firefox
+2016-04-12 21:18:29	jim	just ask your question... specific, informative
+2016-04-12 21:18:31	share	lol
+2016-04-12 21:19:04	share	gtk3 config?
+2016-04-12 21:19:04	jml2	share, probably that's  gtk theme related topic
+2016-04-12 21:19:06	pingfloyd	or was it a black belt?
+2016-04-12 21:19:18	<--	Guy1524 (48562ad5@gateway/web/freenode/ip.72.86.42.213) has quit (Quit: Page closed)
+2016-04-12 21:19:42	jml2	share, you might be able to find something  relevant with 'style' (about:config)
+2016-04-12 21:19:47	share	jml2: xfce theme does not affect those borders. xfce uses gtk2, firefox gtk3
+2016-04-12 21:19:53	-->	steviedons (~quassel@stephendonovan.plus.com) has joined ##linux
+2016-04-12 21:19:59	janof	jml2:  i found it, it is in the man 5 autofs
+2016-04-12 21:20:01	<--	kazuka (~kazuka@unaffiliated/kazuka) has quit (Ping timeout: 250 seconds)
+2016-04-12 21:20:28	share	jml2: I didn't change a thing in about:config
+2016-04-12 21:20:28	pingfloyd	share: then you need an app for changing gtk3 theme for that
+2016-04-12 21:20:33	-->	FenikkusuOsiris (~fenikkusu@208.167.254.92) has joined ##linux
+2016-04-12 21:20:33	<--	Bellator (~Bellator@5ED2A0CE.cm-7-3c.dynamic.ziggo.nl) has quit (Ping timeout: 276 seconds)
+2016-04-12 21:20:53	<--	htmldrum (~htmldrum@49.255.234.58) has quit (Quit: Lost terminal)
+2016-04-12 21:21:04	<--	sadmin (~Hi@unaffiliated/n00dl3) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:21:21	FenikkusuOsiris	Does anyone have any good verbage on how I might go about determining which device in my network chain is preventing an incoming connection?
+2016-04-12 21:21:26	share	there's ~/.config/gtk-3.0/settings.ini
+2016-04-12 21:21:53	pingfloyd	share: maybe try lxappearance
+2016-04-12 21:22:11	-->	rubsud24 (~pi@pool-173-63-125-147.nwrknj.fios.verizon.net) has joined ##linux
+2016-04-12 21:22:13	<--	XndrK (~Alex@74.214.171.140) has left ##linux
+2016-04-12 21:22:29	pingfloyd	share: yeah, you can edit that file by hand if you want
+2016-04-12 21:22:35	<--	ucmofo (~ucmofo@d24-141-225-130.home.cgocable.net) has quit (Quit: Leaving)
+2016-04-12 21:22:42	pingfloyd	but lxappearance should let you edit it visually
+2016-04-12 21:22:45	-->	cliluw (~cliluw@unaffiliated/cliluw) has joined ##linux
+2016-04-12 21:23:06	-->	jnewt (~jnewt@104.200.151.13) has joined ##linux
+2016-04-12 21:23:09	<--	mdih (~dom@112.201.203.146) has quit (Ping timeout: 276 seconds)
+2016-04-12 21:23:17	jml2	FenikkusuOsiris, maybe it's your isp
+2016-04-12 21:23:17	<--	monod (~monod12@host198-178-dynamic.56-82-r.retail.telecomitalia.it) has left ##linux ("Sto andando via")
+2016-04-12 21:23:28	-->	SwiftMatt (~Objective@132.194.33.23) has joined ##linux
+2016-04-12 21:23:35	<--	jetmainraid (~androirc@114.79.48.98) has quit (Remote host closed the connection)
+2016-04-12 21:23:38	FenikkusuOsiris	jml2, it certainly could be.
+2016-04-12 21:23:58	jml2	FenikkusuOsiris, you can use grc's free shields up tester online
+2016-04-12 21:25:04	<--	SwiftMatt (~Objective@132.194.33.23) has quit (Client Quit)
+2016-04-12 21:25:36	<--	rubsud24 (~pi@pool-173-63-125-147.nwrknj.fios.verizon.net) has quit (Quit: leaving)
+2016-04-12 21:26:04	pingfloyd	FenikkusuOsiris: incoming connection to what?
+2016-04-12 21:26:05	-->	karmahacker (~karmahack@unaffiliated/karmahacker) has joined ##linux
+2016-04-12 21:26:43	pingfloyd	FenikkusuOsiris: you need to know the protocol and port and then configure your firewall to allow passage or port forward the service.
+2016-04-12 21:26:50	-->	poleprogger (~mj@p4FC949F5.dip0.t-ipconnect.de) has joined ##linux
+2016-04-12 21:27:49	<--	cyberviking (~cyberviki@ppp-171-96-182-136.revip8.asianet.co.th) has quit (Ping timeout: 250 seconds)
+2016-04-12 21:27:49	<--	z3r0sTr3sS (~root@unaffiliated/z3r0str3ss) has quit (Ping timeout: 250 seconds)
+2016-04-12 21:27:51	<--	miningmarsh (~user@unaffiliated/miningmarsh) has quit (Remote host closed the connection)
+2016-04-12 21:28:01	<--	asc232 (~Keith@179.38.235.116) has quit (Ping timeout: 252 seconds)
+2016-04-12 21:28:04	-->	SlP_ (~slp@213-65-8-173-no18.tbcn.telia.com) has joined ##linux
+2016-04-12 21:28:14	<--	greenbagels (~gb@2607:fcc8:9c82:6800:62be:b26b:db8a:7625) has quit (Quit: WeeChat 1.5-dev)
+2016-04-12 21:28:17	-->	guampa (~guampa@unaffiliated/guampa) has joined ##linux
+2016-04-12 21:28:29	-->	vakka (~flagship@2605:6000:ef11:cb00::13) has joined ##linux
+2016-04-12 21:28:34	<--	tux|dude (~tuxdude14@122.56.89.81) has quit (Quit: Leaving)
+2016-04-12 21:28:39	share	RIP themes
+2016-04-12 21:28:50	share	qbittorrent, firefox, thunar etc
+2016-04-12 21:28:58	FenikkusuOsiris	pingfloyd, I realize that. I've already done so. However, I'm still getting connection refused. I have multiple devices between myself and the actual internet, and I'm trying to determine which of these devices is the cause for the failure.
+2016-04-12 21:29:02	prussian	what did you do share ?
+2016-04-12 21:29:04	<--	jass93_ (~ifillj@rpi-wl-1288.dynamic.rpi.edu) has quit (Ping timeout: 260 seconds)
+2016-04-12 21:29:06	-->	HansE (~HansE@88.177.189.109.customer.cdi.no) has joined ##linux
+2016-04-12 21:29:11	-->	Infinital (~Infinital@unaffiliated/infinital) has joined ##linux
+2016-04-12 21:29:14	<--	Kermit__ (~ag@unaffiliated/kermit/x-8994111) has quit (Quit: leaving)
+2016-04-12 21:29:16	pingfloyd	FenikkusuOsiris: which devices?
+2016-04-12 21:29:19	jml2	he un-shared his theme
+2016-04-12 21:29:19	share	prussian: arch linux/GNOME did
+2016-04-12 21:29:26	prussian	oh
+2016-04-12 21:29:27	prussian	ri[
+2016-04-12 21:29:29	prussian	rip
+2016-04-12 21:29:31	pingfloyd	FenikkusuOsiris: the question is what is between the host and the internet
+2016-04-12 21:29:34	<--	kiao2938 (~mj@p4FC94780.dip0.t-ipconnect.de) has quit (Ping timeout: 240 seconds)
+2016-04-12 21:29:35	share	it's never my fault. i swear
+2016-04-12 21:29:42	prussian	ya
+2016-04-12 21:29:43	-->	drumr7 (~drumr@ip70-162-116-119.ph.ph.cox.net) has joined ##linux
+2016-04-12 21:29:46	FenikkusuOsiris	pingfloyd, various routers.
+2016-04-12 21:29:58	share	where is svetlana when I need a Russian translator
+2016-04-12 21:30:17	pingfloyd	FenikkusuOsiris: then they all need to be configured to forward
+2016-04-12 21:30:51	<--	PCLine__ (~PCLine_@cpe-69-133-54-2.cinci.res.rr.com) has quit (Quit: Leaving)
+2016-04-12 21:31:05	prussian	or use UPnP
+2016-04-12 21:31:12	pingfloyd	FenikkusuOsiris: you probably also need to configure some static routes as well
+2016-04-12 21:31:23	FenikkusuOsiris	...you are not listening to me. I have ALREADY configured them to forward, but I still get a connection refused. That is why I want determine which hop is causing the issue.
+2016-04-12 21:31:45	<--	herzmeister (~herzmeist@dslb-094-216-072-140.094.216.pools.vodafone-ip.de) has quit (Quit: Leaving)
+2016-04-12 21:31:52	<--	Emmanuel_Chanel (~emmanuel@ZN021254.ppp.dion.ne.jp) has quit (Read error: Connection reset by peer)
+2016-04-12 21:31:55	jml2	FenikkusuOsiris, maybe your routers are not set properly
+2016-04-12 21:32:04	pingfloyd	connection refused means your firewall is rejecting
+2016-04-12 21:32:05	-->	herzmeister (~herzmeist@46.166.190.225) has joined ##linux
+2016-04-12 21:32:06	-->	rubsud24 (~pi@pool-173-63-125-147.nwrknj.fios.verizon.net) has joined ##linux
+2016-04-12 21:32:06	<--	fleshtheworld (~fleshthew@108-240-244-194.lightspeed.frsnca.sbcglobal.net) has quit (Ping timeout: 246 seconds)
+2016-04-12 21:32:24	pingfloyd	jml2: highly likely
+2016-04-12 21:32:31	prussian	FenikkusuOsiris: what service?
+2016-04-12 21:32:34	prussian	like
+2016-04-12 21:32:36	prussian	what port?
+2016-04-12 21:32:52	diegoviola	have you guys tried this flavor of linux pizza already? http://imgur.com/pE8c3wJ
+2016-04-12 21:33:01	-->	pandabearit (~cam@pool-98-118-162-190.bflony.fios.verizon.net) has joined ##linux
+2016-04-12 21:33:08	prussian	nah
+2016-04-12 21:33:11	pingfloyd	diegoviola: lol
+2016-04-12 21:33:15	triceratux	share: что не так с Google Translate? https://translate.google.com/
+2016-04-12 21:33:16	<--	pandabearit (~cam@pool-98-118-162-190.bflony.fios.verizon.net) has quit (Changing host)
+2016-04-12 21:33:16	-->	pandabearit (~cam@unaffiliated/pandabearit) has joined ##linux
+2016-04-12 21:33:22	<--	arlion|home (~arlion@unaffiliated/arlion) has quit (Quit: WeeChat 1.3)
+2016-04-12 21:33:28	jml2	diegoviola, not me, but is it good?
+2016-04-12 21:33:39	diegoviola	not sure
+2016-04-12 21:33:44	pingfloyd	they used green olives on it though, wtf?
+2016-04-12 21:33:46	-->	enterprisey (~enterpris@wikipedia/APerson) has joined ##linux
+2016-04-12 21:33:46	diegoviola	probably
+2016-04-12 21:33:56	-->	arooni (~textual@108-207-116-185.lightspeed.mssnks.sbcglobal.net) has joined ##linux
+2016-04-12 21:33:56	pingfloyd	who puts green olives on pizza?
+2016-04-12 21:34:02	jml2	i love green olives
+2016-04-12 21:34:08	pingfloyd	jml2: not on pizza
+2016-04-12 21:34:12	jml2	yes on pizza
+2016-04-12 21:34:16	pingfloyd	green olives go in martinis
+2016-04-12 21:34:19	-->	jass93 (~ifillj@rrcs-208-125-81-35.nys.biz.rr.com) has joined ##linux
+2016-04-12 21:34:25	pingfloyd	black olives go on pizza
+2016-04-12 21:34:28	jml2	i like ham too
+2016-04-12 21:34:42	pingfloyd	I'd rather have canadian bacon than ham
+2016-04-12 21:34:45	<--	mackal (~mike@pool-96-237-144-12.bstnma.fios.verizon.net) has quit (Quit: BE VIGILANT.)
+2016-04-12 21:34:46	-->	cybrside (~cybrside@li370-169.members.linode.com) has joined ##linux
+2016-04-12 21:34:46	 *	jim likes ham radios
+2016-04-12 21:35:05	jml2	i don't like meatballs on my pizza
+2016-04-12 21:35:06	tekknik	pretty common where i'm at to have green olives
+2016-04-12 21:35:08	pingfloyd	in fact I hate when pizza joints think ham is canadian bacon
+2016-04-12 21:35:20	pingfloyd	places that do that are philistines
+2016-04-12 21:35:30	-->	nelek_ (~nf@ip-213-49-109-61.dsl.scarlet.be) has joined ##linux
+2016-04-12 21:35:30	jaagr	!!
+2016-04-12 21:35:34	nat0	green olives on bagels = best breakfast
+2016-04-12 21:35:34	jaagr	wops.
+2016-04-12 21:35:42	nat0	only breakfast
+2016-04-12 21:35:53	jml2	they serve onion rings at 'pizza pizza' and they're awfully made
+2016-04-12 21:35:56	nat0	with creamcheese, ofc
+2016-04-12 21:35:57	<--	txpl (~txpl@c-73-216-147-211.hsd1.va.comcast.net) has quit (Remote host closed the connection)
+2016-04-12 21:36:02	pingfloyd	jml2: ever had a dirty martini?
+2016-04-12 21:36:12	-->	praetorian_ (~axiom_1@2601:7c0:8301:e36a:e11b:c402:c355:a7dc) has joined ##linux
+2016-04-12 21:36:16	-->	fyrril (~fyrril@cpe-98-122-16-231.sc.res.rr.com) has joined ##linux
+2016-04-12 21:36:25	pingfloyd	if you like green olives a lot, you'll probably love that drink
+2016-04-12 21:36:25	bsfc	otsutstvuyet pitstsa
+2016-04-12 21:36:27	jml2	pingfloyd, i dont tehehe
+2016-04-12 21:36:30	<--	Oatmeal (~Suzeanne@75-103-145-152.ccrtc.com) has quit (Ping timeout: 248 seconds)
+2016-04-12 21:36:32	-->	mints (~mints@gateway/vpn/privateinternetaccess/mints) has joined ##linux
+2016-04-12 21:36:42	<--	Sixmsj (~Sixmsj@c-73-189-102-185.hsd1.ca.comcast.net) has quit (Quit: Sixmsj)
+2016-04-12 21:36:45	jml2	pingfloyd, apparently we have different tastes xD
+2016-04-12 21:37:00	-->	nevodka (~nevodka@stupool16.seattleu.edu) has joined ##linux
+2016-04-12 21:37:00	pingfloyd	jml2: it's basically a traditional martini, but they put some green olive juice in it too
+2016-04-12 21:37:02	<--	HansE (~HansE@88.177.189.109.customer.cdi.no) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 21:37:07	jml2	pingfloyd, here they also serve poutine at my local pizza place
+2016-04-12 21:37:29	-->	andy__ (~andy@c-67-177-205-201.hsd1.co.comcast.net) has joined ##linux
+2016-04-12 21:37:32	nat0	poutine is deadly
+2016-04-12 21:37:36	<--	bollullera (~anuxi@84.120.65.127.dyn.user.ono.com) has left ##linux
+2016-04-12 21:37:41	-->	Konsole (~konsole@unaffiliated/konsole) has joined ##linux
+2016-04-12 21:38:02	<--	niemal (~mein@unaffiliated/anoniem4l) has quit (Ping timeout: 260 seconds)
+2016-04-12 21:38:08	jml2	they put so much gravy on it like its a potato soup
+2016-04-12 21:38:10	jml2	lol
+2016-04-12 21:38:25	pingfloyd	I've never had poutine
+2016-04-12 21:38:28	<--	nelek (~nf@unaffiliated/nelek) has quit (Ping timeout: 252 seconds)
+2016-04-12 21:38:32	pingfloyd	isn't that a Canadian thing?
+2016-04-12 21:38:33	bsfc	xtra cheese is a must
+2016-04-12 21:38:39	jml2	its a quebecer thing..
+2016-04-12 21:38:46	-->	vervet (~vervet@unaffiliated/vervet) has joined ##linux
+2016-04-12 21:38:46	nat0	northeastern too
+2016-04-12 21:38:47	pingfloyd	I've had chili and cheese fries though
+2016-04-12 21:38:50	jml2	even mcdonalds carries the poutine slogan
+2016-04-12 21:38:50	-->	Emmanuel_Chanel (~emmanuel@ZN021254.ppp.dion.ne.jp) has joined ##linux
+2016-04-12 21:38:50	jaagr	!!
+2016-04-12 21:39:02	-->	nylaw06 (~RealName@pool-74-101-196-236.nycmny.fios.verizon.net) has joined ##linux
+2016-04-12 21:39:03	-->	jeffreylevesque (~chatzilla@pool-100-15-106-25.washdc.fios.verizon.net) has joined ##linux
+2016-04-12 21:39:03	nat0	well, i've seen it in maine
+2016-04-12 21:39:13	nat0	but i guess that's like canada anyway
+2016-04-12 21:39:26	-->	jass93_ (~ifillj@rrcs-208-125-81-35.nys.biz.rr.com) has joined ##linux
+2016-04-12 21:39:47	pingfloyd	lol, I like how you were pedantic about it being in Quebec
+2016-04-12 21:40:04	pingfloyd	Quebec is to Canada what Texas is to the US
+2016-04-12 21:40:06	jml2	if anyone wants some nice poutine, the ones they make at 'pizza pizza' are better than the mcdonald's edition..
+2016-04-12 21:40:07	bsfc	Quebec rules!
+2016-04-12 21:40:15	nat0	yo quebeqis are serious about quebec
+2016-04-12 21:40:15	-->	Zythyr (~Zythyr@66.231.155.27) has joined ##linux
+2016-04-12 21:40:23	nat0	they fought about it for a long time
+2016-04-12 21:40:46	<--	SlP_ (~slp@213-65-8-173-no18.tbcn.telia.com) has quit (Quit: leaving)
+2016-04-12 21:40:57	nat0	like pretty hard
+2016-04-12 21:41:00	jml2	the sovereignty movement of separation is dead..
+2016-04-12 21:41:04	nat0	kinda sad considering no one else knows the difference
+2016-04-12 21:41:30	jml2	it's mostly the residence outside the montreal area who were in favor of the last referendum pro choice
+2016-04-12 21:41:49	<--	nylaw06 (~RealName@pool-74-101-196-236.nycmny.fios.verizon.net) has left ##linux
+2016-04-12 21:41:52	stoned-in-laptop	 /format own_msg {ownmsgnick $2 {ownnick $[-18]0}}$1
+2016-04-12 21:41:53	<--	jass93 (~ifillj@rrcs-208-125-81-35.nys.biz.rr.com) has quit (Ping timeout: 268 seconds)
+2016-04-12 21:42:02	-->	Lilly_Dev (~Sabrina@173.196.27.14) has joined ##linux
+2016-04-12 21:42:11	-->	esotericnonsense (~esoteric@unaffiliated/esotericnonsense) has joined ##linux
+2016-04-12 21:42:20	stoned-in-laptop	oops
+2016-04-12 21:42:42	<--	Konsole (~konsole@unaffiliated/konsole) has quit (Ping timeout: 260 seconds)
+2016-04-12 21:43:53	-->	redfox (3a4721c2@gateway/web/freenode/ip.58.71.33.194) has joined ##linux
+2016-04-12 21:43:54	<--	Lazik (~341234123@unaffiliated/lazik) has quit (Quit: Nettalk6 - www.ntalk.de)
+2016-04-12 21:43:57	<--	FenikkusuOsiris (~fenikkusu@208.167.254.92) has quit (Ping timeout: 276 seconds)
+2016-04-12 21:44:07	-->	PCLine__ (~PCLine_@cpe-69-133-54-2.cinci.res.rr.com) has joined ##linux
+2016-04-12 21:44:29	-->	alex____ (~alex@dhcp-v219-221.vp.reshsg.uci.edu) has joined ##linux
+2016-04-12 21:44:30	<--	noteness (noteness@unaffiliated/nessessary129) has quit (Ping timeout: 248 seconds)
+2016-04-12 21:45:01	-->	avis (~ident@pdpc/supporter/student/avis) has joined ##linux
+2016-04-12 21:46:35	-->	comingsoontm_ (~comingsoo@70.51.201.41) has joined ##linux
+2016-04-12 21:47:15	-->	sanidhya (~sanidhya@2601:c0:c400:940:de53:60ff:fe08:9a1c) has joined ##linux
+2016-04-12 21:47:26	<--	nkambo (~naresh@49.156.159.34) has quit (Ping timeout: 268 seconds)
+2016-04-12 21:47:56	-->	[R] (~rbox@unaffiliated/rbox) has joined ##linux
+2016-04-12 21:48:05	-->	noteness (noteness@unaffiliated/nessessary129) has joined ##linux
+2016-04-12 21:48:52	share	triceratux: adin adin
+2016-04-12 21:48:54	-->	barbam (~barbam@host201-197-dynamic.47-79-r.retail.telecomitalia.it) has joined ##linux
+2016-04-12 21:48:54	share	or odin
+2016-04-12 21:48:57	[R]	i'm running on a hobbled processor and something is getting compiled with the wrong optimizations and i'm getting a SIGILL in the middle of running a program, but it links to a bunch of libraries and what not... is there a way to figure out what generated the SIGILL?
+2016-04-12 21:48:59	<--	_Wintermute (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:49:01	<--	comingsoontm (~comingsoo@70.51.201.41) has quit (Ping timeout: 244 seconds)
+2016-04-12 21:49:18	<--	Cloudish (~Cloudish@unaffiliated/cloudish) has quit (Ping timeout: 248 seconds)
+2016-04-12 21:49:25	-->	d10n-work (uid37161@gateway/web/irccloud.com/x-wjepfflaapcopsox) has joined ##linux
+2016-04-12 21:49:40	<--	tcpman_ (~tcpman@31-209-194-226.dsl.dynamic.simnet.is) has quit (Ping timeout: 264 seconds)
+2016-04-12 21:49:56	jml2	[R], sigkill?
+2016-04-12 21:50:00	[R]	ILL
+2016-04-12 21:50:02	[R]	illegal instruction
+2016-04-12 21:50:08	-->	_Wintermute (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 21:50:11	bsfc	strace -e trace=signal ?
+2016-04-12 21:50:16	<--	KD8NXH-Michigan (~quassel@c-68-43-178-141.hsd1.mi.comcast.net) has quit (Ping timeout: 264 seconds)
+2016-04-12 21:50:23	jml2	oh that's signal 4 lol
+2016-04-12 21:50:31	jml2	tehehe
+2016-04-12 21:50:36	<--	sarmiena_ (~sarmiena_@wsip-98-191-206-182.oc.oc.cox.net) has quit (Quit: sarmiena_)
+2016-04-12 21:51:09	-->	niemal (~mein@unaffiliated/anoniem4l) has joined ##linux
+2016-04-12 21:51:10	<--	Lilly_Dev (~Sabrina@173.196.27.14) has quit (Read error: Connection reset by peer)
+2016-04-12 21:51:14	[R]	bsfc: thanks, i'll try that
+2016-04-12 21:51:26	<--	barbam (~barbam@host201-197-dynamic.47-79-r.retail.telecomitalia.it) has quit (Quit: MiRC 7.38 ITA by Jalina)
+2016-04-12 21:51:28	-->	Lilly_Dev (~Sabrina@173.196.27.14) has joined ##linux
+2016-04-12 21:51:50	-->	el8_ (~quassel@x4d0969d7.dyn.telefonica.de) has joined ##linux
+2016-04-12 21:51:50	<--	erratic (~erratic@ip-206-125-168-70.netcrave.io) has quit (Quit: All good things must come to an end)
+2016-04-12 21:51:50	<--	el8 (~quassel@x5d83cfc7.dyn.telefonica.de) has quit (Read error: Connection reset by peer)
+2016-04-12 21:51:54	pingfloyd	does that happen if you use just use march=native as your optimization?
+2016-04-12 21:52:26	<--	nylal01 (~RealName@pool-74-101-196-236.nycmny.fios.verizon.net) has quit (Quit: WeeChat 1.4)
+2016-04-12 21:53:09	[R]	i'm cross compiling
+2016-04-12 21:53:16	[R]	and it's supposed to be compiling with the correct optimizations
+2016-04-12 21:53:20	-->	Sixmsj (~Sixmsj@c-73-223-134-226.hsd1.ca.comcast.net) has joined ##linux
+2016-04-12 21:53:25	[R]	everything else in the system works, it's just this one part of this one program
+2016-04-12 21:53:43	-->	tcpman_ (~tcpman@31-209-194-226.dsl.dynamic.simnet.is) has joined ##linux
+2016-04-12 21:53:43	[R]	i even tried manually turning off what i thought it was (sse and mmx) and it still was crashing
+2016-04-12 21:54:03	[R]	i think the program i'm compiling might be making it's own optmiziation flags, i haven't looked at the compile logs yet
+2016-04-12 21:54:18	<--	daveops (~daveops@50-204-188-218-static.hfc.comcastbusiness.net) has quit (Quit: Zzz)
+2016-04-12 21:54:21	-->	nine_9 (~Nine_9@177.45.219.22) has joined ##linux
+2016-04-12 21:54:26	jml2	[R], iirc it should be possible to list compiler flags from a compiled output file
+2016-04-12 21:54:46	<--	Infinital (~Infinital@unaffiliated/infinital) has quit (Quit: Leaving)
+2016-04-12 21:54:48	<--	ozmage (~javashin@unaffiliated/javashin) has quit (Quit: Leaving)
+2016-04-12 21:54:55	[R]	jml2: right now i'm just trying to figure out which piece is casuing it
+2016-04-12 21:55:50	-->	kripx (~kripx@2001:e68:4439:b8d7:e814:3bff:fee5:3571) has joined ##linux
+2016-04-12 21:55:50	-->	MintSpider (~Peter@cpe-96-29-187-2.kya.res.rr.com) has joined ##linux
+2016-04-12 21:56:04	<--	josuebrunel (~Icedove@cho94-3-82-227-125-5.fbx.proxad.net) has quit (Ping timeout: 252 seconds)
+2016-04-12 21:56:07	-->	asc232 (~Keith@179.38.139.179) has joined ##linux
+2016-04-12 21:56:23	<--	Zythyr (~Zythyr@66.231.155.27) has quit
+2016-04-12 21:57:07	-->	MageJames (~MageJames@cpe-172-73-74-46.carolina.res.rr.com) has joined ##linux
+2016-04-12 21:57:18	share	"Hello. My name is Stephen Hawking."
+2016-04-12 21:57:19	<--	MageJames (~MageJames@cpe-172-73-74-46.carolina.res.rr.com) has quit (Remote host closed the connection)
+2016-04-12 21:57:36	<--	cmdx (~cmdx@109.11.28.78.cable.dyn.petrus.com.pl) has quit (Ping timeout: 276 seconds)
+2016-04-12 21:57:44	-->	lex (~lex@static24-72-36-6.r.rev.accesscomm.ca) has joined ##linux
+2016-04-12 21:58:01	-->	jerichodotm2 (~jerichodo@gateway/vpn/privateinternetaccess/jerichodotm) has joined ##linux
+2016-04-12 21:58:24	-->	brent__ (uid134494@gateway/web/irccloud.com/x-tdwtdsankzaxvxbj) has joined ##linux
+2016-04-12 21:58:27	<--	karmahacker (~karmahack@unaffiliated/karmahacker) has quit (Ping timeout: 260 seconds)
+2016-04-12 21:58:32	<--	tpiXvas (~tpiXvas@public-116-184.nat.utoronto.ca) has quit (Ping timeout: 268 seconds)
+2016-04-12 21:58:35	-->	KD8NXH-Michigan (~quassel@2601:400:8000:34f5:230:bdff:fe71:cebd) has joined ##linux
+2016-04-12 21:58:59	<--	Rave1 (~dell@node-1w7jr9yc5q610dccp5iqko9xs.ipv6.telus.net) has quit (Quit: Leaving)
+2016-04-12 21:59:32	<--	bullgard4 (~bullgard4@dslb-094-223-002-168.094.223.pools.vodafone-ip.de) has quit (Changing host)
+2016-04-12 21:59:32	-->	bullgard4 (~bullgard4@unaffiliated/bullgard4) has joined ##linux
+2016-04-12 21:59:53	<--	tharkun (~0@201.157.71.45) has quit (Changing host)
+2016-04-12 21:59:54	-->	tharkun (~0@unaffiliated/tharkun) has joined ##linux
+2016-04-12 22:00:26	tharkun	Which one is more secure ipsec or openvpn?
+2016-04-12 22:00:27	<--	CyberDrone (~CyberDron@79.114.86.192) has quit (Remote host closed the connection)
+2016-04-12 22:01:03	<--	avis (~ident@pdpc/supporter/student/avis) has quit (Ping timeout: 240 seconds)
+2016-04-12 22:01:09	<--	boingolo1 (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has quit (Ping timeout: 260 seconds)
+2016-04-12 22:01:36	<--	vakka (~flagship@2605:6000:ef11:cb00::13) has quit (Quit: Leaving.)
+2016-04-12 22:01:44	<--	jerichodotm1 (~jerichodo@ip174-75-119-21.br.br.cox.net) has quit (Ping timeout: 260 seconds)
+2016-04-12 22:01:46	jml2	tharkun, neither
+2016-04-12 22:01:51	jml2	tharkun, just use plaintext
+2016-04-12 22:02:05	jml2	tharkun, tunnelled with a custom security transport
+2016-04-12 22:02:12	anonymous	tharkun: Well, it's preference really
+2016-04-12 22:02:38	-->	strainwrld (~strainwrl@109.49.32.35) has joined ##linux
+2016-04-12 22:02:38	anonymous	tharkun: the last time I used vpns and stuff, openvpn was generally more supported in terms of firewalls letting in/out stuff
+2016-04-12 22:02:46	[R]	tharkun: some people seem to think ipsec is very hobbled
+2016-04-12 22:02:48	<--	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has quit (Remote host closed the connection)
+2016-04-12 22:02:49	anonymous	Not sure but it might be slightly faster too
+2016-04-12 22:02:55	[R]	tharkun: and it's also extremely complicated
+2016-04-12 22:03:08	-->	Oatmeal (~Suzeanne@75-103-145-152.ccrtc.com) has joined ##linux
+2016-04-12 22:03:11	[R]	a braindead monkey can set up openvpn
+2016-04-12 22:03:22	anonymous	I agree with [R], openvpn is much easier to setup
+2016-04-12 22:03:38	-->	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has joined ##linux
+2016-04-12 22:03:47	<--	C0MPAQ (~l0rd@aftr-109-91-38-198.unity-media.net) has quit (Ping timeout: 248 seconds)
+2016-04-12 22:03:58	<--	hucksy (~hucksy@p549FC090.dip0.t-ipconnect.de) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:03:59	anonymous	Plus openvpn is pretty good for site-to-site
+2016-04-12 22:04:02	jml2	[R], you smeagle too much around hobbled hobbies and hobbits..
+2016-04-12 22:04:09	jml2	tehe
+2016-04-12 22:04:15	[R]	jml2: haha
+2016-04-12 22:04:16	anonymous	If you're setting up office environments really...
+2016-04-12 22:04:18	<--	Na3iL (~Na3iL@ubuntu/member/na3il) has quit (Ping timeout: 246 seconds)
+2016-04-12 22:04:29	-->	hucksy (~hucksy@p4FF5AF5C.dip0.t-ipconnect.de) has joined ##linux
+2016-04-12 22:05:12	bullgard4	[Debian stable, gajim] I can read the contents of ~/.local/share/gajim/logs.db using a simple text editor. What tool should I use to read the gajim log more conveniently?
+2016-04-12 22:05:26	-->	FreeBirdLjj (~freebirdl@180.111.31.192) has joined ##linux
+2016-04-12 22:05:31	<--	FreeBirdLjj (~freebirdl@180.111.31.192) has quit (Remote host closed the connection)
+2016-04-12 22:05:49	-->	C0MPAQ (~l0rd@aftr-109-91-34-123.unity-media.net) has joined ##linux
+2016-04-12 22:05:56	-->	timwangdev (~tim@222.44.41.33) has joined ##linux
+2016-04-12 22:06:09	-->	FreeBirdLjj (~freebirdl@49.77.139.41) has joined ##linux
+2016-04-12 22:06:13	<--	timwangdev (~tim@222.44.41.33) has left ##linux
+2016-04-12 22:06:35	<--	ForTheWin (~ForTheWin@unaffiliated/forthewin) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:06:59	<--	nedstark (~nedstark@unaffiliated/nedstark) has quit (Quit: Leaving)
+2016-04-12 22:07:07	jml2	maybe that's an "sqlite" database
+2016-04-12 22:07:16	anonymous	^++
+2016-04-12 22:07:16	jml2	(so thereby check out any sqlite tools)
+2016-04-12 22:07:33	<--	_Wintermute (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has quit (Ping timeout: 240 seconds)
+2016-04-12 22:07:50	-->	prbc (~prbc@131.252.200.49) has joined ##linux
+2016-04-12 22:07:50	anonymous	bullgard4: try looking into "sqliteman" good db manager for sqlite dbs
+2016-04-12 22:07:54	-->	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has joined ##linux
+2016-04-12 22:08:00	<--	alex____ (~alex@dhcp-v219-221.vp.reshsg.uci.edu) has quit (Ping timeout: 276 seconds)
+2016-04-12 22:08:22	bullgard4	anonymous: I will give it a try.
+2016-04-12 22:09:34	<--	kus (~minot@pool-108-35-29-135.nwrknj.fios.verizon.net) has quit (Read error: Connection reset by peer)
+2016-04-12 22:10:48	-->	denver (~denver@unaffiliated/denver) has joined ##linux
+2016-04-12 22:11:14	<--	hitest (~hitest@unaffiliated/hitest) has quit (Quit: Leaving)
+2016-04-12 22:11:44	<--	rud0lf (~rud0lf@unaffiliated/rud0lf) has quit (Quit: leaving)
+2016-04-12 22:11:51	<--	vervet (~vervet@unaffiliated/vervet) has quit (Quit: Lost terminal)
+2016-04-12 22:12:11	<--	Lilly_Dev (~Sabrina@173.196.27.14) has quit (Read error: Connection reset by peer)
+2016-04-12 22:12:16	<--	sterniste (~sstern@213.211.140.80) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:12:16	-->	rud0lf (~rud0lf@unaffiliated/rud0lf) has joined ##linux
+2016-04-12 22:12:34	<--	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has quit (Ping timeout: 252 seconds)
+2016-04-12 22:12:36	-->	sterniste (~sstern@77.109.119.247) has joined ##linux
+2016-04-12 22:12:57	<--	razzmc9 (razzmc@unaffiliated/razzmc) has quit (Remote host closed the connection)
+2016-04-12 22:13:18	<--	xulfer (~xulfer@random.cheapbsd.net) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:13:23	-->	razzmc (razzmc9@unaffiliated/razzmc) has joined ##linux
+2016-04-12 22:13:30	--	razzmc is now known as razzmc9
+2016-04-12 22:13:51	<--	chachasmooth (~chachasmo@unaffiliated/chachasmooth) has quit (Ping timeout: 276 seconds)
+2016-04-12 22:14:17	<--	cyclonis (~Adium@ip70-174-182-101.dc.dc.cox.net) has quit (Quit: Leaving.)
+2016-04-12 22:14:19	<--	jgjorgji (~jgjorgji@unaffiliated/jgjorgji) has quit (Read error: Connection reset by peer)
+2016-04-12 22:14:28	-->	somebody2 (~somebody@2601:5cc:0:5e1a:221:9bff:fe1b:ce94) has joined ##linux
+2016-04-12 22:14:36	-->	fleshtheworld (~fleshthew@2602:306:cf0f:4c20:a5c9:5187:849a:7520) has joined ##linux
+2016-04-12 22:14:44	-->	jgjorgji (~jgjorgji@unaffiliated/jgjorgji) has joined ##linux
+2016-04-12 22:14:47	-->	avis (~ident@pdpc/supporter/student/avis) has joined ##linux
+2016-04-12 22:15:33	winsoff	Going to head back over to that house.  I used ddrescue to recover an NTFS partition from a dying drive to a recovery.bin.
+2016-04-12 22:15:53	winsoff	Now, ddrescue copies the disk data directly, so I assume that the NTFS journal and all of that is still intact on the recovery.bin?
+2016-04-12 22:15:56	-->	S-DoG (spitefulto@cpe-173-175-124-186.satx.res.rr.com) has joined ##linux
+2016-04-12 22:16:25	winsoff	The disk could be explored in windows explorer and explored when mounted, so i assume all of that was intact.  From there, how do I read files from the .bin as if it were just another drive?
+2016-04-12 22:16:29	-->	Zenghui (~Zenghui@45.32.92.225) has joined ##linux
+2016-04-12 22:16:54	-->	josuebrunel (~Icedove@cho94-3-82-227-125-5.fbx.proxad.net) has joined ##linux
+2016-04-12 22:16:56	[R]	winsoff: if you dd'd the partition, just mount it loop
+2016-04-12 22:17:05	-->	chachasmooth (~chachasmo@unaffiliated/chachasmooth) has joined ##linux
+2016-04-12 22:17:13	winsoff	[R], that's the whole mount -o loop /path/to/foo.bin?
+2016-04-12 22:17:19	-->	ForTheWin (~ForTheWin@unaffiliated/forthewin) has joined ##linux
+2016-04-12 22:17:20	<--	goom (~go4m@cpe-66-25-153-174.satx.res.rr.com) has quit (Quit: Leaving)
+2016-04-12 22:17:24	<--	hexagoxel (~hexagoxel@p4FCCDA3E.dip0.t-ipconnect.de) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:17:25	-->	erratic (~erratic@ip-206-125-168-70.netcrave.io) has joined ##linux
+2016-04-12 22:17:26	<--	sterniste (~sstern@77.109.119.247) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:17:33	winsoff	Will that see that the .bin has an NTFS structure?
+2016-04-12 22:17:46	jim	winsoff, also, windows support is down the hall 200 miles and go left at the feather
+2016-04-12 22:17:46	[R]	if you dd'd the partition, then you have the entire filesystem
+2016-04-12 22:17:49	jml2	winsoff, is foo.bin a dd'd drive or partition?
+2016-04-12 22:17:52	<--	SpaceDoG (~spitefult@cpe-67-11-234-197.satx.res.rr.com) has quit (Ping timeout: 264 seconds)
+2016-04-12 22:17:53	winsoff	Sorry; the abstraction level and magic that some linux utilities have behind simple commands makes it interesting.
+2016-04-12 22:17:55	-->	tharkun_ (~0@187.135.54.82) has joined ##linux
+2016-04-12 22:17:57	-->	sterniste (~sstern@213.219.166.119.adsl.dyn.edpnet.net) has joined ##linux
+2016-04-12 22:18:05	winsoff	jim, using a linux environment to service poor, poor windows users
+2016-04-12 22:18:09	winsoff	jml2, partition
+2016-04-12 22:18:27	winsoff	sda3, where sda1 and sda2 were just windows EFI/boot/recovery partitions
+2016-04-12 22:18:46	winsoff	the full windows install and data files were on the partition I used ddrescue on.
+2016-04-12 22:18:52	jml2	winsoff, yeah so yuo can mount it like that
+2016-04-12 22:18:56	<--	prbc (~prbc@131.252.200.49) has quit (Remote host closed the connection)
+2016-04-12 22:18:59	winsoff	Nifty.
+2016-04-12 22:19:06	-->	Lowl3v3l (~Lowl3v3l@ipservice-092-208-086-160.092.208.pools.vodafone-ip.de) has joined ##linux
+2016-04-12 22:19:12	jml2	winsoff, -> mount -o ro /pathtoimage  /mnt/mountpoint
+2016-04-12 22:19:13	winsoff	Man, I stand upon the shoulders of giants with my stupid helicopter hat
+2016-04-12 22:19:22	jml2	winsoff, -o ro, means read-only ..
+2016-04-12 22:19:23	winsoff	ro is read only, I suppose?
+2016-04-12 22:19:29	-->	tux|dude (~tuxdude14@122.56.89.81) has joined ##linux
+2016-04-12 22:19:31	-->	heisenberg (uid78969@gateway/web/irccloud.com/x-jzzelohxicksnzfq) has joined ##linux
+2016-04-12 22:19:33	<--	Shentino (~Shentino@gentoo/contributor/shentino) has quit (Ping timeout: 240 seconds)
+2016-04-12 22:19:35	winsoff	Perfect.  Now this is just me being curious past this point
+2016-04-12 22:19:40	jml2	winsoff, well just to practice as a test the mount :)
+2016-04-12 22:19:43	winsoff	but could I mount the filesystem as read-write with ntfs-3g?
+2016-04-12 22:19:50	-->	hexagoxel (~hexagoxel@p4FCCCF4E.dip0.t-ipconnect.de) has joined ##linux
+2016-04-12 22:20:01	jml2	if you want rw, then you can omit -o ro
+2016-04-12 22:20:04	winsoff	And interact with files WITHIN the .bin by just mounting it that way?
+2016-04-12 22:20:05	-->	jhunt_ (NullMonkey@unaffiliated/jhunt-/x-7206367) has joined ##linux
+2016-04-12 22:20:23	winsoff	jml2, mounting ntfs partitions as writeable requires ntfs-3g, I thought?
+2016-04-12 22:20:30	<--	duckinja (~duckinja@44.117.3.123.sta.dodo.net.au) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:20:31	jml2	winsoff, y
+2016-04-12 22:20:35	-->	robattila256 (~robattila@S0106f0f24908d2a3.vf.shawcable.net) has joined ##linux
+2016-04-12 22:20:50	tharkun	anonymous, [R] Sorry got cut off by my isp seems it dosn't line anything but httpsafter 21:00 local time. This is a single entry point to several networks connections. More like a star topology. Therefore my quetion about ipsec.
+2016-04-12 22:20:50	jml2	winsoff, you might need to use "-t ntfs" or "-t ntfs-3g" when you issue the mount command
+2016-04-12 22:20:52	jefeson	hi, someone is playing the game Project Cars on the linux?
+2016-04-12 22:20:58	A124	jml2 Want the emails?
+2016-04-12 22:21:00	<--	outofsorts (~outofsort@162.219.176.3) has quit (Ping timeout: 276 seconds)
+2016-04-12 22:21:13	[R]	tharkun: what?
+2016-04-12 22:21:13	winsoff	I guess my further question is to ask if mounting a single .bin file that has a filesystem inside of it can lead to you just having a little filestructure that is just encapsulated inside the .bin.
+2016-04-12 22:21:44	[R]	winsoff: once you mount it, its exactly the same thing as mounting a drive
+2016-04-12 22:22:00	winsoff	[R], so then things inside of it get treated as its own little file world?
+2016-04-12 22:22:03	tharkun	[R]: Single entry point and from there people get connected to several networks spread all over shitty ISP carriers
+2016-04-12 22:22:04	jml2	winsoff, it's treated as an LBA device if that's what you mean..
+2016-04-12 22:22:06	winsoff	Am I just stupid, or is that neat?
+2016-04-12 22:22:10	[R]	winsoff: nothings gets "treated"
+2016-04-12 22:22:17	[R]	winsoff: its a mountpoing
+2016-04-12 22:22:18	A124	linux does not care about extensions, and disks are better to be marked .partition.raw
+2016-04-12 22:22:18	<--	UserInNeed (~root@45.55.115.62) has quit (Ping timeout: 276 seconds)
+2016-04-12 22:22:20	[R]	mountpoint*
+2016-04-12 22:22:33	winsoff	A124, thanks for the convention.  I will adopt it.
+2016-04-12 22:22:38	[R]	winsoff: once its mounted, it doestn matter what it was that you mounted
+2016-04-12 22:22:41	-->	SyncYourDogmas (~SyncYourD@unaffiliated/syncyourdogmas) has joined ##linux
+2016-04-12 22:22:49	jml2	winsoff, the superblock of a filesystem is read by the mount command at the start of whatever you supply "mount" to.. that's why it won't work, if it was dd'd from the entire drive -- to use offsets there are other ways for mount to work
+2016-04-12 22:22:52	<--	iamwill (~Adium@76-196-237-55.lightspeed.sndgca.sbcglobal.net) has quit (Quit: Leaving.)
+2016-04-12 22:23:05	[R]	tharkun: and where does the vpn/ipsec come into play?
+2016-04-12 22:23:15	-->	boingolov (~nastynate@c-71-236-42-116.hsd1.tn.comcast.net) has joined ##linux
+2016-04-12 22:23:17	-->	boombatower (~boombatow@drupal.org/user/214218/view) has joined ##linux
+2016-04-12 22:23:19	-->	Unee0x (uid96817@gateway/web/irccloud.com/x-lmnhqgfclioaysct) has joined ##linux
+2016-04-12 22:23:31	<--	jhunt_ (NullMonkey@unaffiliated/jhunt-/x-7206367) has quit (Client Quit)
+2016-04-12 22:23:33	winsoff	[R], it just seems really interesting that you could theoretically store a completely different filestructure as one file, all there.  It is really pragmatic at one point, but it is neat because it brings two different levels of abstraction to the same interface.
+2016-04-12 22:23:47	winsoff	jml2, interesting.
+2016-04-12 22:23:55	[R]	winsoff: a file is a block of bytes, a partitino is a block of bytes
+2016-04-12 22:23:55	<--	somebody2 (~somebody@2601:5cc:0:5e1a:221:9bff:fe1b:ce94) has quit (Quit: somebody2)
+2016-04-12 22:23:58	A124	winsoff :) .. Also there is a tool that does use device mapper to map partitions from a whole disk image to virtual devices, which you can then mount like paritions, so yes, that is also neat sometimes.
+2016-04-12 22:23:58	jml2	winsoff, you can do the same as any other OS
+2016-04-12 22:24:06	jml2	winsoff, never heard of an iso?
+2016-04-12 22:24:12	jml2	winsoff, an iso is a filesystem too :)
+2016-04-12 22:24:16	-->	RingtailedFox (~FoxFoxFox@2001:470:1d:c62:85ba:bbc1:aa61:2240) has joined ##linux
+2016-04-12 22:24:20	winsoff	[R], exactly why I think it is neat, because all of those boil down to that.  jml2, yes, I have.  ISO is just a standard for it, right?
+2016-04-12 22:24:25	<--	tharkun_ (~0@187.135.54.82) has quit (Quit: leaving)
+2016-04-12 22:24:32	<--	mxbosco (4ad73bb6@gateway/web/freenode/ip.74.215.59.182) has quit (Quit: Page closed)
+2016-04-12 22:24:33	winsoff	MAN
+2016-04-12 22:24:39	jml2	winsoff, isoz' contain filesystems
+2016-04-12 22:24:43	winsoff	WE LIVE IN THE FUTURE
+2016-04-12 22:24:44	winsoff	Okay, I will be back on after I head to the client's house
+2016-04-12 22:24:49	anonymous	tharkun: I'd personnaly use openvpn, easier to set up and customize, faster, less hassle with firewalls kicking it off lol
+2016-04-12 22:24:51	pingfloyd	his thinking has just been programmed with Windows magic
+2016-04-12 22:24:53	winsoff	Oh, really?  Huh.
+2016-04-12 22:24:58	winsoff	pingfloyd, precisely
+2016-04-12 22:25:00	anonymous	tharkun: plus it's generally nicer for site-to-site conns
+2016-04-12 22:25:01	<--	Vile` (Vile@unaffiliated/vile/x-1886500) has quit (Ping timeout: 250 seconds)
+2016-04-12 22:25:01	-->	relipse2 (~relipse@h69-130-243-75.mdtnwi.dsl.dynamic.tds.net) has joined ##linux
+2016-04-12 22:25:22	A124	winsoff Btw, if the drive is dying, you might want a special version of DD made for data recovery. Data recovery is hard, always have backups of important stuff.
+2016-04-12 22:25:33	winsoff	I used ddrescue. Does that count?
+2016-04-12 22:25:58	-->	outofsorts (~outofsort@184.75.214.163) has joined ##linux
+2016-04-12 22:26:02	tharkun	[R]: Sorry between lag and shitty connection I can't seem to be able to follow what you are saying. I'll reconnect later to see if connections have improved.
+2016-04-12 22:26:05	-->	jhunt_ (NullMonkey@unaffiliated/jhunt-/x-7206367) has joined ##linux
+2016-04-12 22:26:12	-->	comingsoontm (~comingsoo@70.51.201.41) has joined ##linux
+2016-04-12 22:26:27	winsoff	back soon
+2016-04-12 22:26:28	A124	winsoff http://blog.trendmicro.com/trendlabs-security-intelligence/world-backup-day-the-3-2-1-rule/
+2016-04-12 22:26:33	<--	Faraday (~Michael@unaffiliated/faraday) has quit (Quit: Leaving)
+2016-04-12 22:26:34	<--	winsoff (~foo@66.205.199.93) has quit (Quit: Leaving)
+2016-04-12 22:26:54	<--	josuebrunel (~Icedove@cho94-3-82-227-125-5.fbx.proxad.net) has quit (Ping timeout: 268 seconds)
+2016-04-12 22:26:58	-->	mdih (~dom@203.177.9.70) has joined ##linux
+2016-04-12 22:27:25	tharkun	anonymous: This is a network to network connection plus outside connections. So it is really on theory a comples xetup.
+2016-04-12 22:27:36	jhunt_	Good evening all , how goes it :)
+2016-04-12 22:27:50	nat0	hi jhunt_
+2016-04-12 22:27:58	<--	comingsoontm_ (~comingsoo@70.51.201.41) has quit (Ping timeout: 252 seconds)
+2016-04-12 22:28:23	<--	jrcharney (~jrchanrey@2602:30a:2c3a:e020:28a2:cbe6:ed13:5b5) has quit (Quit: PRAY. FOR. MOJO. [dies])
+2016-04-12 22:28:42	jml2	whenever i see someone says something is 'complex' it usually means they dont' know what they're talking about XD
+2016-04-12 22:28:45	<--	noteness (noteness@unaffiliated/nessessary129) has quit (Ping timeout: 268 seconds)
+2016-04-12 22:28:45	jml2	tehehe
+2016-04-12 22:28:59	 *	jml2 hides
+2016-04-12 22:29:06	-->	rwiggins (~rwiggins@unaffiliated/rwiggins) has joined ##linux
+2016-04-12 22:29:07	jml2	back! :)
+2016-04-12 22:29:40	 *	jml2 hides and watches complex penguins skating on thin ice
+2016-04-12 22:29:59	<--	dsl_ (~dsl@103.28.131.248) has quit (Ping timeout: 268 seconds)
+2016-04-12 22:30:10	-->	alex___ (~alex@dhcp-v219-221.vp.reshsg.uci.edu) has joined ##linux
+2016-04-12 22:30:44	-->	josuebrunel (~Icedove@LFbn-1-933-152.w86-247.abo.wanadoo.fr) has joined ##linux
+2016-04-12 22:30:55	jim	just how much of the penguins are imaginary
+2016-04-12 22:31:12	anonymous	tharkun: aaahhhh
+2016-04-12 22:31:29	-->	linuxuz3r (~linuxuz3r@107-210-170-22.lightspeed.sndgca.sbcglobal.net) has joined ##linux
+2016-04-12 22:31:41	-->	coolthingy500 (~alistairm@d206-116-254-146.bchsia.telus.net) has joined ##linux
+2016-04-12 22:31:47	jhunt_	nat0: how goes it
+2016-04-12 22:31:51	anonymous	tharkun: Well I personally have never set up vpns for that topology, more like personal use mainly. So I don't really know how good either of those could serve your purpose :]
+2016-04-12 22:32:26	<--	tekknik (~tekknik@unaffiliated/tekknik) has quit (Quit: tekknik)
+2016-04-12 22:32:30	-->	duckinja (~duckinja@185.21.216.158) has joined ##linux
+2016-04-12 22:33:00	<--	tux|dude (~tuxdude14@122.56.89.81) has quit (Quit: Leaving)
+2016-04-12 22:33:03	<--	MintSpider (~Peter@cpe-96-29-187-2.kya.res.rr.com) has quit (Quit: Leaving)
+2016-04-12 22:33:09	-->	noteness (noteness@unaffiliated/nessessary129) has joined ##linux
+2016-04-12 22:33:35	jhunt_	anonymous: would a vpn be proficient enough for a CSGO server lol
+2016-04-12 22:34:01	anonymous	jhunt_: CSGO server? lol
+2016-04-12 22:34:20	-->	SailorHaumea (68381739@gateway/web/freenode/ip.104.56.23.57) has joined ##linux
+2016-04-12 22:34:35	<--	zivester (~zivester@pool-100-35-242-158.nwrknj.fios.verizon.net) has quit (Quit: Leaving)
+2016-04-12 22:34:37	jhunt_	anonymous: :) i know right i am old
+2016-04-12 22:34:58	<--	ultrixx_ (~ultrixx@p5B2DE7A1.dip0.t-ipconnect.de) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:34:58	jhunt_	I am thinking vps arent i x(
+2016-04-12 22:35:06	<--	josuebrunel (~Icedove@LFbn-1-933-152.w86-247.abo.wanadoo.fr) has quit (Ping timeout: 246 seconds)
+2016-04-12 22:35:24	-->	barajasfab (~barajasfa@2606:6000:6118:1d00:6116:813f:5e12:dae9) has joined ##linux
+2016-04-12 22:35:35	pingfloyd	and in counterstrike go?
+2016-04-12 22:35:36	anonymous	jhunt_: I mean... I guess it could be fine if you're using good paid vpns? lol
+2016-04-12 22:35:51	pingfloyd	s/and/as
+2016-04-12 22:36:16	jhunt_	ok thx ^__^
+2016-04-12 22:36:24	-->	txpl (~txpl@c-73-216-147-211.hsd1.va.comcast.net) has joined ##linux
+2016-04-12 22:36:35	<--	Squishy__ (~textual@162-223-221-68.cpe.ngl.ninja) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-04-12 22:37:11	anonymous	jhunt_: I guess depending on how "competitve" the server is... I'd try to look for the best consistent ones (therefore the paid ones) lol
+2016-04-12 22:37:15	<--	PeterFA (~PeterFA@unaffiliated/peterfa) has quit (Quit: My work here is done.)
+2016-04-12 22:37:25	anonymous	I don't shit about CSGO servers, or gaming server hosting for that matter :S
+2016-04-12 22:37:29	anonymous	pingfloyd: I guess lol
+2016-04-12 22:37:33	<--	a3Dman (~3Dman@unaffiliated/a3dman) has quit (Ping timeout: 246 seconds)
+2016-04-12 22:37:35	anonymous	pingfloyd: that's what I took it as
+2016-04-12 22:37:49	-->	aregee (~aregee@103.47.64.86) has joined ##linux
+2016-04-12 22:38:05	<--	clemf (~textual@c-50-139-41-170.hsd1.or.comcast.net) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 22:38:09	<--	GarrettShields (~GarrettSh@2607:fea8:a120:19:4099:3741:9266:433a) has quit (Read error: Connection reset by peer)
+2016-04-12 22:38:23	anonymous	https://praesidiumvpn.com/csgo-ddos-protection/ okay >_>
+2016-04-12 22:38:33	-->	prbc (~prbc@131.252.200.49) has joined ##linux
+2016-04-12 22:38:58	-->	Konsole (~konsole@unaffiliated/konsole) has joined ##linux
+2016-04-12 22:39:07	jhunt_	anonymous: of course paid I just was thinking it was better to get a $20-$30 VPS than colo. cause its just a game server
+2016-04-12 22:39:50	<--	Langley (~kjihu@80-71-135-66.u.parknet.dk) has quit (Quit: Leaving)
+2016-04-12 22:39:55	<--	kripx (~kripx@2001:e68:4439:b8d7:e814:3bff:fee5:3571) has quit (Quit: Quit..)
+2016-04-12 22:40:10	<--	avis (~ident@pdpc/supporter/student/avis) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:40:25	-->	clemf (~textual@c-50-139-41-170.hsd1.or.comcast.net) has joined ##linux
+2016-04-12 22:41:45	-->	a3Dman (~3Dman@unaffiliated/a3dman) has joined ##linux
+2016-04-12 22:41:48	<--	txpl (~txpl@c-73-216-147-211.hsd1.va.comcast.net) has quit (Ping timeout: 276 seconds)
+2016-04-12 22:43:30	-->	comingsoontm_ (~comingsoo@70.51.201.41) has joined ##linux
+2016-04-12 22:43:57	<--	Konsole (~konsole@unaffiliated/konsole) has quit (Ping timeout: 260 seconds)
+2016-04-12 22:44:01	anonymous	jhunt_: Probably a paid vps imo
+2016-04-12 22:44:17	<--	comingsoontm (~comingsoo@70.51.201.41) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:44:28	<--	enterprisey (~enterpris@wikipedia/APerson) has quit (Remote host closed the connection)
+2016-04-12 22:45:07	-->	M4dH4TT3r (~moe@unaffiliated/m4dh4tt3r) has joined ##linux
+2016-04-12 22:45:22	jhunt_	anonymous: yea 80+ for colo seems redundant for csgo
+2016-04-12 22:45:33	anonymous	jhunt_: yea :S
+2016-04-12 22:45:41	M4dH4TT3r	Hey anything like pfsense as an application?
+2016-04-12 22:45:55	<--	Finetundra (Finetundra@gateway/shell/bnc4free/x-rwedghlmhzwvgkab) has quit (Excess Flood)
+2016-04-12 22:46:11	<--	KD8NXH-Michigan (~quassel@2601:400:8000:34f5:230:bdff:fe71:cebd) has left ##linux ("I am QRT.")
+2016-04-12 22:46:42	[R]	M4dH4TT3r: what?
+2016-04-12 22:47:09	M4dH4TT3r	Looking for a application like pfsense
+2016-04-12 22:47:30	[R]	what is an application "like" a freebsd distribution
+2016-04-12 22:47:32	-->	solid_liq (~solid_liq@50.44.237.2) has joined ##linux
+2016-04-12 22:47:38	-->	ultrixx_ (~ultrixx@p5B2DF84D.dip0.t-ipconnect.de) has joined ##linux
+2016-04-12 22:47:38	jml2	M4dH4TT3r, i think you're applying 'application' in-appropriately.
+2016-04-12 22:47:44	-->	desti_T2 (~desti@dslb-088-078-087-186.088.078.pools.vodafone-ip.de) has joined ##linux
+2016-04-12 22:47:50	M4dH4TT3r	No
+2016-04-12 22:47:52	-->	dolvix (~dol@199.241.146.179) has joined ##linux
+2016-04-12 22:47:53	-->	keviv (~keviv@72-186-88-21.res.bhn.net) has joined ##linux
+2016-04-12 22:47:53	jml2	M4dH4TT3r, Yes
+2016-04-12 22:47:57	M4dH4TT3r	No
+2016-04-12 22:47:58	jml2	M4dH4TT3r, Yes
+2016-04-12 22:47:58	-->	Two_Dogs (~snak-kat@unaffiliated/almoxarife) has joined ##linux
+2016-04-12 22:48:26	M4dH4TT3r	Application, package, whatever you want to call it
+2016-04-12 22:48:27	-->	CrazyTux[m] (~CrazyTuxm@ip68-111-78-181.oc.oc.cox.net) has joined ##linux
+2016-04-12 22:48:33	<--	rud0lf (~rud0lf@unaffiliated/rud0lf) has quit (Quit: leaving)
+2016-04-12 22:48:56	jack_rabbit	something like iptables?
+2016-04-12 22:49:03	<--	relipse2 (~relipse@h69-130-243-75.mdtnwi.dsl.dynamic.tds.net) has quit (Ping timeout: 240 seconds)
+2016-04-12 22:49:05	-->	rud0lf (~rud0lf@unaffiliated/rud0lf) has joined ##linux
+2016-04-12 22:49:14	-->	auwooo (~auwooo@unaffiliated/skraito-0x71) has joined ##linux
+2016-04-12 22:49:16	jml2	M4dH4TT3r, pfsense is not linux
+2016-04-12 22:49:20	auwooo	WELCOME TO ##hacker , WE ARE THE MINT HACKER GROUP CHANNEL ... .OFFICIAL WEBSITE FOR MINT  HTTP://MINT.COM AND http://THEHACKERNEWS.COM ... .
+2016-04-12 22:49:31	jml2	M4dH4TT3r, i suppose you didn't know, there are linux alternatives
+2016-04-12 22:49:56	M4dH4TT3r	R an app that does the same thing as pfsense as far as firewall, dpi, etc
+2016-04-12 22:49:58	[R]	!ops auwooo spam
+2016-04-12 22:50:09	jhunt_	anonymous:  http://ramnode.com/vps.php
+2016-04-12 22:50:22	<--	desti (~desti@dslb-092-073-167-054.092.073.pools.vodafone-ip.de) has quit (Ping timeout: 260 seconds)
+2016-04-12 22:50:37	M4dH4TT3r	No jack_rabbit
+2016-04-12 22:50:45	--	Mode ##linux [+o Dominian] by ChanServ
+2016-04-12 22:50:52	--	Mode ##linux [+b $a:auwooo] by Dominian
+2016-04-12 22:50:57	-->	huitzilopochtli (~huitzilop@216.252.94.140) has joined ##linux
+2016-04-12 22:50:57	-->	pyboy (~pyboy@183.62.57.166) has joined ##linux
+2016-04-12 22:51:00	-->	duckinja_ (~duckinja@44.117.3.123.sta.dodo.net.au) has joined ##linux
+2016-04-12 22:51:02	<--	duckinja_ (~duckinja@44.117.3.123.sta.dodo.net.au) has quit (Max SendQ exceeded)
+2016-04-12 22:51:07	<--	Dominian has kicked auwooo (spam spam spam.. only funny with Monty Python doing it.)
+2016-04-12 22:51:16	-->	cynicallemon (~cynicalle@121.98.184.96) has joined ##linux
+2016-04-12 22:51:26	cynicallemon	.
+2016-04-12 22:51:31	--	Mode ##linux [-o Dominian] by ChanServ
+2016-04-12 22:51:32	-->	ilyanov (~fomina@c-73-142-237-66.hsd1.nh.comcast.net) has joined ##linux
+2016-04-12 22:51:33	<--	duckinja (~duckinja@185.21.216.158) has quit (Ping timeout: 246 seconds)
+2016-04-12 22:52:04	-->	eric_lagergren (~eric_lage@c-76-121-113-163.hsd1.wa.comcast.net) has joined ##linux
+2016-04-12 22:52:08	anonymous	jhunt_: decent rates >_>
+2016-04-12 22:52:10	<--	skinjbir (~skinjbir@85.9.30.82) has quit (Ping timeout: 252 seconds)
+2016-04-12 22:52:13	-->	duckinja_ (~duckinja@44.117.3.123.sta.dodo.net.au) has joined ##linux
+2016-04-12 22:52:18	<--	pyboy (~pyboy@183.62.57.166) has left ##linux ("Leaving")
+2016-04-12 22:52:41	anonymous	Daaayyuuummm savage channel bots lol
+2016-04-12 22:52:45	<--	prbc (~prbc@131.252.200.49) has quit (Remote host closed the connection)
+2016-04-12 22:52:51	anonymous	Hmmm I wonder if that name is taken...
+2016-04-12 22:52:55	--	anonymous is now known as savage
+2016-04-12 22:53:05	<--	liny01 (~liny01@unaffiliated/lsyoyom) has quit (Ping timeout: 244 seconds)
+2016-04-12 22:53:05	--	savage is now known as anonymous
+2016-04-12 22:53:11	anonymous	Yep :[
+2016-04-12 22:53:13	<--	emajor (~archi@220-245-152-140.static.tpgi.com.au) has left ##linux
+2016-04-12 22:53:16	dolvix	anonymous isn't anonymous without anonymous :)
+2016-04-12 22:53:24	-->	avis (~ident@pdpc/supporter/student/avis) has joined ##linux
+2016-04-12 22:53:31	jhunt_	lol
+2016-04-12 22:53:39	anonymous	dolvix: Agreed lol I still can't believe I scored this nick lol the amount of login attempts I get everyday is just amazing lol
+2016-04-12 22:53:58	-->	emajor (~sulakaz@220-245-152-140.static.tpgi.com.au) has joined ##linux
+2016-04-12 22:53:59	anonymous	It's always this one host 95.85.41.225
+2016-04-12 22:54:24	jim	synanon sez anonymous is synominous with anonymous
+2016-04-12 22:54:38	-->	kLOs (~Giggity@w154079.dynamic.ppp.asahi-net.or.jp) has joined ##linux
+2016-04-12 22:54:39	<--	kLOs (~Giggity@w154079.dynamic.ppp.asahi-net.or.jp) has quit (Quit: so long...)
+2016-04-12 22:55:02	anonymous	It's a proxy server, so atleast the person trying to be anonymous is atleast trying their best lol
+2016-04-12 22:55:03	<--	genced (~genced@2601:249:b00:5c58:d8f9:e93d:ee2a:86d2) has quit (Ping timeout: 246 seconds)
+2016-04-12 22:55:09	dolvix	Seriously anon, cool choice :)
+2016-04-12 22:55:27	<--	Corosus (~Corosus@135-23-126-120.cpe.pppoe.ca) has quit (Read error: Connection reset by peer)
+2016-04-12 22:55:30	<--	jml2 (~jml2@modemcable108.157-131-66.mc.videotron.ca) has quit (Quit: Leaving)
+2016-04-12 22:55:38	-->	kLOs (~Giggity@w154079.dynamic.ppp.asahi-net.or.jp) has joined ##linux
+2016-04-12 22:56:02	-->	karmahacker (~karmahack@unaffiliated/karmahacker) has joined ##linux
+2016-04-12 22:56:06	anonymous	dolvix: Thanks! It's kinda weird when I'm in ##security and these kids ask me to teach them how to open reverse shells on someone's computer (always for evil reasons)
+2016-04-12 22:56:20	solid_liq	a bit off topic, but so is everything else right now, so: does anyone know of a free webmail service which will clone e-mails from an imap account?
+2016-04-12 22:56:35	anonymous	ofcourse they don't asy "reverse shell"... they're like "how can I hack a person's laptop?"
+2016-04-12 22:56:35	M4dH4TT3r	Roundmail
+2016-04-12 22:56:41	<--	doomlord (~textual@host217-42-162-151.range217-42.btcentralplus.com) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 22:56:43	anonymous	s/asy/ask
+2016-04-12 22:56:46	solid_liq	M4dH4TT3r: is that roundmail.com?
+2016-04-12 22:57:01	dolvix	God this shit can get geeky REAL fast :)
+2016-04-12 22:57:10	[R]	anonymous: with a machette of course
+2016-04-12 22:57:19	anonymous	[R]: Exactly lmao
+2016-04-12 22:57:25	M4dH4TT3r	Host roundmail
+2016-04-12 22:57:25	jhunt_	anonymous: they all limit bandwidth per month x(
+2016-04-12 22:57:35	Dominian	roundcube ?
+2016-04-12 22:57:41	Dominian	aka roundcube.net?
+2016-04-12 22:57:42	M4dH4TT3r	Yeah lol
+2016-04-12 22:57:56	anonymous	jhunt_: Yea, how much bandwidth are you expecting?
+2016-04-12 22:57:57	solid_liq	M4dH4TT3r: it doesn’t seem to exist anymore
+2016-04-12 22:58:02	-->	zer0x (~zer0x@42.114.255.44) has joined ##linux
+2016-04-12 22:58:06	<--	duckinja_ (~duckinja@44.117.3.123.sta.dodo.net.au) has quit (Ping timeout: 248 seconds)
+2016-04-12 22:58:11	<--	erratic (~erratic@ip-206-125-168-70.netcrave.io) has quit (Ping timeout: 248 seconds)
+2016-04-12 22:58:25	anonymous	[R]: wait let me look up a response I gave to a person's question "how can i hack facebook account?" :P
+2016-04-12 22:58:37	-->	Hemethod (0c921187@gateway/web/freenode/ip.12.146.17.135) has joined ##linux
+2016-04-12 22:58:40	M4dH4TT3r	Yeah it does solid_liq I use it on my webserver currently
+2016-04-12 22:58:55	-->	lyoshaja_ (~lyoshajap@m002253.ppp.asahi-net.or.jp) has joined ##linux
+2016-04-12 22:59:03	solid_liq	M4dH4TT3r: hmm, I’m looking for one that has storage, and will store a copy of my mail
+2016-04-12 22:59:06	-->	benlieb (~benlieb@99-46-179-64.lightspeed.sntcca.sbcglobal.net) has joined ##linux
+2016-04-12 22:59:18	-->	daveops (~daveops@108-60-118-59.static.wiline.com) has joined ##linux
+2016-04-12 22:59:26	<--	Vag (~Vag@ppp-94-67-85-128.home.otenet.gr) has quit (Quit: Linkinus - http://linkinus.com)
+2016-04-12 22:59:32	-->	_Wintermute (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 22:59:51	-->	jfo (~jfo@cpe-104-162-100-127.nyc.res.rr.com) has joined ##linux
+2016-04-12 22:59:57	M4dH4TT3r	Roundcube is a pkg not an online service so you would host it and configure it as you like
+2016-04-12 23:00:20	dolvix	I think I'll go back to studying more music theory now.
+2016-04-12 23:00:26	anonymous	[R]: Can't find it :|
+2016-04-12 23:00:29	-->	theraspberry_ (~theraspbe@unaffiliated/theraspberry) has joined ##linux
+2016-04-12 23:00:33	solid_liq	yeah, I’m looking for a service
+2016-04-12 23:00:38	<--	redblade (~redblade7@unaffiliated/redblade7) has quit (Quit: Leaving)
+2016-04-12 23:00:42	dolvix	use the find command and grep
+2016-04-12 23:00:43	solid_liq	I don’t want to have to transfer all that data over my slow connection
+2016-04-12 23:00:57	M4dH4TT3r	You can add accounts with gmail
+2016-04-12 23:00:57	-->	sorta (~fjajar@unaffiliated/sorta) has joined ##linux
+2016-04-12 23:01:12	solid_liq	M4dH4TT3r: free gmail accounts won’t clone a business gmail account
+2016-04-12 23:01:33	<--	lyoshajapan (~lyoshajap@m002253.ppp.asahi-net.or.jp) has quit (Ping timeout: 240 seconds)
+2016-04-12 23:01:35	sorta	i have a block device /dev/sdX that doesn't have any corresponding info in fdisk -l or /sys/block, what is it?
+2016-04-12 23:02:06	<--	eelstrebor (~ki7rw@216.75.116.100) has quit (Quit: Ex-Chat)
+2016-04-12 23:02:09	M4dH4TT3r	Should with imap
+2016-04-12 23:02:21	solid_liq	sorta: does it actually correspond to a real device?
+2016-04-12 23:02:29	-->	reisio (~reisio@unaffiliated/reisio) has joined ##linux
+2016-04-12 23:02:36	solid_liq	M4dH4TT3r: there’s no option to transfer *from* another account via imap
+2016-04-12 23:03:14	M4dH4TT3r	Sounds more like what you're looking for is mail forwarding
+2016-04-12 23:03:28	solid_liq	except that won’t give me all my old e-mail
+2016-04-12 23:03:48	solid_liq	I have years of e-mails to transfer
+2016-04-12 23:04:04	M4dH4TT3r	Yeah it will if you just export/ import the old ones
+2016-04-12 23:04:25	-->	MaggieC (~MaggieC@unaffiliated/maggiec) has joined ##linux
+2016-04-12 23:04:36	sorta	solid_liq, all attached drives accounted for as other sdYs
+2016-04-12 23:04:59	-->	cyrax (~cyrax@93-38-79-44.ip69.fastwebnet.it) has joined ##linux
+2016-04-12 23:05:07	-->	c_saw_ (~bdspecht@c-98-234-186-207.hsd1.ca.comcast.net) has joined ##linux
+2016-04-12 23:05:18	-->	kr43d (~james@h75.0.140.67.dynamic.ip.windstream.net) has joined ##linux
+2016-04-12 23:05:19	<--	kr43d (~james@h75.0.140.67.dynamic.ip.windstream.net) has quit (Max SendQ exceeded)
+2016-04-12 23:05:23	jhunt_	good night all!
+2016-04-12 23:05:35	anonymous	jhunt_: Good night, fellow python script!
+2016-04-12 23:05:41	-->	kr43d (~james@h75.0.140.67.dynamic.ip.windstream.net) has joined ##linux
+2016-04-12 23:05:43	jhunt_	:]
+2016-04-12 23:05:54	solid_liq	M4dH4TT3r: the help says it will only transfer all new e-mails
+2016-04-12 23:06:11	 *	anonymous $ sudo ./hug -rvf jhunt_ 
+2016-04-12 23:06:12	M4dH4TT3r	Help for what?
+2016-04-12 23:06:20	solid_liq	M4dH4TT3r: for gmail forwarding
+2016-04-12 23:06:28	<--	nevodka (~nevodka@stupool16.seattleu.edu) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:06:28	<--	braincrash (~braincras@81.193.135.224) has quit (Quit: bye bye)
+2016-04-12 23:06:34	-->	Vag (~Vag@ppp-94-67-85-128.home.otenet.gr) has joined ##linux
+2016-04-12 23:06:42	M4dH4TT3r	Yeah... like I said import the old ones into gmail
+2016-04-12 23:06:51	-->	rumpel (~rumpel@114.89.205.118) has joined ##linux
+2016-04-12 23:06:57	solid_liq	M4dH4TT3r: import?  how?
+2016-04-12 23:07:19	solid_liq	sorta: is your system using udev?
+2016-04-12 23:07:34	<--	nils_ (~nils_@pdpc/supporter/35for7/nils) has quit (Quit: This computer has gone to sleep)
+2016-04-12 23:07:37	solid_liq	sorta: cat /proc/partitions
+2016-04-12 23:07:52	-->	nils_ (~nils_@pdpc/supporter/35for7/nils) has joined ##linux
+2016-04-12 23:08:03	-->	genced (~genced@2601:249:b00:5c58:d8f9:e93d:ee2a:86d2) has joined ##linux
+2016-04-12 23:08:03	M4dH4TT3r	Export from company email import to gmail, wish I could explain more but irc while driving is not good...
+2016-04-12 23:08:22	-->	kevin____ (48c25f55@gateway/web/freenode/ip.72.194.95.85) has joined ##linux
+2016-04-12 23:08:28	solid_liq	M4dH4TT3r: oh, that’s what I’m trying to avoid.  I have a lot of e-mail, and not much bandwidth
+2016-04-12 23:08:40	-->	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has joined ##linux
+2016-04-12 23:08:41	sorta	nothing in /proc/partitions, what is udev? this is debian jessie 3.16
+2016-04-12 23:09:08	solid_liq	sorta: are you sure there’s nothing in /proc/partitions?  cat it as root
+2016-04-12 23:09:09	<--	esaym153 (~esaym153@75-1-182-8.lightspeed.snantx.sbcglobal.net) has quit (Quit: leaving)
+2016-04-12 23:09:19	<--	M4dH4TT3r (~moe@unaffiliated/m4dh4tt3r) has quit (Remote host closed the connection)
+2016-04-12 23:09:34	<--	cyrax (~cyrax@93-38-79-44.ip69.fastwebnet.it) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:09:35	-->	M4dH4TT3r (~moe@2600:1010:b101:30b:0:6a:21d7:b01) has joined ##linux
+2016-04-12 23:09:53	-->	bq (~chatzilla@45.55.25.22) has joined ##linux
+2016-04-12 23:09:59	--	M4dH4TT3r is now known as Guest67818
+2016-04-12 23:09:59	<--	ForTheWin (~ForTheWin@unaffiliated/forthewin) has quit (Ping timeout: 260 seconds)
+2016-04-12 23:10:02	solid_liq	sorta: https://en.wikipedia.org/wiki/Udev
+2016-04-12 23:10:21	-->	sgalvez (~sgalvez@pc-203-181-161-190.cm.vtr.net) has joined ##linux
+2016-04-12 23:10:40	<--	AndreFWeber (AndreFWebe@150.162.19.131) has quit (Ping timeout: 264 seconds)
+2016-04-12 23:10:47	bq	does libreoffice edit pdf file?
+2016-04-12 23:10:59	MJBrune	it can export to PDF
+2016-04-12 23:11:02	sorta	solid_liq, oh, there is plenty there, but nothing corresponding to sdX
+2016-04-12 23:11:05	MJBrune	but I don't think it edits pdf
+2016-04-12 23:11:07	<--	piccaruse (~piccaruse@c83-251-255-227.bredband.comhem.se) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:11:15	-->	AndreFWeber (AndreFWebe@150.162.19.131) has joined ##linux
+2016-04-12 23:11:28	-->	Bsims (~Bsims@2604:2d80:c817:838a:4c2b:7952:3c1:d5fe) has joined ##linux
+2016-04-12 23:11:39	doubling	moore like proprietary document formate
+2016-04-12 23:11:41	solid_liq	sorta: then it’s probably a stale dev node.  Have you tried running fdisk or cfdisk on sdX?
+2016-04-12 23:11:57	<--	b4b (~b4b@32.211.52.104) has quit (Quit: b4b)
+2016-04-12 23:12:04	bq	MJBrune: but it opens pdf file
+2016-04-12 23:12:21	MJBrune	bq: depends on the PDF file
+2016-04-12 23:12:36	<--	kr43d (~james@h75.0.140.67.dynamic.ip.windstream.net) has quit (Quit: Leaving)
+2016-04-12 23:12:50	bq	MJBrune: what type?
+2016-04-12 23:12:54	-->	marmotski (~marmotfri@68-66-76-254.client.mchsi.com) has joined ##linux
+2016-04-12 23:12:54	dolvix	OhhMyGAWD.. Gmail.. I'm *SO* sick of Google's tracking behaviours I could scream
+2016-04-12 23:13:03	<--	Guest67818 (~moe@2600:1010:b101:30b:0:6a:21d7:b01) has quit (Remote host closed the connection)
+2016-04-12 23:13:04	<--	nokamoto (~nokamoto@196.223.151.153.ap.dti.ne.jp) has quit (Ping timeout: 252 seconds)
+2016-04-12 23:13:18	-->	Guest67818 (~moe@2600:1010:b101:30b:0:6a:21d7:b01) has joined ##linux
+2016-04-12 23:13:39	kevin____	Hey! does anyone here have a good understanding of xvfb?
+2016-04-12 23:13:43	MJBrune	bq: an old link https://forum.openoffice.org/en/forum/viewtopic.php?f=5&t=31944
+2016-04-12 23:13:44	cynicallemon	then change dolvix
+2016-04-12 23:13:48	-->	Shentino (~Shentino@gentoo/contributor/shentino) has joined ##linux
+2016-04-12 23:14:01	<--	Shentino (~Shentino@gentoo/contributor/shentino) has quit (Remote host closed the connection)
+2016-04-12 23:14:01	<--	c0fe (~c0fe@c-73-74-91-131.hsd1.il.comcast.net) has quit (Read error: Connection reset by peer)
+2016-04-12 23:14:04	solid_liq	dolvix: there are worse.  I’ve found that, if I watch shows on Amazon Prime video, the next day I’ll see related suggestions on Facebook.
+2016-04-12 23:14:27	MJBrune	bq: could try this though: https://www.youtube.com/watch?v=wTkf2ciZzuM
+2016-04-12 23:15:11	<--	Two_Dogs (~snak-kat@unaffiliated/almoxarife) has quit (Quit: Konversation terminated!)
+2016-04-12 23:15:39	dolvix	cynicallemon: You change :P
+2016-04-12 23:15:46	<--	Guest67818 (~moe@2600:1010:b101:30b:0:6a:21d7:b01) has quit (Remote host closed the connection)
+2016-04-12 23:15:59	<--	sarch (~dessa@c-73-185-162-92.hsd1.mn.comcast.net) has quit (Remote host closed the connection)
+2016-04-12 23:16:00	-->	Guest67818 (~moe@2600:1010:b101:30b:0:6a:21d7:b01) has joined ##linux
+2016-04-12 23:16:23	-->	Shentino (~Shentino@gentoo/contributor/shentino) has joined ##linux
+2016-04-12 23:16:36	-->	braincras (~braincras@81.193.135.224) has joined ##linux
+2016-04-12 23:16:36	cynicallemon	dolvix, run your own mailserver
+2016-04-12 23:16:42	dolvix	solid_liq: Yep, I bet..
+2016-04-12 23:16:47	<--	anonymous (~anonymous@unaffiliated/anonymous) has quit (Quit: leaving)
+2016-04-12 23:16:50	-->	Lexie (~Lexie@2601:182:0:50f3:8de8:8c4b:604c:88fc) has joined ##linux
+2016-04-12 23:16:54	-->	duncannz (~duncannz@118-93-145-40.dsl.dyn.ihug.co.nz) has joined ##linux
+2016-04-12 23:17:03	<--	duncannz (~duncannz@118-93-145-40.dsl.dyn.ihug.co.nz) has quit (Max SendQ exceeded)
+2016-04-12 23:17:07	<--	redfox (3a4721c2@gateway/web/freenode/ip.58.71.33.194) has quit (Quit: Page closed)
+2016-04-12 23:17:12	dolvix	cynicallemon:  When I get a chance I'll setup qmail
+2016-04-12 23:17:55	<--	Shentino (~Shentino@gentoo/contributor/shentino) has quit (Read error: Connection reset by peer)
+2016-04-12 23:17:56	-->	_909 (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has joined ##linux
+2016-04-12 23:18:48	-->	sarch (~dessa@c-73-185-162-92.hsd1.mn.comcast.net) has joined ##linux
+2016-04-12 23:19:14	<--	MaggieC (~MaggieC@unaffiliated/maggiec) has quit (Quit: Leaving)
+2016-04-12 23:19:17	<--	jim (~jim@about/linux/staff/jim) has quit (Quit: Leaving)
+2016-04-12 23:19:40	<--	mist__ (~mist@host86-164-31-222.range86-164.btcentralplus.com) has quit (Ping timeout: 252 seconds)
+2016-04-12 23:19:49	-->	jim (~jim@about/linux/staff/jim) has joined ##linux
+2016-04-12 23:19:54	<--	_Wintermute (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:20:01	solid_liq	qmail is still around?  Is it still maintained by anyone?
+2016-04-12 23:20:02	<--	TwistedFate (~TwistedFa@unaffiliated/twistedfate) has quit (Quit: Leaving)
+2016-04-12 23:20:27	dolvix	cynicallemon: Why? do you run your own server(s)?
+2016-04-12 23:20:40	Cymage	dolvix : there is a solution to that.  dont use anything google touches
+2016-04-12 23:20:47	cynicallemon	dolvix well i did until last year
+2016-04-12 23:21:03	jim	[[foo]]
+2016-04-12 23:21:32	bullgard4	solid_liq: qmail is a package that is available in Debian stable.
+2016-04-12 23:21:47	Cymage	dolvix : of course,  that would pretty much mean disconnecting from the interwebs, but you wouldnt have to worry about google anymore
+2016-04-12 23:22:07	<--	zacwalls (~zacwalls@2602:306:3275:8370:7a0c:b8ff:fe75:d07d) has quit (Remote host closed the connection)
+2016-04-12 23:22:12	solid_liq	or going to China.  boing boing
+2016-04-12 23:22:20	-->	mackal (~mike@pool-96-237-144-12.bstnma.fios.verizon.net) has joined ##linux
+2016-04-12 23:22:24	dolvix	Cymage: well DUH, of course the solution is not to touch it, but it's not a realistic solution as we pretty much need google for real searches.
+2016-04-12 23:22:29	-->	boks (3a4721c2@gateway/web/freenode/ip.58.71.33.194) has joined ##linux
+2016-04-12 23:22:35	dolvix	I mean, not using their services and using a VPN helps.
+2016-04-12 23:22:45	boks	hi guys
+2016-04-12 23:22:49	solid_liq	use bing as your VPN?
+2016-04-12 23:22:51	 *	solid_liq hides
+2016-04-12 23:23:07	dolvix	cynicallemon: So which mailer did you use? Senmail? Postfix? Qmail? (insert here)
+2016-04-12 23:23:08	cynicallemon	i saw a pie chart of mailservers in use a week ago and qmail still has about 12% of the share still
+2016-04-12 23:23:25	dolvix	(insert here) sounds so queer :) I'm so proud to say it... LOL
+2016-04-12 23:23:30	boks	anyone here using layer 7 filtering ? i need signatures on how you do it to filter facebook.com
+2016-04-12 23:23:49	<--	israelzuniga (~israel@187.172.12.28) has quit (Quit: israelzuniga)
+2016-04-12 23:23:50	cynicallemon	dolvix postfix
+2016-04-12 23:23:59	-->	Two_Dogs (~snak-kat@c-24-18-120-89.hsd1.wa.comcast.net) has joined ##linux
+2016-04-12 23:23:59	<--	Two_Dogs (~snak-kat@c-24-18-120-89.hsd1.wa.comcast.net) has quit (Changing host)
+2016-04-12 23:23:59	-->	Two_Dogs (~snak-kat@unaffiliated/almoxarife) has joined ##linux
+2016-04-12 23:24:21	<--	Lowl3v3l (~Lowl3v3l@ipservice-092-208-086-160.092.208.pools.vodafone-ip.de) has quit (Remote host closed the connection)
+2016-04-12 23:24:33	<--	rda (~rda@71.118.184.178) has quit (Remote host closed the connection)
+2016-04-12 23:24:33	pingfloyd	doesn't everyone use an mta at least for local mail?
+2016-04-12 23:24:37	<--	elementalest (~elemental@unaffiliated/elementalest) has quit (Read error: Connection reset by peer)
+2016-04-12 23:24:46	<--	mazelinux (~maze@139.226.16.48) has quit (Ping timeout: 248 seconds)
+2016-04-12 23:25:05	-->	Shentino (~Shentino@gentoo/contributor/shentino) has joined ##linux
+2016-04-12 23:25:06	dolvix	There once was a silly guy name Cymage // who thought being anti-google was all the rage // he'd suggest not using google say whatever not // His mind was in plot // He'd do best, back in the Ice Age
+2016-04-12 23:25:06	dave0x6d	Hmm, my pam.d is failing for some odd reason.
+2016-04-12 23:25:10	<--	jim (~jim@about/linux/staff/jim) has quit (Remote host closed the connection)
+2016-04-12 23:25:18	dolvix	There.. fuckin' OFF THE CUFF in REAL time for Cymage
+2016-04-12 23:25:19	dave0x6d	http://sprunge.us/WWFF
+2016-04-12 23:25:44	dave0x6d	yubikey succeeded, but su still gets denied
+2016-04-12 23:25:56	dave0x6d	Confused as to why it fails
+2016-04-12 23:25:56	cynicallemon	pingfloyd, local mta's are for lonely people :)
+2016-04-12 23:25:58	pingfloyd	dolvix: quit using google accounts :P
+2016-04-12 23:25:59	dolvix	ha!  somebody write a limerick to top that
+2016-04-12 23:26:03	-->	elementalest (~elemental@2001:44b8:411f:c600:9191:6684:c0e3:e0e) has joined ##linux
+2016-04-12 23:26:03	<--	elementalest (~elemental@2001:44b8:411f:c600:9191:6684:c0e3:e0e) has quit (Changing host)
+2016-04-12 23:26:03	-->	elementalest (~elemental@unaffiliated/elementalest) has joined ##linux
+2016-04-12 23:26:19	dolvix	pingfloyd: Ohh do tell bud, what do YOU use?
+2016-04-12 23:26:22	pingfloyd	cynicallemon: then how do you get your mail for root?
+2016-04-12 23:26:30	-->	Lowl3v3l (~Lowl3v3l@ipservice-092-208-086-160.092.208.pools.vodafone-ip.de) has joined ##linux
+2016-04-12 23:26:33	pingfloyd	dolvix: you know you can use google without creating an account
+2016-04-12 23:26:35	cynicallemon	:)
+2016-04-12 23:26:41	-->	b4b (~b4b@32.211.52.104) has joined ##linux
+2016-04-12 23:26:45	-->	SwiftMatt (~Objective@130.253.27.223) has joined ##linux
+2016-04-12 23:26:45	pingfloyd	dolvix: same with youtube
+2016-04-12 23:26:46	-->	mazelinux (~maze@139.226.130.236) has joined ##linux
+2016-04-12 23:26:52	Cymage	dolvix : im not anti-google.  i was just pointing out that there really isnt anything you can do about their tracking behaviour
+2016-04-12 23:27:03	-->	jerichodotm1 (~jerichodo@ip174-75-119-21.br.br.cox.net) has joined ##linux
+2016-04-12 23:27:03	-->	bigbadjesus (~WAT@unaffiliated/psidrome) has joined ##linux
+2016-04-12 23:27:03	<--	aregee (~aregee@103.47.64.86) has quit (Ping timeout: 240 seconds)
+2016-04-12 23:27:09	pingfloyd	dolvix: but if you want to build a profile of yourself for them, have at it
+2016-04-12 23:27:17	cynicallemon	pingfloyd, on a desktop a local mta serves little purpose
+2016-04-12 23:27:17	dave0x6d	Why would I be denied if yubikey returns a success?
+2016-04-12 23:27:18	toothe	Cymage: I spent a few months trying to get off of google products.
+2016-04-12 23:27:31	pingfloyd	cynicallemon: nonsense
+2016-04-12 23:27:32	toothe	I went to the extent of making my own email server and using non-google search engines.
+2016-04-12 23:27:49	Cymage	toothe : i do my part.  i block all of their ad trackers etc
+2016-04-12 23:27:49	dave0x6d	Why is pam_deny.so happening after a successful authentication?
+2016-04-12 23:27:50	toothe	in the end of I concluded that there isn't much I can do
+2016-04-12 23:28:04	toothe	Cymage: But, sites like facebook don't even require you to even have an acct.
+2016-04-12 23:28:06	pingfloyd	cynicallemon: where do you think getting alerted to certain things in logs happen?
+2016-04-12 23:28:08	dolvix	There once was a guy named pingfloyd // who thought he could get to the darkside by pinging astroids // he'd take another hit // but that wasn't it // He'd have nightmares of the thing Floyd
+2016-04-12 23:28:10	<--	karmahacker (~karmahack@unaffiliated/karmahacker) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:28:15	Cymage	toothe : true
+2016-04-12 23:28:17	dave0x6d	Doesn't the include line return success?
+2016-04-12 23:28:27	pingfloyd	cynicallemon: or do you have some silly ritual of checking your system logs daily?
+2016-04-12 23:28:34	<--	jerichodotm2 (~jerichodo@gateway/vpn/privateinternetaccess/jerichodotm) has quit (Ping timeout: 268 seconds)
+2016-04-12 23:28:34	dave0x6d	It isn't that not how it works?
+2016-04-12 23:28:35	toothe	Cymage: My company does cookie tracking. I didn't learn that until well into being there. I am slightly ashamed.
+2016-04-12 23:28:41	dolvix	pingfloyd: duh, yep i kinew I can use Google w/o an account.  it's just too convenient with their mail service.
+2016-04-12 23:28:42	cynicallemon	pingfloyd, well, ummm, ahh...
+2016-04-12 23:28:45	Cymage	toothe : lol
+2016-04-12 23:28:50	pingfloyd	dolvix: excuses
+2016-04-12 23:28:55	<--	coolthingy500 (~alistairm@d206-116-254-146.bchsia.telus.net) has quit (Quit: WeeChat 1.4)
+2016-04-12 23:28:59	-->	Bey0ndB1nary (~RD@159.220.78.18) has joined ##linux
+2016-04-12 23:29:01	pingfloyd	dolvix: your options are clear, but you want a magical cure
+2016-04-12 23:29:11	-->	tonythomas (uid25971@wikimedia/-01tonythomas) has joined ##linux
+2016-04-12 23:29:19	dave0x6d	Am I muted or something...?
+2016-04-12 23:29:24	cynicallemon	yes
+2016-04-12 23:29:24	toothe	so I'm really fascinated with NetBSD but can't find a practical use for it.
+2016-04-12 23:29:27	toothe	does it outperform Linux?
+2016-04-12 23:29:29	gry	dave0x6d: nope
+2016-04-12 23:29:39	cynicallemon	maybe
+2016-04-12 23:29:45	[R]	toothe: it would depend on your hardware and your workload
+2016-04-12 23:29:57	dolvix	pingfloyd: Dude, back off. I only mentioned one comment, I'm not bitching about that, that would require perseveration, and I'm not perspiring nor perseverating, so drop it and BE kind and move on.  remember Bill & Ted: Be EXCELLENT to one another!
+2016-04-12 23:29:59	<--	SailorHaumea (68381739@gateway/web/freenode/ip.104.56.23.57) has quit (Quit: Page closed)
+2016-04-12 23:30:01	nat0	why are you fascinated with netbsd?
+2016-04-12 23:30:09	[R]	toothe: and the pratical use for it is the same as any other os
+2016-04-12 23:30:12	[R]	toothe: to run programs
+2016-04-12 23:30:21	toothe	nat0: cuz its exotic and foreign and obscure.
+2016-04-12 23:30:21	cynicallemon	pingfloyd, your average user wouldn't check logs nor care about mail from root
+2016-04-12 23:30:25	<--	Kanjizai (~kanjizai@unaffiliated/kanjizai) has quit (Ping timeout: 268 seconds)
+2016-04-12 23:30:35	toothe	i know this is #Linux, but its after-hours where everything goes.
+2016-04-12 23:30:35	nat0	it is pretty obscure
+2016-04-12 23:30:36	Bsims	toothe: FreeBSD now has binary packages and a rudimentary apt clone that is at least on a par with what Debian had when I got started with it
+2016-04-12 23:30:42	dolvix	Maybe he likes NetBSD, nat0, WHY are you so fascinated with Linux?
+2016-04-12 23:30:46	 *	nat0 starts unbuttoning
+2016-04-12 23:30:47	dolvix	It goes both ways
+2016-04-12 23:30:52	pingfloyd	cynicallemon: you average user installs software from random sources and thinks AV protects them too
+2016-04-12 23:30:53	cynicallemon	nat0, netbsd do an excellent line in toasters
+2016-04-12 23:31:06	toothe	Cymage: see, that seems so absurd to me
+2016-04-12 23:31:08	[R]	toothe: after what hours?
+2016-04-12 23:31:10	dave0x6d	sudo does not work either.
+2016-04-12 23:31:15	toothe	who cares about running on a computer from 1930?
+2016-04-12 23:31:16	pingfloyd	cynicallemon: maybe set the bar higher than average?
+2016-04-12 23:31:19	dave0x6d	(dave0x6d) http://sprunge.us/WWFF
+2016-04-12 23:31:29	nat0	cynicallemon so they're the ones who get bsd to run on anything?
+2016-04-12 23:31:31	toothe	[R]: Only America counts...and if you disagree, we'll send our military to give you some "freedom"
+2016-04-12 23:31:37	-->	SailorHaumea (68381739@gateway/web/freenode/ip.104.56.23.57) has joined ##linux
+2016-04-12 23:31:40	<--	b4b (~b4b@32.211.52.104) has quit (Ping timeout: 264 seconds)
+2016-04-12 23:31:41	<--	Two_Dogs (~snak-kat@unaffiliated/almoxarife) has quit (Quit: Konversation terminated!)
+2016-04-12 23:31:46	cynicallemon	nat0, pretty much
+2016-04-12 23:31:50	dolvix	pingfloyd & cynicallemon  act like they're the enlightened ones and everyone else must be idiots.  THat's a terrible attitude to have.  There's always smarter people in the world.
+2016-04-12 23:31:58	pingfloyd	cynicallemon: also the average user doesn't even know what an operating system is
+2016-04-12 23:32:09	pingfloyd	dolvix: quit projecting
+2016-04-12 23:32:23	cynicallemon	dolvix, were all users
+2016-04-12 23:32:36	dave0x6d	How can I tell what part of my PAM is actually failing?
+2016-04-12 23:32:36	dolvix	pingfloyd: relax your anus, i'm not projecting, and have a sense of humor :P
+2016-04-12 23:32:48	<--	DaveWM (~DaveWM@unaffiliated/davewm) has quit (Remote host closed the connection)
+2016-04-12 23:32:49	pingfloyd	dolvix: "smarter people in the world", such a revelation!
+2016-04-12 23:32:57	dave0x6d	pam_yubico.so is saying the auth succeeded
+2016-04-12 23:33:04	-->	aregee (~aregee@103.47.64.86) has joined ##linux
+2016-04-12 23:33:05	dave0x6d	But using su or sudo fails
+2016-04-12 23:33:10	pingfloyd	dolvix: you're the one who won't drop it
+2016-04-12 23:33:10	toothe	its been maybe 2-3 years since I gave up Windows on any of my computers.
+2016-04-12 23:33:11	cynicallemon	now then ladies...
+2016-04-12 23:33:14	toothe	dave0x6d: Nice! You're using u2f?
+2016-04-12 23:33:15	pingfloyd	dolvix: heed your own advice
+2016-04-12 23:33:17	dave0x6d	I'm using this config. (dave0x6d) (dave0x6d) http://sprunge.us/WWFF
+2016-04-12 23:33:30	<--	clemf (~textual@c-50-139-41-170.hsd1.or.comcast.net) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2016-04-12 23:33:32	toothe	dave0x6d: u2f to authenticate into the computer?
+2016-04-12 23:33:33	dave0x6d	toothe: Close enough, yubicloud
+2016-04-12 23:33:36	dolvix	pingfloyd: Well, you said:   cynicallemon: you average user installs software from random sources and thinks AV protects them too
+2016-04-12 23:33:38	dolvix	THat
+2016-04-12 23:33:41	dave0x6d	toothe: remote server
+2016-04-12 23:33:43	toothe	dave0x6d: not that familiar with it.
+2016-04-12 23:33:45	toothe	ahh...
+2016-04-12 23:33:47	pingfloyd	dolvix: you got all butt hurt because someone told you that you can not use any google account if you don't want to be tracked
+2016-04-12 23:33:55	dolvix	That comes off with an air of condescension.
+2016-04-12 23:33:57	<--	ilCyx86_64 (~ilCyx86_6@ics154-57.icsincorporated.com) has quit (Read error: Connection reset by peer)
+2016-04-12 23:34:03	dave0x6d	toothe: well it's a PAM issue anyway, so it doesn't make a difference
+2016-04-12 23:34:10	toothe	dave0x6d: I've written a U2F implemtnation for django, fired it up on github...
+2016-04-12 23:34:12	toothe	ahh.
+2016-04-12 23:34:16	dave0x6d	It could just as well be U2F.
+2016-04-12 23:34:20	dolvix	pingfloyd: Nobody said to drop it.  We're having a debate, not an argument at this point.
+2016-04-12 23:34:25	pingfloyd	dolvix: now you're trying to rally the troops
+2016-04-12 23:34:32	-->	clemf (~textual@c-50-139-41-170.hsd1.or.comcast.net) has joined ##linux
+2016-04-12 23:34:32	dolvix	Learn how to debate without getting angry.
+2016-04-12 23:34:38	cynicallemon	pingfloyd, were tracked no matter what we do
+2016-04-12 23:34:45	-->	andihh (~andreas@45.42.30.70) has joined ##linux
+2016-04-12 23:34:45	Bsims	OMG I am old... I just realized I have been running Debian or FreeBSD for 16 years now
+2016-04-12 23:35:41	toothe	pingfloyd and dolvix settle down.
+2016-04-12 23:35:41	toothe	Bsims: About the same for me.
+2016-04-12 23:35:41	-->	linxon (~lin@178.205.132.90) has joined ##linux
+2016-04-12 23:35:41	cynicallemon	Bsims, im ancient then...
+2016-04-12 23:35:41	toothe	Bsims: i started running linux at kernel 2.0.
+2016-04-12 23:35:41	nat0	bsims freebsd for desktop?
+2016-04-12 23:35:41	<--	Sixmsj (~Sixmsj@c-73-223-134-226.hsd1.ca.comcast.net) has quit (Quit: Sixmsj)
+2016-04-12 23:35:41	dolvix	pingfloyd: this channel uses others' words against each other all the time.  I'm just stating what you said.  Not trying to rally the troops.  It was condescending.  I stand by it.
+2016-04-12 23:35:41	pingfloyd	cynicallemon: yeah, but it's about associating things.
+2016-04-12 23:35:41	-->	Two_Dogs (~snak-kat@unaffiliated/almoxarife) has joined ##linux
+2016-04-12 23:35:41	pingfloyd	cynicallemon: you're looking at things as binary
+2016-04-12 23:35:41	-->	Sixmsj (~Sixmsj@c-73-223-134-226.hsd1.ca.comcast.net) has joined ##linux
+2016-04-12 23:35:41	pingfloyd	cynicallemon: instead of degree
+2016-04-12 23:35:41	dolvix	Who is Toothe all of a sudden?
+2016-04-12 23:35:42	<--	Sixmsj (~Sixmsj@c-73-223-134-226.hsd1.ca.comcast.net) has quit (Client Quit)
+2016-04-12 23:35:48	<--	linxon (~lin@178.205.132.90) has quit (Client Quit)
+2016-04-12 23:35:52	-->	prbc (~prbc@131.252.200.49) has joined ##linux
+2016-04-12 23:36:01	toothe	I started running Linux when I got this free CD of Redhat that said it includes C++. Back then C++ was the language you could make an AOL punter in.
+2016-04-12 23:36:03	dave0x6d	Why would a login be denied if my module succeeded?
+2016-04-12 23:36:05	-->	linxon (~lin@178.205.132.90) has joined ##linux
+2016-04-12 23:36:12	Bsims	nat0: yeah, ZFS is awesome, and its actually as current if not more than Debian Testing
+2016-04-12 23:36:15	dave0x6d	Running su - user from root works
+2016-04-12 23:36:18	cynicallemon	pingfloyd, i look at things i like looking at
+2016-04-12 23:36:20	Cymage	toothe : lol
+2016-04-12 23:36:24	dave0x6d	But su - root from user fails
+2016-04-12 23:36:26	-->	Adran (adran@botters/staff/adran) has joined ##linux
+2016-04-12 23:36:37	<--	HiWEB (~HiWEB@c-71-197-230-219.hsd1.wa.comcast.net) has quit (Quit: Later - g33kOn)
+2016-04-12 23:36:50	dave0x6d	Even though the PAM module's debug output says it succeeded
+2016-04-12 23:36:53	Cymage	dave0x6d : add your user to wheel group
+2016-04-12 23:36:54	cynicallemon	Bsims, im still on the fence with zfs
+2016-04-12 23:36:54	-->	timotheus-booth (~timotheus@118.149.253.230) has joined ##linux
+2016-04-12 23:37:10	dolvix	ZFS has been around for quite awhile now.  Too bad it's not the default FS of choice in GNU/linux
+2016-04-12 23:37:22	toothe	dolvix: nooo, ZFS as the default choice?
+2016-04-12 23:37:26	toothe	ZFS is a memory hog.
+2016-04-12 23:37:33	Bsims	zfs on root is awesome and I've even ran it on 2 gigs of ram
+2016-04-12 23:37:34	Cymage	dave0x6d : also,  the password it wants when you su -   is the root password
+2016-04-12 23:37:41	pingfloyd	cynicallemon: if it's a binary criteria, then simply you must go off the grid completely to satisfy that criteria.
+2016-04-12 23:37:51	[R]	dolvix: its got licesngin issues... never gonna happen
+2016-04-12 23:37:51	toothe	Bsims: You can, but the good folks at #FreeNAS talk about it creating issues sometimes.
+2016-04-12 23:38:05	toothe	I currently run FreeNAS on about 3.5 gigs, but that's considered unstable.
+2016-04-12 23:38:09	dave0x6d	Cymage: No, it's not. Did you see my PAM config? (dave0x6d) I'm using this config. (dave0x6d) (dave0x6d) http://sprunge.us/WWFF
+2016-04-12 23:38:21	<--	mints (~mints@gateway/vpn/privateinternetaccess/mints) has quit (Ping timeout: 276 seconds)
+2016-04-12 23:38:23	-->	cryptonix2 (~no@94.242.57.162) has joined ##linux
+2016-04-12 23:38:23	<--	cryptonix2 (~no@94.242.57.162) has quit (Changing host)
+2016-04-12 23:38:23	-->	cryptonix2 (~no@unaffiliated/cryptonix2) has joined ##linux
+2016-04-12 23:38:28	Bsims	toothe: had less issues than with reiserFS or ext2 or ext3
+2016-04-12 23:38:35	-->	karmahacker (~karmahack@unaffiliated/karmahacker) has joined ##linux
+2016-04-12 23:38:41	toothe	Bsims: oh?
+2016-04-12 23:38:49	cynicallemon	toothe, 8GB is probably the default minimum in reality
+2016-04-12 23:38:55	toothe	Bsims: They recommend i think 1 gig per TB or so, i forgot.
+2016-04-12 23:39:15	<--	anishathalye (~anish@dhcp-18-189-123-182.dyn.MIT.EDU) has quit (Remote host closed the connection)
+2016-04-12 23:39:16	dolvix	Toothe: I find it hard to believe ZFS is a memory hog, as it runs on many xBSD servers where resources are needed.  You saying that you feel that BtrFS is a better choice?
+2016-04-12 23:39:22	cynicallemon	toothe, yeah 1GB per TB roughly
+2016-04-12 23:39:25	dave0x6d	Cymage: it's still failing.
+2016-04-12 23:39:26	-->	okee (~Okee@50-0-108-248.dsl.dynamic.sonic.net) has joined ##linux
+2016-04-12 23:39:40	Bsims	toothe: nothing really heavy but yeah, the 1 gig per TB is if you want prefetch and dedup etc
+2016-04-12 23:39:45	-->	zlinux_ (~zlinux@5.156.9.73) has joined ##linux
+2016-04-12 23:39:53	toothe	dolvix: I'm not that versed in FS types, but ZFS for an average user would be...unnecessarily taxing and heavey on the system
+2016-04-12 23:39:54	-->	anishathalye (~anish@pool-72-93-56-49.bstnma.east.verizon.net) has joined ##linux
+2016-04-12 23:40:53	toothe	having said that, I really like ZFS and run it on my FreeNAS box.
+2016-04-12 23:40:53	cynicallemon	toothe, zfs will use approx 80% of ram no matter how much u have
+2016-04-12 23:40:53	Cymage	dave0x6d : you added user to wheel?  you logged out and back in so the group change would take effect?
+2016-04-12 23:40:53	dolvix	Hello, to you too, [R] .. you came from out of nowhere to negatively acknowledge what I was mentioning.  Enlighten us with ZFS' licensing issues, if you will?
+2016-04-12 23:40:53	-->	sarmiena_ (~sarmiena_@ip68-111-76-188.oc.oc.cox.net) has joined ##linux
+2016-04-12 23:40:53	toothe	cynicallemon: ha!
+2016-04-12 23:40:53	dave0x6d	Cymage: Do you know what PAM is?
+2016-04-12 23:40:53	<--	severion (~bjozsa@cpe-71-75-151-252.carolina.res.rr.com) has quit (Read error: No route to host)
+2016-04-12 23:40:53	<--	zer0x (~zer0x@42.114.255.44) has quit (Quit: Leaving)
+2016-04-12 23:40:53	Bsims	I run ZFS on root in a VM with two gigs total with KDE as my gui
+2016-04-12 23:40:53	<--	sarmiena_ (~sarmiena_@ip68-111-76-188.oc.oc.cox.net) has quit (Client Quit)
+2016-04-12 23:40:53	Cymage	dave0x6d : which distro are we dealing with?
+2016-04-12 23:40:53	<--	sterniste (~sstern@213.219.166.119.adsl.dyn.edpnet.net) has quit (Quit: sterniste)
+2016-04-12 23:40:53	A124	I know what is the big thing in Linux and computing
+2016-04-12 23:40:53	A124	Tranparent tiered storage
+2016-04-12 23:40:53	-->	sterniste (~sstern@213.219.166.119.adsl.dyn.edpnet.net) has joined ##linux
+2016-04-12 23:40:54	-->	v1k0d3n (~bjozsa@cpe-71-75-151-252.carolina.res.rr.com) has joined ##linux
+2016-04-12 23:40:54	dolvix	toothe: That might be the case as I have only used ZFS in a few cases.
+2016-04-12 23:40:57	dave0x6d	If you don't know what PAM is, then yeah, you're not going to have a clue.
+2016-04-12 23:41:19	razzmc9	Pam is a bitch at my work
+2016-04-12 23:41:19	[R]	dolvix: what?
+2016-04-12 23:41:21	razzmc9	fuck Pam
+2016-04-12 23:41:21	dave0x6d	Cymage: Ubuntu 16.04. Again, I am trying to get a custom PAM going here.
+2016-04-12 23:41:26	-->	KurousagiMK2 (~Kurousagi@193.34.173.158) has joined ##linux
+2016-04-12 23:41:27	A124	Permissions authentication module?
+2016-04-12 23:41:32	<--	KurousagiMK2 (~Kurousagi@193.34.173.158) has quit (Remote host closed the connection)
+2016-04-12 23:41:34	dave0x6d	We have a winner!
+2016-04-12 23:41:37	Cymage	pluggable authentication module
+2016-04-12 23:41:40	cynicallemon	do we?
+2016-04-12 23:41:58	toothe	dolvix: FreeNAS has some nice form posts on this: https://forums.freenas.org/index.php?threads/zfs-memory-requirements.16874/
+2016-04-12 23:42:06	dave0x6d	Yes we do. I was answering the message below mine.
+2016-04-12 23:42:09	dolvix	[R]: Enlighten us about ZFS' licensing issues.  You purport to know
+2016-04-12 23:42:18	<--	zlinux (~zlinux@5.156.9.73) has quit (Ping timeout: 246 seconds)
+2016-04-12 23:42:26	dave0x6d	Cymage: (dave0x6d) I'm using this config. (dave0x6d) (dave0x6d) http://sprunge.us/WWFF
+2016-04-12 23:42:35	[R]	dolvix: or... you could just take the 5 seconds to read the wikipedia page...
+2016-04-12 23:42:37	dave0x6d	Open that.
+2016-04-12 23:42:38	[R]	i'm not about to quote it to you
+2016-04-12 23:42:39	-->	nevodka (~nevodka@c-24-56-227-195.customer.broadstripe.net) has joined ##linux
+2016-04-12 23:43:03	-->	Kanjizai (~kanjizai@unaffiliated/kanjizai) has joined ##linux
+2016-04-12 23:43:05	<--	pandabearit (~cam@unaffiliated/pandabearit) has quit (Quit: Leaving)
+2016-04-12 23:43:13	<--	diegoviola (~diego@unaffiliated/diegoviola) has quit (Quit: WeeChat 1.4)
+2016-04-12 23:43:15	-->	jim (~jim@about/linux/staff/jim) has joined ##linux
+2016-04-12 23:43:17	<--	keviv (~keviv@72-186-88-21.res.bhn.net) has quit (Quit: Leaving)
+2016-04-12 23:43:19	<--	benlieb (~benlieb@99-46-179-64.lightspeed.sntcca.sbcglobal.net) has quit (Quit: benlieb)
+2016-04-12 23:43:31	<--	tortib (~tortib@unaffiliated/tortib) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-04-12 23:43:31	<--	MalcolmReynolds (~ianmalcol@unaffiliated/ianmalcolm) has quit (Ping timeout: 248 seconds)
+2016-04-12 23:43:39	<--	RainmanNoodles (~RainmanNo@unaffiliated/rainmannoodles) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:43:44	dolvix	[R] Your snarkiness is not needed.  Don't speak until you're ready to be polite.  F-off
+2016-04-12 23:43:45	cynicallemon	the serious issue with zfs is that its an oracle product
+2016-04-12 23:43:49	[R]	dolvix: haha
+2016-04-12 23:43:58	<--	_909 (~tully@fl-184-4-141-82.dhcp.embarqhsd.net) has quit (Quit: WeeChat 1.1.1)
+2016-04-12 23:44:00	-->	zlinux (~zlinux@5.156.9.73) has joined ##linux
+2016-04-12 23:44:12	<--	patrick-stewart (~root@104.131.16.26) has quit (Ping timeout: 276 seconds)
+2016-04-12 23:44:17	-->	floatingpoint (~grill@unaffiliated/floatingpoint) has joined ##linux
+2016-04-12 23:44:18	<--	zlinux_ (~zlinux@5.156.9.73) has quit (Ping timeout: 250 seconds)
+2016-04-12 23:44:23	-->	a_python_guy (~pinsek@unaffiliated/xrosnight) has joined ##linux
+2016-04-12 23:44:24	Bsims	cynicallemon: only a problem in that it isn't GPL compatable
+2016-04-12 23:44:25	dolvix	Grow up, my sister has teenage boys who act more mature than you, [R]  -- EVERYTHING has to be a pissing contest with you, I see.
+2016-04-12 23:44:31	a_python_guy	do you use fail2ban?
+2016-04-12 23:44:31	<--	ToBeCloud (uid51591@wikimedia/ToBeFree) has quit (Quit: Connection closed for inactivity)
+2016-04-12 23:44:39	reisio	yeah, if it had a decent license, everybody would maintain it
+2016-04-12 23:44:41	<--	IanWizard (~IanWizard@unaffiliated/ianwizard) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:44:43	<--	blingrang (~bling@104.236.10.170) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:44:44	 *	[R] wonders what's wrong with this guy... you nkow... in the head
+2016-04-12 23:44:46	reisio	but it has a poop'n
+2016-04-12 23:44:57	[R]	reisio: FOR ME TO POOP ON
+2016-04-12 23:45:05	a_python_guy	why did my fail2ban does not work, even if i set them in `/etc/fail2ban/jail.local`
+2016-04-12 23:45:08	cynicallemon	Bsims, yes but we have seen how oracle abuses open source in the past
+2016-04-12 23:45:11	-->	IanMalcolm (~ianmalcol@unaffiliated/ianmalcolm) has joined ##linux
+2016-04-12 23:45:13	--	AKPWD is now known as AKP
+2016-04-12 23:45:20	a_python_guy	here's my problem: https://www.reddit.com/r/Wordpress/comments/4ejjuj/random_clients_keep_posting_data_to_xmlrcpphp_how/
+2016-04-12 23:45:20	Dominian	a_python_guy: fail2ban is umm.. it's ok.. I usually recommend OSSEC
+2016-04-12 23:45:30	a_python_guy	Random clients keep posting data to /xmlrcp.php, how to abandon them?
+2016-04-12 23:45:30	-->	IanWizard (~IanWizard@104.131.57.193) has joined ##linux
+2016-04-12 23:45:30	<--	IanWizard (~IanWizard@104.131.57.193) has quit (Changing host)
+2016-04-12 23:45:30	-->	IanWizard (~IanWizard@unaffiliated/ianwizard) has joined ##linux
+2016-04-12 23:45:34	<--	linuxuz3r (~linuxuz3r@107-210-170-22.lightspeed.sndgca.sbcglobal.net) has quit (Ping timeout: 260 seconds)
+2016-04-12 23:45:36	cynicallemon	i believe oracle has the rights to zfs and btrfs
+2016-04-12 23:45:37	--	AKP is now known as AKPWD
+2016-04-12 23:45:39	dave0x6d	ykclient returns success
+2016-04-12 23:45:58	dave0x6d	But
+2016-04-12 23:46:06	-->	Nightstaar (~Nightstaa@162-205-181-180.cpe.skymesh.net.au) has joined ##linux
+2016-04-12 23:46:08	dave0x6d	PAM says try again.
+2016-04-12 23:46:38	<--	licnep (uid4387@gateway/web/irccloud.com/x-ywptqbdmcnqwrldv) has quit (Quit: Connection closed for inactivity)
+2016-04-12 23:46:52	a_python_guy	Dominian: will that be easier?
+2016-04-12 23:47:19	-->	reev (~reev@123.63.166.181) has joined ##linux
+2016-04-12 23:47:22	Bsims	cynicallemon: Been open source for 10 years now just not GPLd
+2016-04-12 23:47:28	Dominian	a_python_guy: it might... OSSEC has a learning curve.. but I think it works better than fail2ban
+2016-04-12 23:47:35	Bsims	wish it was but it isn't
+2016-04-12 23:47:37	dave0x6d	Why can't my PAM config succeed?
+2016-04-12 23:47:38	reisio	[R]: mmm, poop
+2016-04-12 23:47:49	nat0	omg
+2016-04-12 23:47:51	<--	neouf (~neouf@88.191.151.123) has quit (Ping timeout: 264 seconds)
+2016-04-12 23:47:56	nat0	im almost out of triple sec
+2016-04-12 23:47:58	Cymage	dave0x6d : looks like you need prog called yubipam for buntu
+2016-04-12 23:48:03	<--	rhorama (~rhorama@cpe-174-101-171-25.cinci.res.rr.com) has quit (Ping timeout: 240 seconds)
+2016-04-12 23:48:10	dave0x6d	..........
+2016-04-12 23:48:25	a_python_guy	Dominian: im not a sysadmin pro, im a coder.... i only need to abandon some IPs using fail2ban... they keep cracking my WordPress pages...
+2016-04-12 23:48:28	-->	anishath_ (~anish@dhcp-18-189-123-182.dyn.mit.edu) has joined ##linux
+2016-04-12 23:48:42	dave0x6d	What module do you think I've been talking about this whole time?
+2016-04-12 23:48:43	cynicallemon	Cymage, ssshhhhh, dont say the *buntu word here
+2016-04-12 23:48:47	Dominian	I see
+2016-04-12 23:48:51	<--	aaro (~aaro@unaffiliated/xyox/x-040147) has quit (Read error: Connection reset by peer)
+2016-04-12 23:48:53	Dominian	a_python_guy: make sure that wordpress is up to date :)
+2016-04-12 23:49:00	dave0x6d	yubikey PAM succeeds
+2016-04-12 23:49:04	dave0x6d	PAM fails
+2016-04-12 23:49:06	dave0x6d	http://sprunge.us/WWFF
+2016-04-12 23:49:14	-->	RainmanNoodles (~RainmanNo@unaffiliated/rainmannoodles) has joined ##linux
+2016-04-12 23:49:16	nat0	a_python_guy are they hitting wp-config.php?
+2016-04-12 23:49:16	<--	Assailant_ (~Assailant@192.161.52.194) has quit (Read error: Connection reset by peer)
+2016-04-12 23:49:22	-->	benlieb (~benlieb@2602:306:32eb:3400:94bf:9c70:4233:331a) has joined ##linux
+2016-04-12 23:49:24	dave0x6d	My yubikey file is correct
+2016-04-12 23:49:32	a_python_guy	Dominian: but now i can not even open my wordpress pages.
+2016-04-12 23:49:33	-->	aaro (~aaro@unaffiliated/xyox/x-040147) has joined ##linux
+2016-04-12 23:49:39	<--	Kanjizai (~kanjizai@unaffiliated/kanjizai) has quit (Ping timeout: 260 seconds)
+2016-04-12 23:49:40	a_python_guy	nat0: https://www.reddit.com/r/Wordpress/comments/4ejjuj/random_clients_keep_posting_data_to_xmlrcpphp_how/
+2016-04-12 23:49:40	-->	calwig (~heliobox@unaffiliated/calwig) has joined ##linux
+2016-04-12 23:49:48	a_python_guy	they keep hitting "xmlrpc.php"
+2016-04-12 23:49:52	Dominian	a_python_guy: disable xmlrpc
+2016-04-12 23:50:01	-->	comingsoontm (~comingsoo@70.51.201.41) has joined ##linux
+2016-04-12 23:50:01	<--	reisio (~reisio@unaffiliated/reisio) has quit (Quit: Why iiiiissss his head so big!)
+2016-04-12 23:50:32	-->	coolthingy500 (~alistairm@d206-116-254-146.bchsia.telus.net) has joined ##linux
+2016-04-12 23:50:49	nat0	a_python_guy look here: https://wpoven.com/tutorials/nginx/how-to-protect-your-wordpress-site-from-brute-force-attacks-wordpress--nginx--fail2ban
+2016-04-12 23:50:51	Dominian	a_python_guy: if you don't need it, disable it
+2016-04-12 23:51:00	nat0	just the jail.conf section
+2016-04-12 23:51:03	<--	hunter2 (~hunter2@unaffiliated/hunter2) has quit (Ping timeout: 240 seconds)
+2016-04-12 23:51:24	<--	mastokley (~mastokley@209.210.157.165) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:51:25	<--	anishathalye (~anish@pool-72-93-56-49.bstnma.east.verizon.net) has quit (Ping timeout: 248 seconds)
+2016-04-12 23:51:27	nat0	er,. jail.{conf,local}
+2016-04-12 23:51:53	nat0	that'll protext xmlrpc.php and wp-login.php
+2016-04-12 23:51:54	<--	Two_Dogs (~snak-kat@unaffiliated/almoxarife) has quit (Quit: Konversation terminated!)
+2016-04-12 23:52:00	<--	aregee (~aregee@103.47.64.86) has quit (Ping timeout: 276 seconds)
+2016-04-12 23:52:07	<--	sorta (~fjajar@unaffiliated/sorta) has quit (Ping timeout: 252 seconds)
+2016-04-12 23:52:11	-->	elsevero (~elsevero@82.79.66.99) has joined ##linux
+2016-04-12 23:52:29	<--	comingsoontm_ (~comingsoo@70.51.201.41) has quit (Ping timeout: 244 seconds)
+2016-04-12 23:52:33	<--	lichenx1 (~lichen@67.21.188.132) has quit (Ping timeout: 240 seconds)
+2016-04-12 23:52:34	<--	bel3atar (bel3atar@gateway/shell/insomnia247/x-fkpnfqnhioxetlwa) has quit (Ping timeout: 260 seconds)
+2016-04-12 23:52:47	-->	s4ndm4n (~sandman@unaffiliated/sandman13) has joined ##linux
+2016-04-12 23:52:48	<--	s4ndm4n (~sandman@unaffiliated/sandman13) has quit (Max SendQ exceeded)
+2016-04-12 23:53:16	-->	s4ndm4n (~sandman@110.34.10.210) has joined ##linux
+2016-04-12 23:53:16	<--	s4ndm4n (~sandman@110.34.10.210) has quit (Changing host)
+2016-04-12 23:53:16	-->	s4ndm4n (~sandman@unaffiliated/sandman13) has joined ##linux
+2016-04-12 23:53:51	<--	profess (~profess@unaffiliated/csddesk) has quit (Ping timeout: 264 seconds)
+2016-04-12 23:53:59	<--	jim (~jim@about/linux/staff/jim) has quit (Remote host closed the connection)
+2016-04-12 23:54:00	<--	shantorn (~Shantorn@216-161-88-17.ptld.qwest.net) has quit (Quit: Leaving)
+2016-04-12 23:54:27	-->	Assailant (~Assailant@192.161.52.194) has joined ##linux
+2016-04-12 23:54:48	s4ndm4n	How hard is to setup Linux (Debian 8) on a laptop with UEFI? I want to have full disk encryption too
+2016-04-12 23:55:22	Lowl3v3l	s4ndm4n, wow what a... broad question.
+2016-04-12 23:55:26	s4ndm4n	Asking because I have no prior experience with both UEFI and full disk encryption.
+2016-04-12 23:55:48	Lowl3v3l	seriously noone but you can tell how difficult it is.
+2016-04-12 23:55:58	Lowl3v3l	and however you want to measure difficulty^^
+2016-04-12 23:56:10	b1101	it's easy
+2016-04-12 23:56:28	-->	profess (~profess@unaffiliated/csddesk) has joined ##linux
+2016-04-12 23:56:39	<--	a3Dman (~3Dman@unaffiliated/a3dman) has quit (Ping timeout: 246 seconds)
+2016-04-12 23:57:02	[R]	s4ndm4n: try it and see... it should "just work"... if not, try something more efi friednly like fedora or ubuntu
+2016-04-12 23:57:02	b1101	especially since it's all done through a gui
+2016-04-12 23:57:04	s4ndm4n	Guess I have to try
+2016-04-12 23:57:11	-->	nkambo (~naresh@49.156.159.34) has joined ##linux
+2016-04-12 23:57:14	-->	jim (~jim@about/linux/staff/jim) has joined ##linux
+2016-04-12 23:57:19	s4ndm4n	Thanks anyone
+2016-04-12 23:57:23	s4ndm4n	*everyone
+2016-04-12 23:57:26	dolvix	UEFI is a bitch and I HATE UEFI.. why not try googling some answers?
+2016-04-12 23:57:32	nat0	s4ndm4n http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/
+2016-04-12 23:57:41	nat0	just swap deboostrap for pacstrap
+2016-04-12 23:58:03	nat0	that'll encrypt /boot too
+2016-04-12 23:58:09	s4ndm4n	Let me give it a shot
+2016-04-12 23:58:14	-->	b0s3d (~b0s3d@unaffiliated/b00s3d) has joined ##linux
+2016-04-12 23:58:33	nat0	i think i'm better at tech support when i'm drunk
+2016-04-12 23:58:44	<--	murrayn (~murrayn__@unaffiliated/murrayn) has quit (Read error: Connection reset by peer)
+2016-04-12 23:58:45	nat0	how do i convince my employer of this?
+2016-04-12 23:58:52	b0s3d	this is weird.. after adding "VisualHostKey=yes" to /etc/ssh/sshd_config and restarting sshd, i can't seams to login.. any ideas?
+2016-04-12 23:58:56	<--	Zenghui (~Zenghui@45.32.92.225) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-04-12 23:58:56	nils_	nat0, show up drunk.
+2016-04-12 23:58:57	pingfloyd	it's like how some people think they can drive better when they're drunk
+2016-04-12 23:58:58	clarjon1	I managed to get Uefi to play nice for me
+2016-04-12 23:59:14	nat0	nils_ this is a compelling idea
+2016-04-12 23:59:17	[R]	of course you did... cuz uefi is great
+2016-04-12 23:59:21	nils_	nat0, drunk one week, sober the next.
+2016-04-12 23:59:28	-->	notze (~notze@p5DC6D30A.dip0.t-ipconnect.de) has joined ##linux
+2016-04-12 23:59:31	-->	tux|dude (~tuxdude14@122-59-81-50.jetstream.xtra.co.nz) has joined ##linux
+2016-04-12 23:59:33	clarjon1	it was really easy too,just wrote a 4 line file in the right partition, and bam, arch booted
+2016-04-12 23:59:33	dolvix	And it's like how some people think Pink Floyd sounds better when they're high.
+2016-04-12 23:59:35	nat0	keep 'em on their feet ;)
+2016-04-12 23:59:37	nils_	nat0, single-blind crossover study
+2016-04-12 23:59:59	nat0	i will report back in a fortnight!
+2016-04-13 00:00:13	[R]	clarjon1: you shoudl'nt have to write any files...
+2016-04-13 00:00:29	<--	kevin____ (48c25f55@gateway/web/freenode/ip.72.194.95.85) has quit (Quit: Page closed)
